@@ -1,10 +1,4 @@
-﻿Table;3;2017-10-23T14:28:13;jhoek;Just because
-Table;4;2017-10-24T10:55:57;jhoek;reden
-Table;5;2017-10-24T11:01:45;jhoek;ghfghfg
-Table;6;2017-10-24T11:02:15;jhoek;
-Table;7;2017-10-24T11:02:15;jhoek;
-Table;8;2017-10-24T11:09:33;jhoek;
-Codeunit;5;2017-11-10T11:29:48;jhoek;testing
+﻿Codeunit;5;2017-11-10T11:29:48;jhoek;testing
 Codeunit;6;2017-12-05T14:43:18;jhoek;
 Codeunit;7;2017-12-05T14:46:09;jhoek;
 Page;8;2017-12-05T14:47:00;jhoek;
