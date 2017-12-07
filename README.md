@@ -4,6 +4,7 @@ Do not modify reservations.txt by hand; use the PowerShell module instead!
 
 ## Installation
 - Make sure you have a GitHub account that is associated with the Mprise Indigo organization;
+- Make sure you have a working Git installation on your machine;
 - Clone https://github.com/mprise-indigo/ObjectIDReservations to your machine;
 - Download the latest release from https://github.com/jhoek/UncommonSense.Nav.ObjectIDReservations to a folder called `UncommonSense.Nav.ObjectIDReservations` in your PowerShell module path;
 - Add default values to your PowerShell profile for the following parameters:
