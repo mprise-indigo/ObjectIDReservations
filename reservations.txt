@@ -5,3 +5,4 @@ Table;11268590;2018-02-06T11:06:06;tversluis;
 Page;11268590;2018-02-06T11:06:23;tversluis;
 Codeunit;11151230;2018-02-06T11:08:39;wkleemans;
 Table;11151149;2018-02-06T11:09:38;wkleemans;
+MenuSuite;5;2018-02-06T11:11:57;tversluis;
