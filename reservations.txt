@@ -7,3 +7,4 @@ Codeunit;11151230;2018-02-06T11:08:39;wkleemans;
 Table;11151149;2018-02-06T11:09:38;wkleemans;
 Codeunit;11268590;2018-02-06T11:21:08;tversluis;
 Codeunit;11268591;2018-02-06T11:22:27;tversluis;
+Table;11151538;2018-02-07T14:20:56;adkorte;UPG IA Genus Feature Value
