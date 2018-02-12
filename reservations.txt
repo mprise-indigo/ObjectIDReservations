@@ -10,3 +10,4 @@ Table;11151536;2018-02-09T09:16:46;wkleemans;
 Table;11151535;2018-02-09T09:16:46;wkleemans;
 Table;11151534;2018-02-09T09:16:46;wkleemans;
 Codeunit;11151473;2018-02-09T13:47:31;glind;PBI 5293 Feature to Genus functies
+Codeunit;11151399;2018-02-12T08:40:53;jhoek;
