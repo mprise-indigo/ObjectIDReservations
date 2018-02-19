@@ -15,3 +15,4 @@ Page;11268494;2018-02-15T14:43:36;adkorte;IA Section Card
 Codeunit;11151474;2018-02-16T09:22:19;wkleemans;
 Codeunit;11151054;2018-02-19T09:34:41;wkleemans;
 Table;11151150;2018-02-19T10:03:47;glind;PBI5687 Safety Lead Time Preferences
+Page;11268495;2018-02-19T10:05:57;glind;PBI5687 Safety Lead Time Preferences
