@@ -9,3 +9,4 @@ Table;11151198;2018-03-05T10:20:19;jhoek;Lot Consumption Tolerance Preference
 Page;11151062;2018-03-05T10:24:20;jhoek;Lot Consumption Tolerance Preferences
 Codeunit;11151477;2018-03-05T10:37:14;jhoek;
 Codeunit;11151505;2018-03-05T14:30:48;jhoek;Job St. Qty. Rounding Pref. codeunit
+Codeunit;11151506;2018-03-06T07:46:58;glind;PBI5027 Scenario to Blanket Order
