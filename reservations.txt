@@ -1,13 +1,1 @@
-﻿Codeunit;11268545;2018-03-02T10:10:41;tversluis;
-Table;11268545;2018-03-02T10:10:54;tversluis;
-Page;11268545;2018-03-02T10:11:01;tversluis;
-Codeunit;11151478;2018-03-05T09:46:04;adkorte;PBI 2841
-Codeunit;11151399;2018-03-05T10:04:44;jhoek;Output Item Preference codeunit
-Table;11151151;2018-03-05T09:49:18;adkorte;PBI 2841 Lot Consumption Tolerance
-Page;11268497;2018-03-05T09:49:47;adkorte;PBI 2841 Lot Consumption Tolerance
-Table;11151198;2018-03-05T10:20:19;jhoek;Lot Consumption Tolerance Preference
-Page;11151062;2018-03-05T10:24:20;jhoek;Lot Consumption Tolerance Preferences
-Codeunit;11151477;2018-03-05T10:37:14;jhoek;
-Codeunit;11151505;2018-03-05T14:30:48;jhoek;Job St. Qty. Rounding Pref. codeunit
-Codeunit;11151506;2018-03-06T07:46:58;glind;PBI5027 Scenario to Blanket Order
-Codeunit;11151507;2018-03-08T14:26:34;wkleemans;PBI 6065
+﻿Codeunit;11151507;2018-03-08T14:26:34;wkleemans;PBI 6065
