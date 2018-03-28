@@ -3,3 +3,4 @@ Codeunit;11151511;2018-03-21T13:51:48;adkorte;PBI 5007
 Codeunit;11151534;2018-03-22T10:44:58;wkleemans;PBI 5005
 Table;11151522;2018-03-22T13:45:13;wkleemans;
 Table;11151156;2018-03-26T13:38:41;glind;UPG Production Preference
+Table;11151157;2018-03-28T11:04:30;glind;UPG Production Scheme
