@@ -7,3 +7,4 @@ Codeunit;11151514;2018-04-05T14:29:59;tversluis;
 Codeunit;11151515;2018-04-05T14:30:40;tversluis;
 Codeunit;11151516;2018-04-06T15:15:47;jhoek;
 Table;11151520;2018-04-10T10:24:55;tversluis;
+Codeunit;11151459;2018-04-20T08:45:49;jhoek;Create/delete EventSubscribers webservice
