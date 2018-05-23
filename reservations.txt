@@ -31,3 +31,4 @@ Table;11151156;2018-05-15T08:49:41;jhoek;
 Codeunit;11151517;2018-05-17T13:30:16;wkleemans;PBI 6684
 Codeunit;11151518;2018-05-17T16:03:53;glind;PBI4470 Item Hybrid Properties
 Table;11151529;2018-05-18T07:55:30;adkorte;PBI 6750
+Table;11268554;2018-05-23T12:22:40;glind;PBI7461 Production Contract Template No. Series
