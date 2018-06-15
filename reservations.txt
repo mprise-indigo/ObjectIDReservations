@@ -47,3 +47,4 @@ Page;11268546;2018-06-11T08:25:46;glind;PBI7815 Partij-eigenschapvoorkeuren
 Table;11151208;2018-06-11T08:33:11;glind;PBI7815 Partij-eigenschapvoorkeur
 Codeunit;11268569;2018-06-11T10:31:56;glind;PBI7815 Job Property Preference Property Subscription
 Report;11151053;2018-06-14T12:22:00;glind;BUG8157 Conversierapport
+Table;11151228;2018-06-15T10:40:59;adkorte;PBI 7341
