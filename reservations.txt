@@ -57,3 +57,6 @@ Codeunit;11268466;2018-06-15T14:44:29;wkleemans;PBI 8140
 Table;11151157;2018-06-19T08:56:42;jhoek;T.b.v. test
 Table;11151209;2018-06-19T18:09:18;jhoek;For test
 Table;11151274;2018-06-19T21:06:42;jhoek;For test
+Report;11151054;2018-06-19T21:35:21;jhoek;For test
+Report;11151055;2018-06-19T21:35:21;jhoek;For test
+Report;11151056;2018-06-19T21:35:21;jhoek;For test
