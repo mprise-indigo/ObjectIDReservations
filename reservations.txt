@@ -1,24 +1,8 @@
-﻿Page;11268504;2018-04-05T12:54:17;tversluis;
-Table;11151162;2018-04-05T13:07:42;tversluis;
-Codeunit;11151505;2018-04-05T13:08:15;tversluis;
-Codeunit;11151512;2018-04-05T14:28:10;tversluis;
-Codeunit;11151513;2018-04-05T14:28:51;tversluis;
-Codeunit;11151514;2018-04-05T14:29:59;tversluis;
-Codeunit;11151515;2018-04-05T14:30:40;tversluis;
-Codeunit;11151516;2018-04-06T15:15:47;jhoek;
-Table;11151520;2018-04-10T10:24:55;tversluis;
+﻿Codeunit;11151516;2018-04-06T15:15:47;jhoek;
 Codeunit;11151459;2018-04-20T08:45:49;jhoek;Create/delete EventSubscribers webservice
 Table;11151538;2018-04-23T12:48:35;wkleemans;
 Table;11151163;2018-04-23T15:42:21;glind;UPG Multiplication Factor Pref
 Table;11151537;2018-04-23T15:51:26;adkorte;UPG Safety Lead Time Preference
-Table;11268576;2018-04-23T21:46:41;tversluis;
-Table;11268577;2018-04-23T21:46:51;tversluis;
-Table;11268578;2018-04-23T21:47:06;tversluis;
-Page;11268586;2018-04-23T21:52:23;tversluis;
-Page;11268587;2018-04-23T21:52:32;tversluis;
-Page;11268588;2018-04-23T21:52:44;tversluis;
-Page;11268589;2018-04-25T13:46:37;tversluis;
-Page;11268591;2018-04-25T13:47:12;tversluis;
 Table;11151536;2018-04-30T11:41:07;wkleemans;PBI 7322
 Table;11151535;2018-04-30T11:41:31;wkleemans;PBI 7326
 Table;11151534;2018-04-30T11:41:51;wkleemans;PBI 7330
