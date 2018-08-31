@@ -48,3 +48,4 @@ Page;11268519;2018-08-24T15:28:24;adkorte;PBI 8328
 Codeunit;11268575;2018-08-27T11:04:12;adkorte;PBI 8328
 Codeunit;11268576;2018-08-30T08:56:44;glind;Weekly Time Sheet
 Codeunit;11268577;2018-08-30T08:56:55;glind;Weekly Time Sheet
+Codeunit;11268529;2018-08-31T11:18:18;adkorte;Daily Time Sheet Fact
