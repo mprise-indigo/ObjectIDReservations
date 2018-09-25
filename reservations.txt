@@ -73,3 +73,4 @@ Codeunit;11268578;2018-09-17T12:24:25;adkorte;PBI 9119
 Codeunit;11268579;2018-09-17T12:24:25;adkorte;PBI 9119
 Codeunit;11268581;2018-09-20T12:52:06;wkleemans;PBI 9494
 Codeunit;11268582;2018-09-21T09:36:45;jhoek;Hashtable wrapper codeunit
+Codeunit;11268583;2018-09-25T10:30:53;adkorte;BI Working Time Type Dim.
