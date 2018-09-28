@@ -83,3 +83,4 @@ Codeunit;11268589;2018-09-26T15:40:36;adkorte;Nieuwe dimensies voor tijdregistra
 Codeunit;11268595;2018-09-26T15:42:59;adkorte;Nieuwe dimensies voor tijdregistratie
 Codeunit;11268600;2018-09-27T16:00:10;glind;Resource Roster functies
 Page;11268523;2018-09-28T15:34:57;glind;Working Time Schedule Lines
+Page;11268524;2018-09-28T15:35:40;glind;Rounding Scheme Lines
