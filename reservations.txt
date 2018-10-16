@@ -86,3 +86,4 @@ Page;11268524;2018-09-28T15:35:40;glind;Rounding Scheme Lines
 Codeunit;11268596;2018-10-04T13:11:13;adkorte;Status BI Entities Types
 Codeunit;11268595;2018-10-08T06:45:49;wkleemans;PBI 9726
 Codeunit;11268597;2018-10-11T12:14:19;wkleemans;PBI 9365
+Codeunit;11268598;2018-10-16T13:56:45;wkleemans;PBI9806
