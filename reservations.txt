@@ -89,3 +89,4 @@ Codeunit;11268597;2018-10-11T12:14:19;wkleemans;PBI 9365
 Codeunit;11268598;2018-10-16T13:56:45;wkleemans;PBI9806
 Codeunit;11269012;2018-11-05T10:52:15;wkleemans;PBI 9896
 Codeunit;11268601;2018-11-05T13:58:34;glind;PBI9367 Production Request Event Hub
+Codeunit;11268602;2018-11-05T13:58:50;glind;PBI9367 Production Contract Event Hub
