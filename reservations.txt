@@ -26,3 +26,13 @@ Codeunit;11269031;2018-11-22T13:43:11;tversluis;
 Codeunit;11269032;2018-11-22T13:43:42;tversluis;
 Codeunit;11269033;2018-11-22T13:44:19;tversluis;
 Page;11268527;2018-11-23T06:40:36;tversluis;
+Codeunit;11268604;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268605;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268606;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268607;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268608;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268609;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268610;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268611;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268612;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
+Codeunit;11268613;2018-11-25T16:53:55;adkorte;PBI 9285 splitsen productie planning
