@@ -50,3 +50,5 @@ Table;11151209;2018-12-03T09:04:21;adkorte;PBI 10443 Plant Health Document Heade
 Page;11268533;2018-12-03T09:26:52;adkorte;PBI 10443 Plant Health Document Header list
 Table;11151234;2018-12-03T09:44:47;adkorte;PBI 10443 Plant Health Code
 Page;11268534;2018-12-03T09:44:47;adkorte;PBI 10443 Plant Health Code
+Table;11151236;2018-12-03T10:22:36;adkorte;PBI 10443 Disease
+Page;11268535;2018-12-03T10:22:37;adkorte;PBI 10443 Disease
