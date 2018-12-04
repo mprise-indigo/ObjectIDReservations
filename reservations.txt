@@ -66,3 +66,5 @@ Page;11268540;2018-12-04T08:13:41;adkorte;PBI 10436 Plant Health Requirement Tem
 Codeunit;11268616;2018-12-04T10:23:18;adkorte;PBI BI Dimension Inspectiekop
 Table;11151243;2018-12-04T12:32:12;adkorte;PBI 10436 Prod Contract Plant Health Requirement Lines
 Page;11268541;2018-12-04T12:32:13;adkorte;PBI 10436 Prod Contract Plant Health Requirement Lines
+Table;11151244;2018-12-04T13:47:19;adkorte;PBI 10436 Prod Contract Template Plant Health Requirement Lines
+Page;11268542;2018-12-04T13:47:19;adkorte;PBI 10436 Prod Contract Template Plant Health Requirement Lines
