@@ -71,3 +71,4 @@ Page;11268542;2018-12-04T13:47:19;adkorte;PBI 10436 Prod Contract Template Plant
 Table;11151245;2018-12-05T08:48:16;adkorte;PBI 10443 Plant Health Document setup
 Page;11268543;2018-12-05T08:48:16;adkorte;PBI 10443 Plant Health Document setup
 Page;11268544;2018-12-05T09:51:15;adkorte;PBI 10443 Lot selection Page
+Codeunit;11268617;2018-12-05T10:25:52;adkorte;PBI 10443 Lot selection Page
