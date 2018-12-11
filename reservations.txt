@@ -36,3 +36,4 @@ Codeunit;11268617;2018-12-05T10:25:52;adkorte;PBI 10443 Lot selection Page
 Codeunit;11268618;2018-12-10T15:15:23;adkorte;TS10436 apply PH template
 Codeunit;11269030;2018-12-11T07:24:26;tversluis;
 Table;11269008;2018-12-11T07:25:07;tversluis;
+Page;11269008;2018-12-11T07:25:15;tversluis;
