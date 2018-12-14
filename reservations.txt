@@ -48,3 +48,4 @@ Page;11269010;2018-12-11T13:33:22;tversluis;
 Table;11151249;2018-12-12T11:06:50;adkorte;TS10526 posting of plant health documetns
 Codeunit;11268622;2018-12-12T11:46:43;adkorte;TS10526 posting of plant health documetns
 Codeunit;11268623;2018-12-13T13:00:03;glind;PBI 10613
+Table;12269012;2018-12-14T11:58:05;wkleemans;PBI9896 actions on Changing Filtersetup
