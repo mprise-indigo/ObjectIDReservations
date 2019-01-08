@@ -10,3 +10,4 @@ Page;11268531;2018-12-19T19:51:44;adkorte;PBI 10612
 Codeunit;11269020;2018-12-27T09:56:22;tversluis;
 Codeunit;11269021;2018-12-27T09:56:41;tversluis;
 Table;11151538;2019-01-04T10:07:34;adkorte;Upgrade table for production contract
+Codeunit;11268572;2019-01-08T07:33:05;tversluis;
