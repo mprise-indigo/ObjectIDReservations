@@ -25,3 +25,4 @@ Codeunit;11268631;2019-01-18T15:23:20;adkorte;Splitting Production forecast fact
 Codeunit;11268632;2019-01-18T15:23:20;adkorte;Splitting Production forecast fact
 Codeunit;11268633;2019-01-18T15:23:20;adkorte;Splitting Production forecast fact
 Codeunit;11268634;2019-01-18T15:23:20;adkorte;Splitting Production forecast fact
+Table;11151250;2019-01-24T11:54:34;wkleemans;PBI 9928
