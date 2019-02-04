@@ -50,3 +50,6 @@ Page;11268600;2019-01-29T14:26:26;glind;PBI 10072 Lot Filter Set
 Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Table;11151255;2019-02-01T07:17:58;wkleemans;PBI 9928
 Codeunit;11268637;2019-02-01T13:12:59;adkorte;PBI10608 Undo Posting codeunit
+Table;11151311;2019-02-04T12:26:16;glind;PBI 10072 Lot Filter Providers
+Table;11151312;2019-02-04T12:26:16;glind;PBI 10072 Lot Filter Providers
+Table;11151313;2019-02-04T12:26:16;glind;PBI 10072 Lot Filter Providers
