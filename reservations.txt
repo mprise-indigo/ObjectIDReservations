@@ -59,3 +59,4 @@ Page;11268603;2019-02-04T12:27:07;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268638;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268639;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268640;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
+Codeunit;11268641;2019-02-05T11:44:32;adkorte;PBI10608
