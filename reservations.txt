@@ -61,3 +61,9 @@ Codeunit;11268639;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268640;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268641;2019-02-05T11:44:32;adkorte;PBI10608
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
+Table;11151314;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
+Table;11151315;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
+Table;11151316;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
+Page;11268604;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
+Page;11268605;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
+Page;11268606;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
