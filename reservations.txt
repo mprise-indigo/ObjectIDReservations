@@ -7,11 +7,7 @@ Page;11268593;2018-12-17T12:25:00;adkorte;10526 Pages for posting routine plant 
 Page;11268594;2018-12-17T12:25:00;adkorte;10526 Pages for posting routine plant health
 Page;11268595;2018-12-17T12:25:00;adkorte;10526 Pages for posting routine plant health
 Page;11268531;2018-12-19T19:51:44;adkorte;PBI 10612
-Codeunit;11269020;2018-12-27T09:56:22;tversluis;
-Codeunit;11269021;2018-12-27T09:56:41;tversluis;
 Table;11151538;2019-01-04T10:07:34;adkorte;Upgrade table for production contract
-Codeunit;11268572;2019-01-08T07:33:05;tversluis;
-Codeunit;11268624;2019-01-11T11:51:55;tversluis;
 Table;11268468;2019-01-14T13:20:20;wkleemans;PBI 10890
 Page;11268529;2019-01-14T13:21:57;wkleemans;PBI 10890
 Codeunit;11197796;2019-01-17T11:36:22;jhoek;TS10962
@@ -31,10 +27,6 @@ Page;11268548;2019-01-24T13:19:57;wkleemans;PBI 9928
 Page;11268549;2019-01-24T13:20:11;wkleemans;PBI 9928
 Page;11268558;2019-01-24T14:21:15;wkleemans;PBI 9928
 Codeunit;11268635;2019-01-25T07:03:29;wkleemans;PBI 9928
-Codeunit;11197797;2019-01-25T10:20:17;tversluis;
-Codeunit;11197798;2019-01-25T10:20:23;tversluis;
-Codeunit;11197799;2019-01-25T10:20:29;tversluis;
-Codeunit;11197801;2019-01-25T10:20:35;tversluis;
 Report;11151041;2019-01-25T13:42:30;wkleemans;PBI 9928
 Table;11151252;2019-01-28T10:35:49;glind;PBP 10072 Lot Filter Setup
 Table;11151253;2019-01-28T10:35:49;glind;PBP 10072 Lot Filter Setup
