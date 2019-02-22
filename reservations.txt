@@ -54,3 +54,4 @@ Page;11268993;2019-02-20T08:14:01;glind;PBI11177
 Page;11268994;2019-02-20T10:14:50;glind;PBI11177
 Report;11151075;2019-02-21T07:53:52;adkorte;replacement for report 11151044 which was in use in 10.07
 Codeunit;11197817;2019-02-22T13:51:21;jhoek;IA EBF Instruction Mgt.
+Codeunit;11268644;2019-02-22T13:54:43;glind;Lot Filter Set Preference
