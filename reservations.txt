@@ -59,3 +59,4 @@ Codeunit;11197816;2019-02-22T15:01:46;jhoek;IA EBF Feature to Genus Mgt.
 Codeunit;11197815;2019-02-22T15:17:36;jhoek;IA EBF Charge Mgt.
 Codeunit;11197814;2019-02-22T15:26:48;jhoek;IA EBF VMP Put Order
 Codeunit;11197813;2019-02-25T13:27:32;jhoek;
+Table;11151257;2019-02-25T16:04:04;glind;PBI10727
