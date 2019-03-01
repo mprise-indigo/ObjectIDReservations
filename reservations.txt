@@ -69,3 +69,4 @@ Codeunit;11268647;2019-02-28T09:51:55;tversluis;
 Page;11268656;2019-02-28T11:32:16;adkorte;Time registration approval per line
 Codeunit;11197810;2019-02-28T15:39:18;jhoek;IA EBF Cust-Check Cr. Limit
 Codeunit;11197873;2019-02-28T22:31:44;tversluis;
+Codeunit;11197809;2019-03-01T09:10:10;jhoek;IA EBF Page Management
