@@ -151,3 +151,4 @@ TableExtension;11197783;2019-03-18T09:09:34;jhoek;
 TableExtension;11197784;2019-03-18T09:09:34;jhoek;
 TableExtension;11197785;2019-03-18T09:09:34;jhoek;
 TableExtension;11197786;2019-03-18T09:09:34;jhoek;
+Codeunit;11268649;2019-03-20T15:21:31;adkorte;Time Registration Classification Dimension
