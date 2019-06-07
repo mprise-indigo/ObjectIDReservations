@@ -29,24 +29,6 @@ Table;11151316;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
 Page;11268604;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Page;11268605;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Page;11268606;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
-Codeunit;11268650;2019-02-12T09:04:47;tversluis;8537
-Table;11268650;2019-02-12T09:05:05;tversluis;8537
-Page;11268650;2019-02-12T09:05:13;tversluis;8537
-Codeunit;11268651;2019-02-12T09:05:19;tversluis;8537
-Table;11268651;2019-02-12T09:05:25;tversluis;8537
-Page;11268651;2019-02-12T09:05:31;tversluis;8537
-Codeunit;11268652;2019-02-12T09:05:37;tversluis;8537
-Table;11268652;2019-02-12T09:05:50;tversluis;8537
-Page;11268652;2019-02-12T09:06:00;tversluis;8537
-Codeunit;11268653;2019-02-12T09:06:08;tversluis;8537
-Table;11268653;2019-02-12T09:06:14;tversluis;8537
-Page;11268653;2019-02-12T09:06:20;tversluis;8537
-Codeunit;11268654;2019-02-12T09:06:26;tversluis;8537
-Table;11268654;2019-02-12T09:06:32;tversluis;8537
-Page;11268654;2019-02-12T09:06:37;tversluis;8537
-Codeunit;11268655;2019-02-12T09:06:44;tversluis;8537
-Table;11268655;2019-02-12T09:06:50;tversluis;8537
-Page;11268655;2019-02-12T09:06:55;tversluis;8537
 Codeunit;11268643;2019-02-14T13:15:51;wkleemans;PBI 11075
 Report;11151044;2019-02-18T11:22:58;adkorte;PBI11007
 Page;11268992;2019-02-20T08:14:01;glind;PBI11177
@@ -64,24 +46,9 @@ Page;11268607;2019-02-25T16:05:29;glind;PBI10727
 Codeunit;11197812;2019-02-25T20:35:16;jhoek;
 Codeunit;11197811;2019-02-26T11:03:38;jhoek;IA EBF Quote Header Facade
 Codeunit;11268645;2019-02-26T16:08:27;glind;PBI10727
-Codeunit;11268646;2019-02-27T16:08:31;tversluis;
 Page;11268656;2019-02-28T11:32:16;adkorte;Time registration approval per line
 Codeunit;11197810;2019-02-28T15:39:18;jhoek;IA EBF Cust-Check Cr. Limit
-Codeunit;11197873;2019-02-28T22:31:44;tversluis;
 Codeunit;11197809;2019-03-01T09:10:10;jhoek;IA EBF Page Management
-Codeunit;11268657;2019-03-02T10:50:37;tversluis;
-Codeunit;11268658;2019-03-02T10:50:43;tversluis;
-Codeunit;11268659;2019-03-02T10:50:49;tversluis;
-Codeunit;11268660;2019-03-02T10:50:55;tversluis;
-Codeunit;11268661;2019-03-02T10:51:12;tversluis;
-Codeunit;11268662;2019-03-02T10:51:18;tversluis;
-Codeunit;11268663;2019-03-02T10:51:24;tversluis;
-Codeunit;11268664;2019-03-02T10:51:29;tversluis;
-Codeunit;11268665;2019-03-02T10:51:35;tversluis;
-Codeunit;11268666;2019-03-02T10:51:41;tversluis;
-Codeunit;11268667;2019-03-02T10:51:47;tversluis;
-Codeunit;11268668;2019-03-02T10:51:53;tversluis;
-Codeunit;11268669;2019-03-02T10:51:58;tversluis;
 Codeunit;11197802;2019-03-04T16:23:19;glind;PBI 9318
 Codeunit;11268647;2019-03-04T16:23:19;glind;PBI 9318
 Table;11151295;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
@@ -92,7 +59,6 @@ Page;11268657;2019-03-08T14:05:30;glind;PBI 9318
 Page;11268608;2019-03-11T09:05:13;wkleemans;PBI 11525
 Page;11268609;2019-03-11T09:05:28;wkleemans;PBI 11525
 Page;11197871;2019-03-14T09:51:05;jhoek;TS11573
-Codeunit;11268648;2019-03-15T11:40:50;tversluis;
 PageExtension;11197760;2019-03-18T09:09:03;jhoek;
 PageExtension;11197761;2019-03-18T09:09:03;jhoek;
 PageExtension;11197762;2019-03-18T09:09:03;jhoek;
@@ -157,7 +123,6 @@ Codeunit;11268671;2019-03-22T14:11:08;adkorte;PBI 11706
 Codeunit;11268672;2019-03-22T14:11:08;adkorte;PBI 11706
 Codeunit;11268673;2019-03-22T14:11:08;adkorte;PBI 11706
 Codeunit;11268700;2019-03-26T13:37:00;glind;PBI 11364
-Table;11268656;2019-03-26T13:37:42;tversluis;
 Table;11151422;2019-03-28T13:31:59;adkorte;Task 11784
 Table;11151423;2019-03-28T13:31:59;adkorte;Task 11784
 Table;11151424;2019-03-28T13:31:59;adkorte;Task 11784
@@ -198,9 +163,6 @@ Page;11269446;2019-04-16T08:32:19;damara;Task11837
 Codeunit;11269448;2019-04-16T08:41:36;vpanjala;
 Codeunit;11269449;2019-04-16T08:46:40;damara;Task11837
 Page;11269447;2019-04-18T10:08:02;vpanjala;Task12023
-Codeunit;11268675;2019-04-19T12:29:59;tversluis;
-Codeunit;11268676;2019-04-19T12:29:59;tversluis;
-Codeunit;11268677;2019-04-19T12:29:59;tversluis;
 Codeunit;11268678;2019-04-23T11:38:35;damara;Task12090
 Table;11151274;2019-04-23T14:50:15;adkorte;PBI08537
 Page;11268560;2019-04-23T14:50:16;adkorte;PBI08537
@@ -224,3 +186,22 @@ Codeunit;11268688;2019-05-20T09:47:08;glind;PBI12077 Inherit Item Properties
 Report;11151176;2019-05-22T09:15:07;damara;Task12160
 Page;11269448;2019-05-24T10:24:11;vpanjala;Task_12333
 Codeunit;11268688;2019-05-27T16:02:31;glind;Reservation conflict
+Codeunit;11268701;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268702;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268703;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268704;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268705;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268706;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268707;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268708;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268709;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268710;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268711;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268712;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268713;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268714;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Codeunit;11268715;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
+Page;11197800;2019-06-05T10:40:33;glind;PBI12465
+Codeunit;11268687;2019-06-05T12:00:40;tversluis;Job Creation/Calculation
+Codeunit;11268689;2019-06-06T11:00:12;jhoek;
+Codeunit;11268690;2019-06-06T17:03:23;tversluis;Job Creation/Calculation
