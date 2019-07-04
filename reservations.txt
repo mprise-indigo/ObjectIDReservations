@@ -207,3 +207,4 @@ Codeunit;11268689;2019-06-06T11:00:12;jhoek;
 Codeunit;11268690;2019-06-06T17:03:23;tversluis;Job Creation/Calculation
 Codeunit;11268691;2019-06-07T11:05:18;jhoek;
 Report;11151051;2019-07-04T07:49:56;adkorte;PBI 11073 time registration
+Codeunit;11197751;2019-07-04T08:50:21;jhoek;Feature value event subscribers
