@@ -226,3 +226,4 @@ Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labellin
 Codeunit;11268468;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
 Query;11151043;2019-08-20T10:37:02;adkorte;PBI 13080 Time registration label query
+Table;11151305;2019-08-21T11:36:20;glind;PBI13139 Job Area Line redesign
