@@ -230,3 +230,4 @@ Table;11151305;2019-08-21T11:36:20;glind;PBI13139 Job Area Line redesign
 Codeunit;11268694;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
 Codeunit;11268695;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
 Codeunit;11269022;2019-08-26T09:39:29;damara;Task10286
+Report;11151195;2019-08-28T07:20:08;damara;Task13114
