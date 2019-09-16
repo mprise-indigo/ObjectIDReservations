@@ -256,3 +256,8 @@ Table;11151244;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151245;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151246;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151247;2019-09-16T09:37:50;adkorte;UPG BI extension
+Table;11151360;2019-09-16T10:29:21;adkorte;UPG BI extension
+Table;11151361;2019-09-16T10:29:21;adkorte;UPG BI extension
+Table;11151362;2019-09-16T10:29:21;adkorte;UPG BI extension
+Table;11151363;2019-09-16T10:29:21;adkorte;UPG BI extension
+Table;11151364;2019-09-16T10:29:21;adkorte;UPG BI extension
