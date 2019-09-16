@@ -261,3 +261,4 @@ Table;11151361;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151362;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151363;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151364;2019-09-16T10:29:21;adkorte;UPG BI extension
+Table;11269451;2019-09-16T12:46:49;vpanjala;Task_12988
