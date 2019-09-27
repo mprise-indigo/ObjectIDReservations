@@ -408,3 +408,4 @@ Table;11268485;2019-09-27T10:31:12;adkorte;Permanent reservation BI extension
 EnumTypeExtension;11268481;2019-09-27T11:03:46;adkorte;Permanent reservation BI extension
 Codeunit;11268728;2019-09-27T11:06:03;adkorte;Permanent reservation BI extension
 Codeunit;11268729;2019-09-27T11:23:02;adkorte;Permanent reservation BI extension
+Codeunit;11268730;2019-09-27T11:37:19;adkorte;Permanent reservation BI extension
