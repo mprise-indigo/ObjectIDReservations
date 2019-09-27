@@ -403,3 +403,4 @@ Codeunit;11268631;2019-09-27T08:08:03;adkorte;Permanent reservation BI extension
 Codeunit;11268632;2019-09-27T08:08:03;adkorte;Permanent reservation BI extension
 Codeunit;11268633;2019-09-27T08:08:03;adkorte;Permanent reservation BI extension
 Codeunit;11268634;2019-09-27T08:08:03;adkorte;Permanent reservation BI extension
+TableExtension;11268480;2019-09-27T10:21:23;adkorte;Permanent reservation BI extension
