@@ -405,3 +405,4 @@ Codeunit;11268634;2019-09-27T08:08:03;adkorte;Permanent reservation BI extension
 TableExtension;11268480;2019-09-27T10:21:23;adkorte;Permanent reservation BI extension
 PageExtension;11268480;2019-09-27T10:22:55;adkorte;Permanent reservation BI extension
 Table;11268485;2019-09-27T10:31:12;adkorte;Permanent reservation BI extension
+EnumTypeExtension;11268481;2019-09-27T11:03:46;adkorte;Permanent reservation BI extension
