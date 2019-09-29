@@ -412,3 +412,4 @@ Codeunit;11268730;2019-09-27T11:37:19;adkorte;Permanent reservation BI extension
 EnumTypeExtension;11268483;2019-09-27T11:44:56;adkorte;Permanent reservation BI extension
 EnumTypeExtension;11268482;2019-09-27T11:45:31;adkorte;Permanent reservation BI extension
 Report;11268480;2019-09-27T11:54:41;adkorte;Permanent reservation BI extension
+Report;11151198;2019-09-29T15:34:46;vpanjala;Task_13439_Dalat
