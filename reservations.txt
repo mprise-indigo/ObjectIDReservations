@@ -442,3 +442,5 @@ Codeunit;11268733;2019-10-02T10:50:35;adkorte;PBI 13487 Mengbaan Planning Baas
 Codeunit;11268734;2019-10-02T10:50:35;adkorte;PBI 13487 Mengbaan Planning Baas
 Codeunit;11268735;2019-10-02T10:50:35;adkorte;PBI 13487 Mengbaan Planning Baas
 Table;11151330;2019-10-03T13:19:23;adkorte;PBI 12988
+Table;11151369;2019-10-03T15:53:12;adkorte;PBI12988 Base Material Upgrade
+Table;11151370;2019-10-03T15:53:12;adkorte;PBI12988 Base Material Upgrade
