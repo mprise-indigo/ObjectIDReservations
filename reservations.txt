@@ -471,3 +471,4 @@ Codeunit;11268737;2019-11-11T11:07:42;glind;PBI13613 Lot Position Priority
 Table;11151138;2019-11-12T11:06:44;tversluis;Production Item Preferences
 Page;11151246;2019-11-12T11:06:45;tversluis;Production Item Preferences
 Codeunit;11268738;2019-11-12T11:06:45;tversluis;Production Item Preferences
+Codeunit;11268739;2019-11-12T11:13:29;tversluis;Production Item Preferences
