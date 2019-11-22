@@ -478,3 +478,4 @@ Codeunit;11269035;2019-11-19T08:14:37;adkorte;TS14107 Job Type for App
 Page;11268646;2019-11-19T11:09:01;adkorte;TS14107 Job Type for App
 Table;11151333;2019-11-19T11:11:08;adkorte;TS14107 Job Type for App
 Page;11268647;2019-11-19T12:47:01;adkorte;TS14107 Job Type for App
+Codeunit;11268742;2019-11-22T12:46:08;adkorte;Time Registration Label Dim
