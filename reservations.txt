@@ -496,3 +496,4 @@ Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
 Codeunit;11268750;2020-01-16T08:53:38;vpanjala;PBI_14588
 Codeunit;11268751;2020-01-20T07:44:11;damara;PBI_14350
 Table;11151372;2020-01-24T17:08:33;glind;Rounding Method Preference
+Page;11268637;2020-01-24T17:08:53;glind;Rounding Method Preference
