@@ -524,3 +524,4 @@ Table;11151080;2020-03-03T23:46:35;tversluis;new property value table
 Codeunit;11268756;2020-03-04T05:40:27;damara;Task_15132
 Page;11268673;2020-03-04T17:24:53;vpanjala;Task_15133
 Report;11151477;2020-03-06T09:47:48;damara;Task_15136
+Table;11151377;2020-03-11T10:21:39;glind;Upgrade Document Feature Value
