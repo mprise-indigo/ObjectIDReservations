@@ -604,3 +604,4 @@ Table;11269419;2020-06-18T11:04:58;tversluis;Floriday Extension
 Query;11269419;2020-06-18T11:05:05;tversluis;Floriday Extension
 XmlPort;11269419;2020-06-18T11:05:13;tversluis;Floriday Extension
 Report;11269419;2020-06-18T11:05:20;tversluis;Floriday Extension
+EnumType;11269419;2020-06-18T11:05:27;tversluis;Floriday Extension
