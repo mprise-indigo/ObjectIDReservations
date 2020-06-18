@@ -622,3 +622,4 @@ PageExtension;11269420;2020-06-18T11:07:06;tversluis;Floriday Extension
 MenuSuite;11269420;2020-06-18T11:07:14;tversluis;Floriday Extension
 Codeunit;11269421;2020-06-18T11:07:20;tversluis;Floriday Extension
 Page;11269421;2020-06-18T11:07:27;tversluis;Floriday Extension
+Table;11269421;2020-06-18T11:07:34;tversluis;Floriday Extension
