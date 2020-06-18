@@ -841,3 +841,4 @@ TableExtension;11269440;2020-06-18T11:31:26;tversluis;Floriday Extension
 PageExtension;11269440;2020-06-18T11:31:33;tversluis;Floriday Extension
 MenuSuite;11269440;2020-06-18T11:31:40;tversluis;Floriday Extension
 Codeunit;11269441;2020-06-18T11:31:47;tversluis;Floriday Extension
+Page;11269441;2020-06-18T11:31:53;tversluis;Floriday Extension
