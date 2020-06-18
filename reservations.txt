@@ -803,3 +803,4 @@ Query;11269437;2020-06-18T11:27:04;tversluis;Floriday Extension
 XmlPort;11269437;2020-06-18T11:27:10;tversluis;Floriday Extension
 Report;11269437;2020-06-18T11:27:17;tversluis;Floriday Extension
 EnumType;11269437;2020-06-18T11:27:23;tversluis;Floriday Extension
+EnumTypeExtension;11269437;2020-06-18T11:27:30;tversluis;Floriday Extension
