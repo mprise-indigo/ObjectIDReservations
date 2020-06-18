@@ -568,3 +568,4 @@ MenuSuite;11269415;2020-06-18T11:01:04;tversluis;Floriday Extension
 Codeunit;11269416;2020-06-18T11:01:10;tversluis;Floriday Extension
 Page;11269416;2020-06-18T11:01:17;tversluis;Floriday Extension
 Table;11269416;2020-06-18T11:01:23;tversluis;Floriday Extension
+Query;11269416;2020-06-18T11:01:30;tversluis;Floriday Extension
