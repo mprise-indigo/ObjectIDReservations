@@ -637,3 +637,4 @@ Table;11269422;2020-06-18T11:08:50;tversluis;Floriday Extension
 Query;11269422;2020-06-18T11:08:57;tversluis;Floriday Extension
 XmlPort;11269422;2020-06-18T11:09:04;tversluis;Floriday Extension
 Report;11269422;2020-06-18T11:09:11;tversluis;Floriday Extension
+EnumType;11269422;2020-06-18T11:09:17;tversluis;Floriday Extension
