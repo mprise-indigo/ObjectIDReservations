@@ -795,3 +795,4 @@ EnumType;11269436;2020-06-18T11:26:11;tversluis;Floriday Extension
 EnumTypeExtension;11269436;2020-06-18T11:26:18;tversluis;Floriday Extension
 TableExtension;11269436;2020-06-18T11:26:24;tversluis;Floriday Extension
 PageExtension;11269436;2020-06-18T11:26:30;tversluis;Floriday Extension
+MenuSuite;11269436;2020-06-18T11:26:37;tversluis;Floriday Extension
