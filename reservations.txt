@@ -700,3 +700,4 @@ MenuSuite;11269427;2020-06-18T11:15:36;tversluis;Floriday Extension
 Codeunit;11269428;2020-06-18T11:15:42;tversluis;Floriday Extension
 Page;11269428;2020-06-18T11:15:49;tversluis;Floriday Extension
 Table;11269428;2020-06-18T11:15:55;tversluis;Floriday Extension
+Query;11269428;2020-06-18T11:16:02;tversluis;Floriday Extension
