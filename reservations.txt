@@ -775,3 +775,4 @@ TableExtension;11269434;2020-06-18T11:23:56;tversluis;Floriday Extension
 PageExtension;11269434;2020-06-18T11:24:03;tversluis;Floriday Extension
 MenuSuite;11269434;2020-06-18T11:24:09;tversluis;Floriday Extension
 Codeunit;11269435;2020-06-18T11:24:16;tversluis;Floriday Extension
+Page;11269435;2020-06-18T11:24:23;tversluis;Floriday Extension
