@@ -825,3 +825,4 @@ Query;11269439;2020-06-18T11:29:35;tversluis;Floriday Extension
 XmlPort;11269439;2020-06-18T11:29:42;tversluis;Floriday Extension
 Report;11269439;2020-06-18T11:29:50;tversluis;Floriday Extension
 EnumType;11269439;2020-06-18T11:29:57;tversluis;Floriday Extension
+EnumTypeExtension;11269439;2020-06-18T11:30:04;tversluis;Floriday Extension
