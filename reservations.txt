@@ -830,3 +830,4 @@ TableExtension;11269439;2020-06-18T11:30:11;tversluis;Floriday Extension
 PageExtension;11269439;2020-06-18T11:30:18;tversluis;Floriday Extension
 MenuSuite;11269439;2020-06-18T11:30:25;tversluis;Floriday Extension
 Codeunit;11269440;2020-06-18T11:30:31;tversluis;Floriday Extension
+Page;11269440;2020-06-18T11:30:38;tversluis;Floriday Extension
