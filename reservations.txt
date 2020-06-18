@@ -755,3 +755,4 @@ MenuSuite;11269432;2020-06-18T11:21:41;tversluis;Floriday Extension
 Codeunit;11269433;2020-06-18T11:21:48;tversluis;Floriday Extension
 Page;11269433;2020-06-18T11:21:54;tversluis;Floriday Extension
 Table;11269433;2020-06-18T11:22:01;tversluis;Floriday Extension
+Query;11269433;2020-06-18T11:22:07;tversluis;Floriday Extension
