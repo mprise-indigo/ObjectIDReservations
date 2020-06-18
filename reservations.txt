@@ -752,3 +752,4 @@ EnumTypeExtension;11269432;2020-06-18T11:21:21;tversluis;Floriday Extension
 TableExtension;11269432;2020-06-18T11:21:28;tversluis;Floriday Extension
 PageExtension;11269432;2020-06-18T11:21:34;tversluis;Floriday Extension
 MenuSuite;11269432;2020-06-18T11:21:41;tversluis;Floriday Extension
+Codeunit;11269433;2020-06-18T11:21:48;tversluis;Floriday Extension
