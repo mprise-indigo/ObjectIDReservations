@@ -613,3 +613,4 @@ Codeunit;11269420;2020-06-18T11:06:03;tversluis;Floriday Extension
 Page;11269420;2020-06-18T11:06:10;tversluis;Floriday Extension
 Table;11269420;2020-06-18T11:06:16;tversluis;Floriday Extension
 Query;11269420;2020-06-18T11:06:24;tversluis;Floriday Extension
+XmlPort;11269420;2020-06-18T11:06:31;tversluis;Floriday Extension
