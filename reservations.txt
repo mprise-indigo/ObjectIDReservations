@@ -813,3 +813,4 @@ Table;11269438;2020-06-18T11:28:12;tversluis;Floriday Extension
 Query;11269438;2020-06-18T11:28:19;tversluis;Floriday Extension
 XmlPort;11269438;2020-06-18T11:28:26;tversluis;Floriday Extension
 Report;11269438;2020-06-18T11:28:34;tversluis;Floriday Extension
+EnumType;11269438;2020-06-18T11:28:40;tversluis;Floriday Extension
