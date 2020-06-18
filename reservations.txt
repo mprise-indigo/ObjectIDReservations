@@ -657,3 +657,4 @@ Codeunit;11269424;2020-06-18T11:11:01;tversluis;Floriday Extension
 Page;11269424;2020-06-18T11:11:07;tversluis;Floriday Extension
 Table;11269424;2020-06-18T11:11:14;tversluis;Floriday Extension
 Query;11269424;2020-06-18T11:11:20;tversluis;Floriday Extension
+XmlPort;11269424;2020-06-18T11:11:26;tversluis;Floriday Extension
