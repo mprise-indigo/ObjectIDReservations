@@ -564,7 +564,6 @@ PageExtension;11269415;2020-06-18T11:00:58;tversluis;Floriday Extension
 MenuSuite;11269415;2020-06-18T11:01:04;tversluis;Floriday Extension
 Codeunit;11269416;2020-06-18T11:01:10;tversluis;Floriday Extension
 Page;11269416;2020-06-18T11:01:17;tversluis;Floriday Extension
-Table;11269416;2020-06-18T11:01:23;tversluis;Floriday Extension
 Query;11269416;2020-06-18T11:01:30;tversluis;Floriday Extension
 XmlPort;11269416;2020-06-18T11:01:36;tversluis;Floriday Extension
 Report;11269416;2020-06-18T11:01:43;tversluis;Floriday Extension
@@ -851,3 +850,4 @@ MenuSuite;11269441;2020-06-18T11:32:59;tversluis;Floriday Extension
 Table;11269415;2020-06-19T10:30:23;vpanjala;TASK_18305
 Page;11269415;2020-06-19T11:57:30;vpanjala;TASK_18305
 Codeunit;11269415;2020-06-19T14:09:37;vpanjala;TASK_18305
+Table;11269416;2020-06-23T12:00:42;vpanjala;Floriday_TASK_16785
