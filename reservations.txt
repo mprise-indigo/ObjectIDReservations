@@ -852,3 +852,4 @@ Page;11269420;2020-06-24T09:13:04;damara;Floriday_TASK_18308
 Page;11268638;2020-06-24T10:39:35;tversluis;for Anouk, OptiFlor, multiple blanket purchase orders per production forecast
 Table;11269419;2020-06-24T12:24:01;damara;Floriday_TASK_18309
 Page;11269421;2020-06-24T12:25:12;damara;Floriday_TASK_18309
+Page;11151345;2020-06-24T16:26:25;tversluis;Area Planning BC16
