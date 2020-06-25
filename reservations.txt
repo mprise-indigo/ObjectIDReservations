@@ -888,3 +888,4 @@ PageExtension;11269392;2020-06-25T09:14:03;tversluis;API Extension
 MenuSuite;11269392;2020-06-25T09:14:10;tversluis;API Extension
 Codeunit;11269393;2020-06-25T09:14:16;tversluis;API Extension
 Page;11269393;2020-06-25T09:14:22;tversluis;API Extension
+Table;11269393;2020-06-25T09:14:29;tversluis;API Extension
