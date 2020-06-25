@@ -878,3 +878,4 @@ MenuSuite;11269391;2020-06-25T09:13:01;tversluis;API Extension
 Codeunit;11269392;2020-06-25T09:13:07;tversluis;API Extension
 Page;11269392;2020-06-25T09:13:13;tversluis;API Extension
 Table;11269392;2020-06-25T09:13:20;tversluis;API Extension
+Query;11269392;2020-06-25T09:13:26;tversluis;API Extension
