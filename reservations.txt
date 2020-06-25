@@ -930,3 +930,4 @@ EnumTypeExtension;11269396;2020-06-25T09:18:41;tversluis;API Extension
 TableExtension;11269396;2020-06-25T09:18:47;tversluis;API Extension
 PageExtension;11269396;2020-06-25T09:18:53;tversluis;API Extension
 MenuSuite;11269396;2020-06-25T09:18:59;tversluis;API Extension
+Codeunit;11269397;2020-06-25T09:19:06;tversluis;API Extension
