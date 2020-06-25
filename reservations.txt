@@ -896,3 +896,4 @@ EnumType;11269393;2020-06-25T09:14:54;tversluis;API Extension
 EnumTypeExtension;11269393;2020-06-25T09:15:01;tversluis;API Extension
 TableExtension;11269393;2020-06-25T09:15:08;tversluis;API Extension
 PageExtension;11269393;2020-06-25T09:15:15;tversluis;API Extension
+MenuSuite;11269393;2020-06-25T09:15:23;tversluis;API Extension
