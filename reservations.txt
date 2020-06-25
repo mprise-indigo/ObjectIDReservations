@@ -856,3 +856,4 @@ Page;11151345;2020-06-24T16:26:25;tversluis;Area Planning BC16
 Codeunit;11269390;2020-06-25T09:10:43;tversluis;API Extension
 Page;11269390;2020-06-25T09:10:49;tversluis;API Extension
 Table;11269390;2020-06-25T09:10:56;tversluis;API Extension
+Query;11269390;2020-06-25T09:11:02;tversluis;API Extension
