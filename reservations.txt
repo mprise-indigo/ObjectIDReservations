@@ -912,3 +912,4 @@ Codeunit;11269395;2020-06-25T09:16:46;tversluis;API Extension
 Page;11269395;2020-06-25T09:16:53;tversluis;API Extension
 Table;11269395;2020-06-25T09:17:00;tversluis;API Extension
 Query;11269395;2020-06-25T09:17:07;tversluis;API Extension
+XmlPort;11269395;2020-06-25T09:17:14;tversluis;API Extension
