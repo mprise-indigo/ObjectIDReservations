@@ -905,3 +905,4 @@ XmlPort;11269394;2020-06-25T09:15:57;tversluis;API Extension
 Report;11269394;2020-06-25T09:16:04;tversluis;API Extension
 EnumType;11269394;2020-06-25T09:16:11;tversluis;API Extension
 EnumTypeExtension;11269394;2020-06-25T09:16:19;tversluis;API Extension
+TableExtension;11269394;2020-06-25T09:16:26;tversluis;API Extension
