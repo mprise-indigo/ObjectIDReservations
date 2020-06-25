@@ -866,3 +866,4 @@ PageExtension;11269390;2020-06-25T09:11:45;tversluis;API Extension
 MenuSuite;11269390;2020-06-25T09:11:51;tversluis;API Extension
 Codeunit;11269391;2020-06-25T09:11:57;tversluis;API Extension
 Page;11269391;2020-06-25T09:12:04;tversluis;API Extension
+Table;11269391;2020-06-25T09:12:10;tversluis;API Extension
