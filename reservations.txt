@@ -926,3 +926,4 @@ Query;11269396;2020-06-25T09:18:16;tversluis;API Extension
 XmlPort;11269396;2020-06-25T09:18:22;tversluis;API Extension
 Report;11269396;2020-06-25T09:18:29;tversluis;API Extension
 EnumType;11269396;2020-06-25T09:18:35;tversluis;API Extension
+EnumTypeExtension;11269396;2020-06-25T09:18:41;tversluis;API Extension
