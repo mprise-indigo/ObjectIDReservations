@@ -965,3 +965,4 @@ PageExtension;11269399;2020-06-25T09:22:20;tversluis;API Extension
 MenuSuite;11269399;2020-06-25T09:22:26;tversluis;API Extension
 Page;11268639;2020-06-29T11:46:29;adkorte;TS18477 for Anouk
 Codeunit;11268767;2020-07-02T12:36:34;glind;Area Planning AddIn
+Query;11151046;2020-07-02T12:36:58;glind;Area Planning AddIn
