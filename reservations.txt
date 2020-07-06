@@ -599,7 +599,6 @@ TableExtension;11269419;2020-06-18T11:05:41;tversluis;Floriday Extension
 PageExtension;11269419;2020-06-18T11:05:48;tversluis;Floriday Extension
 MenuSuite;11269419;2020-06-18T11:05:56;tversluis;Floriday Extension
 Codeunit;11269420;2020-06-18T11:06:03;tversluis;Floriday Extension
-Table;11269420;2020-06-18T11:06:16;tversluis;Floriday Extension
 Query;11269420;2020-06-18T11:06:24;tversluis;Floriday Extension
 XmlPort;11269420;2020-06-18T11:06:31;tversluis;Floriday Extension
 Report;11269420;2020-06-18T11:06:38;tversluis;Floriday Extension
@@ -967,3 +966,4 @@ Page;11268639;2020-06-29T11:46:29;adkorte;TS18477 for Anouk
 Codeunit;11268767;2020-07-02T12:36:34;glind;Area Planning AddIn
 Query;11151046;2020-07-02T12:36:58;glind;Area Planning AddIn
 Codeunit;11268768;2020-07-03T13:25:18;glind;Area Planning AddIn
+Table;11269420;2020-07-06T13:16:17;damara;Floriday_TASK_18314
