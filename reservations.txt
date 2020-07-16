@@ -969,4 +969,3 @@ Page;11269423;2020-07-10T09:18:48;vpanjala;Floriday_Task_18480
 Page;11269424;2020-07-13T08:36:36;damara;Floriday_TASK_18309
 Table;11269426;2020-07-15T09:31:08;vpanjala;Floriday_Task_18310
 Page;11269425;2020-07-15T10:10:06;vpanjala;Floriday_Task_18310
-Table;50000;2020-07-16T09:56:57;jboes;
