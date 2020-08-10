@@ -562,7 +562,6 @@ EnumTypeExtension;11269415;2020-06-18T11:00:45;tversluis;Floriday Extension
 TableExtension;11269415;2020-06-18T11:00:51;tversluis;Floriday Extension
 PageExtension;11269415;2020-06-18T11:00:58;tversluis;Floriday Extension
 MenuSuite;11269415;2020-06-18T11:01:04;tversluis;Floriday Extension
-Codeunit;11269416;2020-06-18T11:01:10;tversluis;Floriday Extension
 Query;11269416;2020-06-18T11:01:30;tversluis;Floriday Extension
 XmlPort;11269416;2020-06-18T11:01:36;tversluis;Floriday Extension
 Report;11269416;2020-06-18T11:01:43;tversluis;Floriday Extension
@@ -969,3 +968,4 @@ Page;11269428;2020-07-16T15:55:57;vpanjala;Floriday_Task_18313
 Page;11269429;2020-07-21T10:56:52;vpanjala;Floriday_Task_18313
 Table;11269427;2020-08-07T09:39:10;damara;Floriday_TASK_19481
 Page;11269430;2020-08-07T09:39:54;damara;Floriday_TASK_19481
+Codeunit;11269416;2020-08-10T11:56:45;vpanjala;
