@@ -668,7 +668,6 @@ TableExtension;11269427;2020-06-18T11:15:22;tversluis;Floriday Extension
 PageExtension;11269427;2020-06-18T11:15:29;tversluis;Floriday Extension
 MenuSuite;11269427;2020-06-18T11:15:36;tversluis;Floriday Extension
 Codeunit;11269428;2020-06-18T11:15:42;tversluis;Floriday Extension
-Table;11269428;2020-06-18T11:15:55;tversluis;Floriday Extension
 Query;11269428;2020-06-18T11:16:02;tversluis;Floriday Extension
 XmlPort;11269428;2020-06-18T11:16:08;tversluis;Floriday Extension
 Report;11269428;2020-06-18T11:16:15;tversluis;Floriday Extension
@@ -968,3 +967,4 @@ Table;11269427;2020-08-07T09:39:10;damara;Floriday_TASK_19481
 Page;11269430;2020-08-07T09:39:54;damara;Floriday_TASK_19481
 Codeunit;11269416;2020-08-10T11:56:45;vpanjala;
 Codeunit;11269418;2020-08-11T13:20:15;damara;Floriday_TASK_19676
+Table;11269428;2020-08-12T08:35:09;damara;Floriday_TASK_19797
