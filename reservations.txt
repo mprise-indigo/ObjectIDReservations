@@ -968,5 +968,4 @@ Codeunit;11269416;2020-08-10T11:56:45;vpanjala;
 Codeunit;11269418;2020-08-11T13:20:15;damara;Floriday_TASK_19676
 Table;11269428;2020-08-12T08:35:09;damara;Floriday_TASK_19797
 Page;11269432;2020-08-12T08:35:49;damara;Floriday_TASK_19797
-Codeunit;11151039;2020-08-13T09:39:11;jboes;GCG development
 Codeunit;11268769;2020-08-13T09:57:21;adkorte;GCG development
