@@ -984,3 +984,4 @@ Page;11269401;2020-08-25T08:29:35;skapoor;Task_19778
 Table;11151384;2020-08-25T09:02:01;adkorte;TS17457 preview features
 Page;11268648;2020-08-25T09:02:01;adkorte;TS17457 preview features
 Codeunit;11268784;2020-08-25T11:24:28;adkorte;TS17457 preview features
+Codeunit;11268785;2020-08-26T16:03:19;tversluis;for subscribers
