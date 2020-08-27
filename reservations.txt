@@ -717,7 +717,6 @@ TableExtension;11269432;2020-06-18T11:21:28;tversluis;Floriday Extension
 PageExtension;11269432;2020-06-18T11:21:34;tversluis;Floriday Extension
 MenuSuite;11269432;2020-06-18T11:21:41;tversluis;Floriday Extension
 Codeunit;11269433;2020-06-18T11:21:48;tversluis;Floriday Extension
-Page;11269433;2020-06-18T11:21:54;tversluis;Floriday Extension
 Table;11269433;2020-06-18T11:22:01;tversluis;Floriday Extension
 Query;11269433;2020-06-18T11:22:07;tversluis;Floriday Extension
 XmlPort;11269433;2020-06-18T11:22:14;tversluis;Floriday Extension
@@ -992,3 +991,4 @@ Codeunit;11268786;2020-08-27T09:12:18;adkorte;Price Management BC16
 Codeunit;11268787;2020-08-27T09:12:18;adkorte;Price Management BC16
 Codeunit;11268788;2020-08-27T09:19:28;adkorte;Price Management BC16
 Page;11269431;2020-08-27T09:26:17;vpanjala;Floriday_Task_21127
+Page;11269433;2020-08-27T09:34:20;vpanjala;Floriday_Task_21127
