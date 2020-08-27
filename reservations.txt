@@ -985,3 +985,4 @@ Table;11151384;2020-08-25T09:02:01;adkorte;TS17457 preview features
 Page;11268648;2020-08-25T09:02:01;adkorte;TS17457 preview features
 Codeunit;11268784;2020-08-25T11:24:28;adkorte;TS17457 preview features
 Codeunit;11268785;2020-08-26T16:03:19;tversluis;for subscribers
+TableExtension;11151266;2020-08-27T08:40:46;adkorte;Price Management BC16
