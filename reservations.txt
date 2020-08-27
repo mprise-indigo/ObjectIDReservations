@@ -697,7 +697,6 @@ TableExtension;11269430;2020-06-18T11:19:01;tversluis;Floriday Extension
 PageExtension;11269430;2020-06-18T11:19:07;tversluis;Floriday Extension
 MenuSuite;11269430;2020-06-18T11:19:13;tversluis;Floriday Extension
 Codeunit;11269431;2020-06-18T11:19:20;tversluis;Floriday Extension
-Page;11269431;2020-06-18T11:19:27;tversluis;Floriday Extension
 Table;11269431;2020-06-18T11:19:34;tversluis;Floriday Extension
 Query;11269431;2020-06-18T11:19:41;tversluis;Floriday Extension
 XmlPort;11269431;2020-06-18T11:19:47;tversluis;Floriday Extension
@@ -992,3 +991,4 @@ EnumTypeExtension;11151040;2020-08-27T09:04:01;adkorte;Price Management BC16
 Codeunit;11268786;2020-08-27T09:12:18;adkorte;Price Management BC16
 Codeunit;11268787;2020-08-27T09:12:18;adkorte;Price Management BC16
 Codeunit;11268788;2020-08-27T09:19:28;adkorte;Price Management BC16
+Page;11269431;2020-08-27T09:26:17;vpanjala;Floriday_Task_21127
