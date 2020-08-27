@@ -988,3 +988,4 @@ Codeunit;11268785;2020-08-26T16:03:19;tversluis;for subscribers
 TableExtension;11151266;2020-08-27T08:40:46;adkorte;Price Management BC16
 PageExtension;11151300;2020-08-27T09:01:05;adkorte;Price Management BC16
 EnumTypeExtension;11151039;2020-08-27T09:03:43;adkorte;Price Management BC16
+EnumTypeExtension;11151040;2020-08-27T09:04:01;adkorte;Price Management BC16
