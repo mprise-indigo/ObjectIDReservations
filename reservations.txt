@@ -1160,3 +1160,4 @@ TableExtension;11151226;2020-08-28T14:26:21;tversluis;"MAW Bank Acc. Reconc. Lin
 Report;11151042;2020-08-28T14:26:27;tversluis;"MAW Barcodes Installed"
 Table;11151330;2020-08-28T14:26:34;tversluis;"MAW Base Material Preference"
 Page;11151132;2020-08-28T14:26:41;tversluis;"MAW Base Material Preferences"
+Page;11151184;2020-08-28T14:26:48;tversluis;"MAW Base Material Requirements"
