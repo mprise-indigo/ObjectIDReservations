@@ -478,7 +478,6 @@ Page;11268636;2019-12-17T11:08:22;damara;PBI_14305
 Codeunit;11269036;2019-12-24T14:24:16;tversluis;mimic app inspection behavior
 Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
 Codeunit;11268750;2020-01-16T08:53:38;vpanjala;PBI_14588
-Codeunit;11268751;2020-01-20T07:44:11;damara;PBI_14350
 Table;11151372;2020-01-24T17:08:33;glind;Rounding Method Preference
 Page;11268637;2020-01-24T17:08:53;glind;Rounding Method Preference
 Codeunit;11268747;2020-01-24T17:09:16;glind;Rounding Method Preference
@@ -1202,3 +1201,4 @@ Table;11268487;2020-08-28T14:32:02;tversluis;"MAW Blnkt.Sls.Ord.Scheme Line"
 Page;11268635;2020-08-28T14:32:09;tversluis;"MAW Blnkt.Sls.Ord.Scheme Lines"
 Query;11151039;2020-08-28T14:32:16;tversluis;"MAW Blnkt.SO Sched.Outst.Qty."
 Query;11151041;2020-08-28T14:32:22;tversluis;"MAW Blnkt.SO Sch.Out.BOM Qty."
+Codeunit;11268751;2020-08-28T14:32:29;tversluis;"MAW Blnkt. SO. To SO. Mgt."
