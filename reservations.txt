@@ -2767,3 +2767,4 @@ PageExtension;11151134;2020-08-28T20:48:25;tversluis;"MAW Sales Quote Subform" e
 Codeunit;11151444;2020-08-28T20:48:32;tversluis;"MAW Sales-Quote to Order"
 PageExtension;11151253;2020-08-28T20:48:39;tversluis;"MAW Sales & Receivables Setup" extends "Sales & Receivables Setup"
 TableExtension;11151229;2020-08-28T20:48:47;tversluis;"MAW Sales & Receivables Setup" extends "Sales & Receivables Setup"
+PageExtension;11151102;2020-08-28T20:48:55;tversluis;"MAW Sales Return Order" extends "Sales Return Order"
