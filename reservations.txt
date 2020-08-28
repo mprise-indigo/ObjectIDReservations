@@ -153,7 +153,6 @@ Page;11269446;2019-04-16T08:32:19;damara;Task11837
 Codeunit;11269448;2019-04-16T08:41:36;vpanjala;
 Codeunit;11269449;2019-04-16T08:46:40;damara;Task11837
 Page;11269447;2019-04-18T10:08:02;vpanjala;Task12023
-Codeunit;11268678;2019-04-23T11:38:35;damara;Task12090
 Codeunit;11268679;2019-04-24T13:50:16;adkorte;8537
 Codeunit;11268680;2019-04-24T13:50:16;adkorte;8537
 Table;11269447;2019-04-26T12:40:52;damara;Task12090
@@ -1793,3 +1792,4 @@ Table;11151154;2020-08-28T18:44:53;tversluis;"MAW Item Preference"
 Page;11151060;2020-08-28T18:45:00;tversluis;"MAW Item Preferences"
 Codeunit;11151055;2020-08-28T18:45:07;tversluis;"MAW Item Prod. Pref. UI"
 PageExtension;11151244;2020-08-28T18:45:22;tversluis;"MAW Item. Reclass. Journal" extends "Item Reclass. Journal"
+Codeunit;11268678;2020-08-28T18:45:29;tversluis;"MAW Item Rename Mgt."
