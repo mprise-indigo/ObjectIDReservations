@@ -2657,3 +2657,4 @@ PageExtension;11151284;2020-08-28T20:34:57;tversluis;"MAW Responsibility Center 
 Page;11151072;2020-08-28T20:35:04;tversluis;"MAW Res.Roster Except. Entries"
 Table;11151072;2020-08-28T20:35:10;tversluis;"MAW Res. Roster Except. Entry"
 Codeunit;11151073;2020-08-28T20:35:17;tversluis;"MAW Restart Job Queue"
+Page;11151494;2020-08-28T20:35:24;tversluis;"MAW Role Center - Setup"
