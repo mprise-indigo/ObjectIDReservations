@@ -1464,3 +1464,4 @@ PageExtension;11151233;2020-08-28T15:04:19;tversluis;"MAW Customer List" extends
 Codeunit;11151100;2020-08-28T15:04:26;tversluis;"MAW Customer Mgt."
 TableExtension;11151251;2020-08-28T15:04:34;tversluis;"MAW Customer Price Group" extends "Customer Price Group"
 PageExtension;11151137;2020-08-28T15:04:42;tversluis;"MAW Customer Report Selections" extends "Customer Report Selections"
+TableExtension;11151263;2020-08-28T15:04:48;tversluis;"MAW Custom Report Selection" extends "Custom Report Selection"
