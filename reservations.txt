@@ -411,7 +411,6 @@ Page;11268641;2019-10-04T07:59:25;vpanjala;DalatPBI_13575
 Page;11268642;2019-10-04T08:06:45;vpanjala;DalatPBI_13575
 Report;11151199;2019-10-10T08:34:45;damara;DalathPBI_13604
 Page;11268628;2019-10-15T10:50:55;adkorte;TS 13087 Page for week time reg. calc rules
-Page;11268629;2019-10-16T11:32:19;adkorte;TS13416 Move objects from dedicated ID-ranges
 Page;11268630;2019-10-16T11:32:19;adkorte;TS13416 Move objects from dedicated ID-ranges
 Page;11268631;2019-10-16T11:32:20;adkorte;TS13416 Move objects from dedicated ID-ranges
 Page;11268632;2019-10-16T11:32:20;adkorte;TS13416 Move objects from dedicated ID-ranges
@@ -1907,3 +1906,4 @@ Page;11151172;2020-08-28T18:59:16;tversluis;"MAW Job Reservation Line"
 Table;11151177;2020-08-28T18:59:22;tversluis;"MAW Job Reservation Line"
 Codeunit;11151173;2020-08-28T18:59:29;tversluis;"MAW Job Reservation Mgt."
 Codeunit;11151166;2020-08-28T18:59:35;tversluis;"MAW Job - Set In Production"
+Page;11268629;2020-08-28T18:59:42;tversluis;"MAW Job Shortcut Date Setup"
