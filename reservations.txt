@@ -138,7 +138,6 @@ Page;11268958;2019-05-06T14:37:06;damara;Task12179
 Codeunit;11268682;2019-05-10T10:00:45;damara;Task12092
 Codeunit;11268683;2019-05-10T12:16:49;damara;Task12092
 Codeunit;11268684;2019-05-10T14:13:48;vpanjala;Task12075
-Codeunit;11268685;2019-05-10T14:15:14;vpanjala;Task12075
 Codeunit;11268686;2019-05-13T15:39:00;adkorte;PBI 12078 Month Fact
 Codeunit;11268687;2019-05-13T15:39:00;adkorte;PBI 12078 Month Fact
 Report;11151177;2019-05-15T13:10:00;damara;Task12160
@@ -2523,3 +2522,4 @@ Codeunit;11151364;2020-08-28T20:18:36;tversluis;"MAW PurchBlnktOrdBusEvntLogMgt"
 Codeunit;11151362;2020-08-28T20:18:43;tversluis;"MAW PurchBlnktOrdBusEvntSource"
 TableExtension;11151211;2020-08-28T20:18:50;tversluis;"MAW Purch. Cr. Memo Hdr." extends "Purch. Cr. Memo Hdr."
 TableExtension;11151212;2020-08-28T20:18:57;tversluis;"MAW Purch. Cr. Memo Line" extends "Purch. Cr. Memo Line"
+Codeunit;11268685;2020-08-28T20:19:04;tversluis;"MAW Purch.Doc. - Update Props."
