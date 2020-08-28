@@ -41,7 +41,6 @@ Page;11268607;2019-02-25T16:05:29;glind;PBI10727
 Codeunit;11197812;2019-02-25T20:35:16;jhoek;
 Codeunit;11197811;2019-02-26T11:03:38;jhoek;IA EBF Quote Header Facade
 Codeunit;11268645;2019-02-26T16:08:27;glind;PBI10727
-Page;11268656;2019-02-28T11:32:16;adkorte;Time registration approval per line
 Codeunit;11197810;2019-02-28T15:39:18;jhoek;IA EBF Cust-Check Cr. Limit
 Codeunit;11197809;2019-03-01T09:10:10;jhoek;IA EBF Page Management
 Codeunit;11197802;2019-03-04T16:23:19;glind;PBI 9318
@@ -1467,3 +1466,4 @@ TableExtension;11151263;2020-08-28T15:04:48;tversluis;"MAW Custom Report Selecti
 Page;11151111;2020-08-28T15:04:56;tversluis;"MAW Custom Report Setup"
 Page;11268989;2020-08-28T15:05:03;tversluis;"MAW C Working Time Codes"
 Page;11268997;2020-08-28T15:05:10;tversluis;"MAW C Work Orders"
+Page;11268656;2020-08-28T15:05:17;tversluis;"MAW Daily Time Sheet Approval"
