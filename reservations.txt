@@ -2497,3 +2497,4 @@ TableExtension;11151234;2020-08-28T20:15:38;tversluis;"MAW Purchase Header" exte
 Codeunit;11151108;2020-08-28T20:15:45;tversluis;"MAW Purchase Header Facade"
 Codeunit;11151238;2020-08-28T20:15:52;tversluis;"MAW Purchase Header - UI"
 PageExtension;11151266;2020-08-28T20:15:59;tversluis;"MAW Purchase Invoice" extends "Purchase Invoice"
+PageExtension;11151132;2020-08-28T20:16:05;tversluis;"MAW Purchase Invoices" extends "Purchase Invoices"
