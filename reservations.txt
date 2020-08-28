@@ -3,7 +3,6 @@ Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Codeunit;11268637;2019-02-01T13:12:59;adkorte;PBI10608 Undo Posting codeunit
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
 Report;11151044;2019-02-18T11:22:58;adkorte;PBI11007
-Report;11151075;2019-02-21T07:53:52;adkorte;replacement for report 11151044 which was in use in 10.07
 Codeunit;11197817;2019-02-22T13:51:21;jhoek;IA EBF Instruction Mgt.
 Codeunit;11197816;2019-02-22T15:01:46;jhoek;IA EBF Feature to Genus Mgt.
 Codeunit;11197815;2019-02-22T15:17:36;jhoek;IA EBF Charge Mgt.
@@ -2902,3 +2901,4 @@ Table;11151366;2020-08-28T21:07:14;tversluis;"MAW Time Reg. Label Pref."
 Page;11268612;2020-08-28T21:07:20;tversluis;"MAW Time Reg.Label Preferences"
 Page;11268611;2020-08-28T21:07:27;tversluis;"MAW Time Reg. Labels"
 Codeunit;11268724;2020-08-28T21:07:34;tversluis;"MAW Time Reg. Label Week Mgt."
+Report;11151075;2020-08-28T21:07:41;tversluis;"MAW Time Reg.Sign out Resource"
