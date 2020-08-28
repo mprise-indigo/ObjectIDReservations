@@ -1641,3 +1641,4 @@ TableExtension;11151260;2020-08-28T15:26:02;tversluis;"MAW Gen. Journal Line" ex
 Table;11151044;2020-08-28T15:26:08;tversluis;"MAW Genus"
 Page;11151044;2020-08-28T15:26:15;tversluis;"MAW Genus Card"
 Table;11151046;2020-08-28T15:26:21;tversluis;"MAW Genus Feature"
+Page;11151052;2020-08-28T15:26:27;tversluis;"MAW Genus Features"
