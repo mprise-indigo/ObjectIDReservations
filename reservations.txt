@@ -2742,3 +2742,4 @@ PageExtension;11151130;2020-08-28T20:45:09;tversluis;"MAW Sales Order List" exte
 Page;11151128;2020-08-28T20:45:16;tversluis;"MAW Sales Order Overview"
 Codeunit;11151048;2020-08-28T20:45:23;tversluis;"MAW Sales Order Packag. Check"
 Page;11151089;2020-08-28T20:45:30;tversluis;"MAW Sales Order Pack. Plan"
+Page;11151091;2020-08-28T20:45:37;tversluis;"MAW Sales Order Pack.Structure"
