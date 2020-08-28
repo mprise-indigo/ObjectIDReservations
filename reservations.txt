@@ -221,7 +221,6 @@ Page;11268528;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Codeunit;11268468;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
-Query;11151043;2019-08-20T10:37:02;adkorte;PBI 13080 Time registration label query
 Table;11151305;2019-08-21T11:36:20;glind;PBI13139 Job Area Line redesign
 Codeunit;11268694;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
 Codeunit;11268695;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
@@ -1193,3 +1192,4 @@ Page;11151377;2020-08-28T14:30:36;tversluis;"MAW BlnktPurchOrdSchedRecurPtn"
 Page;11151254;2020-08-28T14:30:44;tversluis;"MAW Blnkt.Purch.Ord.Sched.Subp"
 PageExtension;11151261;2020-08-28T14:30:51;tversluis;"MAW Blnkt Sales Order Subform" extends "Blanket Sales Order Subform"
 Query;11151045;2020-08-28T14:30:58;tversluis;"MAW BlnktSlsBOMSchedPeriodQts"
+Query;11151043;2020-08-28T14:31:06;tversluis;"MAW BlnktSlsLnSchedPeriodQties"
