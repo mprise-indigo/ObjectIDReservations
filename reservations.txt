@@ -189,7 +189,6 @@ Table;11269448;2019-09-12T11:27:14;damara;Task13246
 Codeunit;11268697;2019-09-12T14:27:58;jhoek;
 Table;11151243;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151244;2019-09-16T09:37:50;adkorte;UPG BI extension
-Table;11151245;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151360;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151361;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151362;2019-09-16T10:29:21;adkorte;UPG BI extension
@@ -2177,3 +2176,4 @@ Page;11268538;2020-08-28T19:36:48;tversluis;"MAW Plant Health Req.Templates"
 Table;11151242;2020-08-28T19:36:55;tversluis;"MAW Plant Health Req.Templ. Ln"
 Page;11268540;2020-08-28T19:37:02;tversluis;"MAW Plant Health Req.Templ.Lns"
 Page;11268543;2020-08-28T19:37:10;tversluis;"MAW Plant Health Setup"
+Table;11151245;2020-08-28T19:37:16;tversluis;"MAW Plant Health Setup"
