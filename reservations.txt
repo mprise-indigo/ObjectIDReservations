@@ -2231,3 +2231,4 @@ TableExtension;11151258;2020-08-28T19:43:30;tversluis;"MAW Printer Selection" ex
 Codeunit;11151128;2020-08-28T19:43:36;tversluis;"MAW Printer Selection Facade"
 Page;11151082;2020-08-28T19:43:43;tversluis;"MAW Printer Selection per Loc."
 Table;11151064;2020-08-28T19:43:49;tversluis;"MAW Printer Selection per Loc."
+PageExtension;11151297;2020-08-28T19:43:56;tversluis;"MAW Printer Selections" extends "Printer Selections"
