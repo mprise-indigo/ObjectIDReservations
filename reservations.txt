@@ -17,7 +17,6 @@ Page;11268601;2019-02-04T12:27:07;glind;PBI 10072 Lot Filter Providers
 Page;11268602;2019-02-04T12:27:07;glind;PBI 10072 Lot Filter Providers
 Page;11268603;2019-02-04T12:27:07;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268639;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
-Codeunit;11268640;2019-02-04T12:27:38;glind;PBI 10072 Lot Filter Providers
 Codeunit;11268641;2019-02-05T11:44:32;adkorte;PBI10608
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
 Table;11151314;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
@@ -1959,3 +1958,4 @@ Codeunit;11268638;2020-08-28T19:05:59;tversluis;"MAW LF Provider Actual Lots"
 Codeunit;11268693;2020-08-28T19:06:06;tversluis;"MAW LF Provider Available Age"
 Page;11268631;2020-08-28T19:06:13;tversluis;"MAW LF Provider Available Age"
 Table;11151508;2020-08-28T19:06:20;tversluis;"MAW LF Provider Available Age"
+Codeunit;11268640;2020-08-28T19:06:27;tversluis;"MAW LF Provider Feature Value"
