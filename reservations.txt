@@ -2512,3 +2512,4 @@ PageExtension;11151275;2020-08-28T20:17:21;tversluis;"MAW Purchase Order Subform
 TableExtension;11151255;2020-08-28T20:17:28;tversluis;"MAW Purchase Price" extends "Purchase Price"
 PageExtension;11151109;2020-08-28T20:17:34;tversluis;"MAW Purchase Prices" extends "Purchase Prices"
 PageExtension;11151139;2020-08-28T20:17:41;tversluis;"MAW Purchase Quote Subform" extends "Purchase Quote Subform"
+PageExtension;11151104;2020-08-28T20:17:48;tversluis;"MAW Purchase Return Order" extends "Purchase Return Order"
