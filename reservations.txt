@@ -2236,3 +2236,4 @@ EnumTypeExtension;11151039;2020-08-28T19:44:23;tversluis;"MAW Priority Price" ex
 Codeunit;11268787;2020-08-28T19:44:30;tversluis;"MAW Priority Price Mgt."
 Codeunit;11197958;2020-08-28T19:44:37;tversluis;"MAW Proces Incoming Inv. Mut."
 Codeunit;11151409;2020-08-28T19:44:43;tversluis;"MAW Process Flow Event Handlrs"
+Table;11151115;2020-08-28T19:44:50;tversluis;"MAW Process Flow Line"
