@@ -485,7 +485,6 @@ Table;11268488;2019-12-17T10:13:47;damara;PBI_14305
 Report;11151476;2019-12-17T11:05:36;damara;PBI_14305
 Page;11268635;2019-12-17T11:08:08;damara;PBI_14305
 Page;11268636;2019-12-17T11:08:22;damara;PBI_14305
-Table;11151371;2019-12-18T08:14:37;adkorte;TS14393
 Codeunit;11269036;2019-12-24T14:24:16;tversluis;mimic app inspection behavior
 Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
 Codeunit;11268750;2020-01-16T08:53:38;vpanjala;PBI_14588
@@ -1076,3 +1075,4 @@ Page;11269001;2020-08-28T14:15:52;tversluis;"MAW App Insp. Attribute Setup"
 Table;11269001;2020-08-28T14:15:59;tversluis;"MAW App Insp. Attribute Setup"
 Page;11151340;2020-08-28T14:16:07;tversluis;"MAW App Inspect. Comment Lns."
 Codeunit;11269009;2020-08-28T14:16:14;tversluis;"MAW App Inspection Code Mgt."
+Table;11151371;2020-08-28T14:16:21;tversluis;"MAW App Inspection Comment Ln."
