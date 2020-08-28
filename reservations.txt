@@ -1194,3 +1194,4 @@ PageExtension;11151261;2020-08-28T14:30:51;tversluis;"MAW Blnkt Sales Order Subf
 Query;11151045;2020-08-28T14:30:58;tversluis;"MAW BlnktSlsBOMSchedPeriodQts"
 Query;11151043;2020-08-28T14:31:06;tversluis;"MAW BlnktSlsLnSchedPeriodQties"
 Page;11151114;2020-08-28T14:31:13;tversluis;"MAW Blnkt.Sls.Order Schedule"
+Codeunit;11151504;2020-08-28T14:31:20;tversluis;"MAW Blnkt.Sls.Ord. Sched. Mgt."
