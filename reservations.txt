@@ -1973,3 +1973,4 @@ Table;11151050;2020-08-28T19:08:22;tversluis;"MAW Loading Location"
 TableExtension;11151213;2020-08-28T19:08:29;tversluis;"MAW Location" extends Location
 Page;11151533;2020-08-28T19:08:36;tversluis;"MAW Location Allocation Jobs"
 PageExtension;11151282;2020-08-28T19:08:43;tversluis;"MAW Location Card" extends "Location Card"
+Page;11151063;2020-08-28T19:08:50;tversluis;"MAW Location Layout"
