@@ -1213,3 +1213,4 @@ Report;11151516;2020-08-28T14:33:26;tversluis;"MAW Calculate Crop Treatment"
 Codeunit;11268545;2020-08-28T14:33:34;tversluis;"MAW Calculate Replenishment"
 Codeunit;11268540;2020-08-28T14:33:43;tversluis;"MAW Call Webservice"
 TableExtension;11151239;2020-08-28T14:33:50;tversluis;"MAW Campaign" extends Campaign
+Codeunit;11268466;2020-08-28T14:33:57;tversluis;"MAW Cancel Job Activity"
