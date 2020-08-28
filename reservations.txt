@@ -2716,3 +2716,4 @@ TableExtension;11151242;2020-08-28T20:42:07;tversluis;"MAW Sales Line Archive" e
 Page;11151322;2020-08-28T20:42:15;tversluis;"MAW Sales Line Assembly Card"
 Page;11151323;2020-08-28T20:42:22;tversluis;"MAW Sales Line Assembly Subp."
 Codeunit;11151181;2020-08-28T20:42:29;tversluis;"MAW Sales Line BOM - Post Line"
+Table;11197946;2020-08-28T20:42:36;tversluis;"MAW Sales Line Buffer Log."
