@@ -458,7 +458,6 @@ Codeunit;11268744;2019-11-28T11:48:08;damara;Dalath_PBI_14237
 Codeunit;11268745;2019-11-28T11:54:49;damara;Dalath_PBI_14237
 Table;11151195;2019-12-10T15:14:21;adkorte;TS14145
 Table;11268488;2019-12-17T10:13:47;damara;PBI_14305
-Report;11151476;2019-12-17T11:05:36;damara;PBI_14305
 Page;11268636;2019-12-17T11:08:22;damara;PBI_14305
 Codeunit;11269036;2019-12-24T14:24:16;tversluis;mimic app inspection behavior
 Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
@@ -1636,3 +1635,4 @@ Table;11151061;2020-08-28T15:25:24;tversluis;"MAW General Record Link"
 Page;11151262;2020-08-28T15:25:30;tversluis;"MAW General Translation"
 Table;11151259;2020-08-28T15:25:36;tversluis;"MAW General Translation"
 Codeunit;11151264;2020-08-28T15:25:43;tversluis;"MAW Generic Webservice Call"
+Report;11151476;2020-08-28T15:25:49;tversluis;"MAW Gener. Sls Ord.From Blnkt"
