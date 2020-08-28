@@ -2600,3 +2600,4 @@ PageExtension;11151143;2020-08-28T20:28:09;tversluis;"MAW Recurring Consumption 
 PageExtension;11151236;2020-08-28T20:28:16;tversluis;"MAW Recurring Item Jnl." extends "Recurring Item Jnl."
 PageExtension;11151141;2020-08-28T20:28:23;tversluis;"MAW Recurring Output Journal" extends "Recurring Output Journal"
 Page;11151076;2020-08-28T20:28:30;tversluis;"MAW Registration Card"
+Table;11151070;2020-08-28T20:28:38;tversluis;"MAW Registration Code"
