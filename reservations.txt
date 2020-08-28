@@ -2956,3 +2956,4 @@ PageExtension;11151121;2020-08-28T21:14:09;tversluis;"MAW User Personalization C
 PageExtension;11151122;2020-08-28T21:14:17;tversluis;"MAW User Personalization List" extends "User Personalization List"
 PageExtension;11151204;2020-08-28T21:14:25;tversluis;"MAW User Setup" extends "User Setup"
 TableExtension;11151262;2020-08-28T21:14:32;tversluis;"MAW User Setup" extends "User Setup"
+Codeunit;11151479;2020-08-28T21:14:39;tversluis;"MAW Validate VMP Order Line"
