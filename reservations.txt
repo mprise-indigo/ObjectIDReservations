@@ -1,5 +1,4 @@
-﻿Page;11268599;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
-Table;11151537;2019-01-29T07:31:27;wkleemans;PBI 9928
+﻿Table;11151537;2019-01-29T07:31:27;wkleemans;PBI 9928
 Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Codeunit;11268637;2019-02-01T13:12:59;adkorte;PBI10608 Undo Posting codeunit
 Codeunit;11268641;2019-02-05T11:44:32;adkorte;PBI10608
@@ -2027,3 +2026,4 @@ Page;11268597;2020-08-28T19:16:31;tversluis;"MAW Lot Filter Set List"
 Table;11151255;2020-08-28T19:16:38;tversluis;"MAW Lot Filter Set Preference"
 Page;11268603;2020-08-28T19:16:45;tversluis;"MAW Lot Filter Set Preferences"
 Codeunit;11268644;2020-08-28T19:16:52;tversluis;"MAW Lot Filter Set Pref. Mgt."
+Page;11268599;2020-08-28T19:16:59;tversluis;"MAW Lot Filter Set Subpage"
