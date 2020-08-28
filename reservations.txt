@@ -136,7 +136,6 @@ Table;11151507;2019-05-06T14:36:44;damara;Task12179
 Page;11268958;2019-05-06T14:37:06;damara;Task12179
 Codeunit;11268682;2019-05-10T10:00:45;damara;Task12092
 Codeunit;11268683;2019-05-10T12:16:49;damara;Task12092
-Codeunit;11268684;2019-05-10T14:13:48;vpanjala;Task12075
 Codeunit;11268686;2019-05-13T15:39:00;adkorte;PBI 12078 Month Fact
 Codeunit;11268687;2019-05-13T15:39:00;adkorte;PBI 12078 Month Fact
 Report;11151177;2019-05-15T13:10:00;damara;Task12160
@@ -2683,3 +2682,4 @@ Codeunit;11151250;2020-08-28T20:38:10;tversluis;"MAW Sales Cr.Memo Line Facade"
 PageExtension;11151135;2020-08-28T20:38:17;tversluis;"MAW Sales Cr. Memo Subform" extends "Sales Cr. Memo Subform"
 Codeunit;11151396;2020-08-28T20:38:24;tversluis;"MAW Sales Demand Mgt."
 Report;11151045;2020-08-28T20:38:31;tversluis;"MAW Sales Document - Update"
+Codeunit;11268684;2020-08-28T20:38:37;tversluis;"MAW Sales Doc. - Update Props."
