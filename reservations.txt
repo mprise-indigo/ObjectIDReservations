@@ -202,7 +202,6 @@ Page;11268526;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268527;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268528;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
-Codeunit;11268468;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
 Codeunit;11268694;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
 Codeunit;11268695;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
@@ -1863,3 +1862,4 @@ Page;11151210;2020-08-28T18:53:47;tversluis;"MAW Job Mutation Journal Batch"
 Table;11151189;2020-08-28T18:53:55;tversluis;"MAW Job Mutation Journal Batch"
 Table;11151188;2020-08-28T18:54:02;tversluis;"MAW Job Mutation Journal Line"
 Codeunit;11151170;2020-08-28T18:54:09;tversluis;"MAW Job Mutation Mgt."
+Codeunit;11268468;2020-08-28T18:54:16;tversluis;"MAW JobMutatJnlLn - Inh.Props."
