@@ -1181,3 +1181,4 @@ PageExtension;11151259;2020-08-28T14:29:08;tversluis;"MAW Blanket Sales Order" e
 Report;11151187;2020-08-28T14:29:15;tversluis;"MAW Blanket Sales Order"
 Codeunit;11151455;2020-08-28T14:29:23;tversluis;"MAW Blanket Sales Order Mgt."
 PageExtension;11151128;2020-08-28T14:29:29;tversluis;"MAW Blanket Sales Orders" extends "Blanket Sales Orders"
+Page;11268474;2020-08-28T14:29:36;tversluis;"MAW Blnkt. Order Line Lookup"
