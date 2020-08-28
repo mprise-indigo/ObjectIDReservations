@@ -1566,3 +1566,4 @@ TableExtension;11151231;2020-08-28T15:17:18;tversluis;"MAW Entry Summary" extend
 Page;11151514;2020-08-28T15:17:26;tversluis;"MAW Event Log"
 Table;11151514;2020-08-28T15:17:33;tversluis;"MAW Event Log Entry"
 Page;11151513;2020-08-28T15:17:40;tversluis;"MAW Event Log Event List"
+Page;11151512;2020-08-28T15:17:46;tversluis;"MAW Event Log Event Subpage"
