@@ -2860,3 +2860,4 @@ TableExtension;11151218;2020-08-28T20:59:46;tversluis;"MAW Standard Purchase Lin
 TableExtension;11151217;2020-08-28T20:59:53;tversluis;"MAW Standard Sales Line" extends "Standard Sales Line"
 PageExtension;11151225;2020-08-28T21:00:01;tversluis;"MAW Standard Sls. Code Subform" extends "Standard Sales Code Subform"
 PageExtension;11151226;2020-08-28T21:00:08;tversluis;"MAW Stand. Purch. Code Subfrm" extends "Standard Purchase Code Subform"
+Codeunit;11151153;2020-08-28T21:00:16;tversluis;"MAW StdCostWksh Calc.Job Cost"
