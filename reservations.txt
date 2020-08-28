@@ -502,7 +502,6 @@ Page;11268673;2020-03-04T17:24:53;vpanjala;Task_15133
 Report;11151477;2020-03-06T09:47:48;damara;Task_15136
 Table;11151377;2020-03-11T10:21:39;glind;Upgrade Document Feature Value
 Codeunit;11268749;2020-03-12T09:04:59;adkorte;PBI 15666 plant health event Hub
-Codeunit;11268755;2020-03-12T13:45:05;adkorte;PBI 15666 crop treatment event Hub
 Codeunit;11268757;2020-03-12T15:32:03;adkorte;PBI 15666 daily time sheet event Hub
 Codeunit;11268758;2020-03-16T06:53:13;adkorte;TS 15666 Inventory mutation buffer event hub
 Codeunit;11268759;2020-03-16T07:14:43;adkorte;TS 15666 Job Output Sales Post Event Hub
@@ -1430,3 +1429,4 @@ Codeunit;11151310;2020-08-28T15:00:07;tversluis;"MAW Crop Treatment - ApplyTmpl"
 Page;11151311;2020-08-28T15:00:14;tversluis;"MAW Crop Treatment Card"
 Table;11151309;2020-08-28T15:00:20;tversluis;"MAW Crop Treatment Code"
 Page;11151316;2020-08-28T15:00:26;tversluis;"MAW Crop Treatment Codes"
+Codeunit;11268755;2020-08-28T15:00:33;tversluis;"MAW Crop Treatment Event Hub"
