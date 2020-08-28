@@ -2775,3 +2775,4 @@ TableExtension;11151201;2020-08-28T20:49:24;tversluis;"MAW Sales Shipment Header
 TableExtension;11151202;2020-08-28T20:49:32;tversluis;"MAW Sales Shipment Line" extends "Sales Shipment Line"
 Codeunit;11151059;2020-08-28T20:49:38;tversluis;"MAW Sales Shipment Line Facade"
 Codeunit;11151426;2020-08-28T20:49:46;tversluis;"MAW Sales Supply Mgt."
+Page;11151241;2020-08-28T20:49:53;tversluis;"MAW Save As Filter Set Dlg"
