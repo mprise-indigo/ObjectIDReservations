@@ -228,7 +228,6 @@ Codeunit;11268721;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11268722;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11151211;2019-09-02T11:03:12;jhoek;
 Report;11151059;2019-09-10T08:21:58;vpanjala;Task12440
-Report;11151060;2019-09-10T08:22:27;vpanjala;Task12440
 Codeunit;11269450;2019-09-10T10:57:16;vpanjala;Task12440
 Table;11151509;2019-09-11T08:31:59;damara;Task13246
 Page;11268999;2019-09-11T08:40:31;damara;Task13246
@@ -1580,3 +1579,4 @@ Page;11151237;2020-08-28T15:18:57;tversluis;"MAW Expected Receipts"
 Codeunit;11151341;2020-08-28T15:19:04;tversluis;"MAW Export Data Model"
 Report;11197931;2020-08-28T15:19:10;tversluis;"MAW Export Items to Log.System"
 Report;11197930;2020-08-28T15:19:17;tversluis;"MAW Export Jobs to Log. System"
+Report;11151060;2020-08-28T15:19:23;tversluis;"MAW Exp. Prod. Fcst To Excel"
