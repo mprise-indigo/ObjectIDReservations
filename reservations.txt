@@ -386,7 +386,6 @@ Page;11268641;2019-10-04T07:59:25;vpanjala;DalatPBI_13575
 Page;11268642;2019-10-04T08:06:45;vpanjala;DalatPBI_13575
 Report;11151199;2019-10-10T08:34:45;damara;DalathPBI_13604
 Page;11268628;2019-10-15T10:50:55;adkorte;TS 13087 Page for week time reg. calc rules
-Page;11268630;2019-10-16T11:32:19;adkorte;TS13416 Move objects from dedicated ID-ranges
 Page;11268632;2019-10-16T11:32:20;adkorte;TS13416 Move objects from dedicated ID-ranges
 Report;11151214;2019-10-17T16:42:01;tversluis;Anouk - Pick List
 Report;11151057;2019-10-23T09:46:05;tversluis;Anouk - Pick List
@@ -2035,3 +2034,4 @@ Page;11268633;2020-08-28T19:18:28;tversluis;"MAW Lot Position Priorities"
 Page;11268643;2020-08-28T19:18:35;tversluis;"MAW Lot Reclass. Journal"
 Codeunit;11268740;2020-08-28T19:18:42;tversluis;"MAW Lot Reclass. Journal Mgt."
 Report;11151062;2020-08-28T19:18:49;tversluis;"MAW Lot Reclas. Storage Stick."
+Page;11268630;2020-08-28T19:18:56;tversluis;"MAW Lots Factbox"
