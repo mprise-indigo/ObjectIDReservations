@@ -3,7 +3,6 @@ Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Codeunit;11268637;2019-02-01T13:12:59;adkorte;PBI10608 Undo Posting codeunit
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
 Table;11151314;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
-Page;11268604;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Report;11151044;2019-02-18T11:22:58;adkorte;PBI11007
 Report;11151075;2019-02-21T07:53:52;adkorte;replacement for report 11151044 which was in use in 10.07
 Codeunit;11197817;2019-02-22T13:51:21;jhoek;IA EBF Instruction Mgt.
@@ -2895,3 +2894,4 @@ Table;11151316;2020-08-28T21:05:14;tversluis;"MAW Time Reg. Class. Position"
 Page;11268606;2020-08-28T21:05:21;tversluis;"MAW Time Reg. Class. Positions"
 Codeunit;11268757;2020-08-28T21:05:27;tversluis;"MAW Time Reg. Event Hub"
 Page;11268488;2020-08-28T21:05:33;tversluis;"MAW Time Registrat. Activities"
+Page;11268604;2020-08-28T21:05:39;tversluis;"MAW Time Registration Class."
