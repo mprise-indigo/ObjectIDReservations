@@ -368,7 +368,6 @@ Codeunit;11268743;2019-11-28T10:32:27;adkorte;BI install script extension
 Codeunit;11268744;2019-11-28T11:48:08;damara;Dalath_PBI_14237
 Codeunit;11268745;2019-11-28T11:54:49;damara;Dalath_PBI_14237
 Table;11151195;2019-12-10T15:14:21;adkorte;TS14145
-Table;11268488;2019-12-17T10:13:47;damara;PBI_14305
 Page;11268636;2019-12-17T11:08:22;damara;PBI_14305
 Codeunit;11269036;2019-12-24T14:24:16;tversluis;mimic app inspection behavior
 Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
@@ -2871,3 +2870,4 @@ Codeunit;11151519;2020-08-28T21:01:21;tversluis;"MAW Style Expression Mgt."
 Table;11151507;2020-08-28T21:01:29;tversluis;"MAW Style Legend Buffer"
 Page;11268958;2020-08-28T21:01:37;tversluis;"MAW Style Legend Factbox"
 Codeunit;11151256;2020-08-28T21:01:44;tversluis;"MAW Subsection Facade"
+Table;11268488;2020-08-28T21:01:52;tversluis;"MAW Suggested Sales Order Line"
