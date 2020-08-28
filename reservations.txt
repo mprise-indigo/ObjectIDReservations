@@ -1851,3 +1851,4 @@ PageExtension;11151124;2020-08-28T18:52:14;tversluis;"MAW Job Ledger Entries" ex
 TableExtension;11151216;2020-08-28T18:52:21;tversluis;"MAW Job Ledger Entry" extends "Job Ledger Entry"
 Page;11151214;2020-08-28T18:52:36;tversluis;"MAW Job List"
 Codeunit;11151168;2020-08-28T18:52:43;tversluis;"MAW Job Mgt."
+Page;11151360;2020-08-28T18:52:50;tversluis;"MAW Job Multiple Split"
