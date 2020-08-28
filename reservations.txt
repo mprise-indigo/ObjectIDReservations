@@ -2867,3 +2867,4 @@ TableExtension;11151244;2020-08-28T21:00:38;tversluis;"MAW Stockkeeping Unit" ex
 PageExtension;11151280;2020-08-28T21:00:46;tversluis;"MAW Stockkeeping Unit Card" extends "Stockkeeping Unit Card"
 PageExtension;11151281;2020-08-28T21:00:53;tversluis;"MAW Stockkeeping Unit List" extends "Stockkeeping Unit List"
 Codeunit;11151051;2020-08-28T21:01:00;tversluis;"MAW Stockkeeping Unit Mgt."
+Codeunit;11151456;2020-08-28T21:01:08;tversluis;"MAW Stopwatch"
