@@ -1812,3 +1812,4 @@ PageExtension;11151202;2020-08-28T18:47:21;tversluis;"MAW Item Vendor Catalog" e
 TableExtension;11151215;2020-08-28T18:47:28;tversluis;"MAW Job" extends Job
 Table;11151180;2020-08-28T18:47:35;tversluis;"MAW Job Activity Scheme Line"
 Codeunit;11151122;2020-08-28T18:47:42;tversluis;"MAW Job Activity Scheme Ln. UI"
+Codeunit;11151092;2020-08-28T18:47:49;tversluis;"MAW Job Act.Scheme Line Facade"
