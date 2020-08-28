@@ -2529,3 +2529,4 @@ TableExtension;11151210;2020-08-28T20:19:37;tversluis;"MAW Purch. Inv. Line" ext
 PageExtension;11151277;2020-08-28T20:19:44;tversluis;"MAW Purch. Invoice Subform" extends "Purch. Invoice Subform"
 Codeunit;11151470;2020-08-28T20:19:51;tversluis;"MAW Purch. Line - Inh.Props."
 Codeunit;11151237;2020-08-28T20:19:58;tversluis;"MAW Purch.Lns- Post Rcpt.Qties"
+Codeunit;11151126;2020-08-28T20:20:05;tversluis;"MAW Purch.-Post"
