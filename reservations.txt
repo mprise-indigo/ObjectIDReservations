@@ -2964,3 +2964,4 @@ TableExtension;11151223;2020-08-28T21:15:09;tversluis;"MAW Vendor" extends Vendo
 PageExtension;11151234;2020-08-28T21:15:16;tversluis;"MAW Vendor Card" extends "Vendor Card"
 Codeunit;11151101;2020-08-28T21:15:23;tversluis;"MAW Vendor Facade"
 PageExtension;11151238;2020-08-28T21:15:30;tversluis;"MAW Vendor Item Catalog" extends "Vendor Item Catalog"
+PageExtension;11151235;2020-08-28T21:15:38;tversluis;"MAW Vendor List" extends "Vendor List"
