@@ -469,7 +469,6 @@ Codeunit;11268738;2019-11-12T11:06:45;tversluis;Production Item Preferences
 Codeunit;11268739;2019-11-12T11:13:29;tversluis;Production Item Preferences
 Codeunit;11268740;2019-11-13T11:33:08;damara;Dalath_PBI_13792
 Codeunit;11268741;2019-11-18T13:48:35;tversluis;update factor prefs
-Codeunit;11269035;2019-11-19T08:14:37;adkorte;TS14107 Job Type for App
 Page;11268646;2019-11-19T11:09:01;adkorte;TS14107 Job Type for App
 Table;11151333;2019-11-19T11:11:08;adkorte;TS14107 Job Type for App
 Page;11268647;2019-11-19T12:47:01;adkorte;TS14107 Job Type for App
@@ -1083,3 +1082,4 @@ Codeunit;11269007;2020-08-28T14:16:49;tversluis;"MAW App Item Hybrid Mgt."
 Codeunit;11269004;2020-08-28T14:16:56;tversluis;"MAW App Item Mgt."
 Codeunit;11269005;2020-08-28T14:17:02;tversluis;"MAW App Job Comment Mgt."
 Codeunit;11269003;2020-08-28T14:17:09;tversluis;"MAW App Job Mgt."
+Codeunit;11269035;2020-08-28T14:17:17;tversluis;"MAW App Job Type Mgt."
