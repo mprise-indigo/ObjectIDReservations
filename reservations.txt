@@ -2753,3 +2753,4 @@ TableExtension;11151254;2020-08-28T20:46:35;tversluis;"MAW Sales Price" extends 
 Codeunit;11151386;2020-08-28T20:46:42;tversluis;"MAW Sales Price Mgt."
 Page;11151167;2020-08-28T20:46:49;tversluis;"MAW Sales Price Priorities"
 Table;11151167;2020-08-28T20:46:55;tversluis;"MAW Sales Price Priority"
+Page;11151294;2020-08-28T20:47:13;tversluis;"MAW Sales Prices"
