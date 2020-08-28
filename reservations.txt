@@ -1809,3 +1809,4 @@ TableExtension;11151243;2020-08-28T18:47:00;tversluis;"MAW Item Variant" extends
 PageExtension;11151276;2020-08-28T18:47:07;tversluis;"MAW Item Variants" extends "Item Variants"
 TableExtension;11151265;2020-08-28T18:47:14;tversluis;"MAW Item Vendor" extends "Item Vendor"
 PageExtension;11151202;2020-08-28T18:47:21;tversluis;"MAW Item Vendor Catalog" extends "Item Vendor Catalog"
+TableExtension;11151215;2020-08-28T18:47:28;tversluis;"MAW Job" extends Job
