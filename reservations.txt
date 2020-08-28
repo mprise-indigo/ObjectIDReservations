@@ -2962,3 +2962,4 @@ Page;11151389;2020-08-28T21:14:54;tversluis;"MAW Vehicle Card"
 Page;11151390;2020-08-28T21:15:02;tversluis;"MAW Vehicle List"
 TableExtension;11151223;2020-08-28T21:15:09;tversluis;"MAW Vendor" extends Vendor
 PageExtension;11151234;2020-08-28T21:15:16;tversluis;"MAW Vendor Card" extends "Vendor Card"
+Codeunit;11151101;2020-08-28T21:15:23;tversluis;"MAW Vendor Facade"
