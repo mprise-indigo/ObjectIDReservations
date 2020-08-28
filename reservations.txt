@@ -1,5 +1,4 @@
-﻿Table;11151254;2019-01-28T10:35:49;glind;PBP 10072 Lot Filter Setup
-Page;11268597;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
+﻿Page;11268597;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Page;11268599;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Table;11151537;2019-01-29T07:31:27;wkleemans;PBI 9928
 Page;11268600;2019-01-29T14:26:26;glind;PBI 10072 Lot Filter Set
@@ -2027,3 +2026,4 @@ Table;11151252;2020-08-28T19:15:49;tversluis;"MAW Lot Filter Provider"
 Page;11268596;2020-08-28T19:15:56;tversluis;"MAW Lot Filter Providers"
 Table;11151253;2020-08-28T19:16:04;tversluis;"MAW Lot Filter Set"
 Page;11268598;2020-08-28T19:16:11;tversluis;"MAW Lot Filter Set Card"
+Table;11151254;2020-08-28T19:16:18;tversluis;"MAW Lot Filter Set Line"
