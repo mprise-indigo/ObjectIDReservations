@@ -1337,3 +1337,4 @@ PageExtension;11151257;2020-08-28T14:48:28;tversluis;"MAW Contact Card" extends 
 Page;11151431;2020-08-28T14:48:34;tversluis;"MAW Contact Complaints Subpage"
 Table;11151415;2020-08-28T14:48:42;tversluis;"MAW Contact Email Symbol"
 Page;11151430;2020-08-28T14:48:48;tversluis;"MAW Contact Interactions Subp."
+PageExtension;11151258;2020-08-28T14:48:55;tversluis;"MAW Contact List" extends "Contact List"
