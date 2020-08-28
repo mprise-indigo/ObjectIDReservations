@@ -1216,3 +1216,4 @@ TableExtension;11151239;2020-08-28T14:33:50;tversluis;"MAW Campaign" extends Cam
 Codeunit;11268466;2020-08-28T14:33:57;tversluis;"MAW Cancel Job Activity"
 Table;11151337;2020-08-28T14:34:03;tversluis;"MAW Caption"
 Table;11151338;2020-08-28T14:34:10;tversluis;"MAW Caption Language"
+Page;11151351;2020-08-28T14:34:17;tversluis;"MAW Captions"
