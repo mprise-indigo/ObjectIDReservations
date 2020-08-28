@@ -1457,3 +1457,4 @@ Page;11268991;2020-08-28T15:03:30;tversluis;"MAW C Time Registration Log"
 Table;11151152;2020-08-28T15:03:37;tversluis;"MAW Cust. - End Cust. Relation"
 Page;11151359;2020-08-28T15:03:44;tversluis;"MAW Cust. End Cust. Relations"
 TableExtension;11151219;2020-08-28T15:03:51;tversluis;"MAW Customer" extends Customer
+PageExtension;11151230;2020-08-28T15:03:58;tversluis;"MAW Customer Card" extends "Customer Card"
