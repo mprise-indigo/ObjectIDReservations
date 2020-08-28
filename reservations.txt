@@ -2198,3 +2198,4 @@ PageExtension;11151221;2020-08-28T19:39:23;tversluis;"MAW Posted Sales Credit Me
 PageExtension;11151208;2020-08-28T19:39:30;tversluis;"MAW Posted Sales Invoice" extends "Posted Sales Invoice"
 PageExtension;11151220;2020-08-28T19:39:36;tversluis;"MAW Posted Sales Invoices" extends "Posted Sales Invoices"
 PageExtension;11151205;2020-08-28T19:39:43;tversluis;"MAW Posted Sales Shipment" extends "Posted Sales Shipment"
+PageExtension;11151219;2020-08-28T19:39:50;tversluis;"MAW Posted Sales Shipments" extends "Posted Sales Shipments"
