@@ -2808,3 +2808,4 @@ PageExtension;11151249;2020-08-28T20:53:32;tversluis;"MAW Shipping Agents" exten
 Table;11151387;2020-08-28T20:53:39;tversluis;"MAW Shipping Agent Vehicle"
 Page;11151127;2020-08-28T20:53:46;tversluis;"MAW Ship Sales Lines"
 PageExtension;11151240;2020-08-28T20:53:53;tversluis;"MAW Ship-to Address" extends "Ship-to Address"
+TableExtension;11151222;2020-08-28T20:54:00;tversluis;"MAW Ship-to Address" extends "Ship-to Address"
