@@ -482,7 +482,6 @@ Page;11268673;2020-03-04T17:24:53;vpanjala;Task_15133
 Report;11151477;2020-03-06T09:47:48;damara;Task_15136
 Codeunit;11268749;2020-03-12T09:04:59;adkorte;PBI 15666 plant health event Hub
 Codeunit;11268757;2020-03-12T15:32:03;adkorte;PBI 15666 daily time sheet event Hub
-Codeunit;11268758;2020-03-16T06:53:13;adkorte;TS 15666 Inventory mutation buffer event hub
 Codeunit;11268759;2020-03-16T07:14:43;adkorte;TS 15666 Job Output Sales Post Event Hub
 Codeunit;11268760;2020-03-16T08:45:49;adkorte;TS 15666 Sales Line BOM Post Event Hub
 Page;11268674;2020-03-16T13:34:18;vpanjala;Task_15138
@@ -1727,3 +1726,4 @@ Report;11151067;2020-08-28T15:37:40;tversluis;"MAW Inventory Movement"
 Table;11197951;2020-08-28T15:37:46;tversluis;"MAW Inventory Mutation Buffer"
 PageExtension;11151039;2020-08-28T15:37:53;tversluis;"MAW Inventory Setup" extends "Inventory Setup"
 TableExtension;11151039;2020-08-28T15:38:00;tversluis;"MAW Inventory Setup" extends "Inventory Setup"
+Codeunit;11268758;2020-08-28T15:38:07;tversluis;"MAW Inv. Mut. Buf. Event Hub"
