@@ -2958,3 +2958,4 @@ PageExtension;11151204;2020-08-28T21:14:25;tversluis;"MAW User Setup" extends "U
 TableExtension;11151262;2020-08-28T21:14:32;tversluis;"MAW User Setup" extends "User Setup"
 Codeunit;11151479;2020-08-28T21:14:39;tversluis;"MAW Validate VMP Order Line"
 Codeunit;11151134;2020-08-28T21:14:46;tversluis;"MAW Variant Functions"
+Page;11151389;2020-08-28T21:14:54;tversluis;"MAW Vehicle Card"
