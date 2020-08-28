@@ -186,7 +186,6 @@ Table;11151365;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
 Table;11151366;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
 Page;11268611;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
 Page;11268612;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
-Page;11268614;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
 Page;11268615;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
 Page;11268616;2019-09-17T11:46:41;adkorte;TS13014 Time labelling
 Codeunit;11268723;2019-09-17T11:46:42;adkorte;TS13014 Time labelling
@@ -2894,3 +2893,4 @@ Table;11151085;2020-08-28T21:04:25;tversluis;"MAW Templ. Table with Props."
 Codeunit;11151536;2020-08-28T21:04:31;tversluis;"MAW Time Functions"
 Codeunit;11268623;2020-08-28T21:04:37;tversluis;"MAW Time Reg.Buffer Preprocess"
 Table;11151368;2020-08-28T21:04:44;tversluis;"MAW Time Reg. Calc. Rule"
+Page;11268614;2020-08-28T21:04:50;tversluis;"MAW Time Reg. Calc. Rules Day"
