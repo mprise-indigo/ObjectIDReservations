@@ -408,7 +408,6 @@ Report;11151062;2019-10-25T12:24:58;damara;Dalath_PBI_13794
 Report;11151063;2019-10-30T16:34:20;tversluis;Anouk - Dalat something
 Page;11268633;2019-11-01T16:53:22;glind;PBI13613
 Report;11151471;2019-11-04T08:16:36;vpanjala;Dalat_PBI_13956
-Codeunit;11268737;2019-11-11T11:07:42;glind;PBI13613 Lot Position Priority
 Table;11151138;2019-11-12T11:06:44;tversluis;Production Item Preferences
 Page;11151246;2019-11-12T11:06:45;tversluis;Production Item Preferences
 Codeunit;11268738;2019-11-12T11:06:45;tversluis;Production Item Preferences
@@ -2026,3 +2025,4 @@ Page;11151454;2020-08-28T19:15:01;tversluis;"MAW Lot Entries per Loc.Factb."
 Table;11151302;2020-08-28T19:15:08;tversluis;"MAW Lot Entry"
 Table;11151313;2020-08-28T19:15:15;tversluis;"MAW Lot Entry Position Prior."
 Page;11268634;2020-08-28T19:15:22;tversluis;"MAW Lot Entry Pos.Prio.Factb."
+Codeunit;11268737;2020-08-28T19:15:28;tversluis;"MAW Lot Entry Pos.Priority Mgt"
