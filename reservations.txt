@@ -1726,3 +1726,4 @@ TableExtension;11151238;2020-08-28T15:37:32;tversluis;"MAW Interaction Log Entry
 Report;11151067;2020-08-28T15:37:40;tversluis;"MAW Inventory Movement"
 Table;11197951;2020-08-28T15:37:46;tversluis;"MAW Inventory Mutation Buffer"
 PageExtension;11151039;2020-08-28T15:37:53;tversluis;"MAW Inventory Setup" extends "Inventory Setup"
+TableExtension;11151039;2020-08-28T15:38:00;tversluis;"MAW Inventory Setup" extends "Inventory Setup"
