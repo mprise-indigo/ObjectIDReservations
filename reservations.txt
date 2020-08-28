@@ -194,7 +194,6 @@ Table;11151243;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151244;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151245;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151246;2019-09-16T09:37:50;adkorte;UPG BI extension
-Table;11151247;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151360;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151361;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151362;2019-09-16T10:29:21;adkorte;UPG BI extension
@@ -2167,3 +2166,4 @@ Page;11268532;2020-08-28T19:34:59;tversluis;"MAW Plant Health Document Lots"
 Codeunit;11268617;2020-08-28T19:35:06;tversluis;"MAW Plant Health Document Mgt."
 Page;11268533;2020-08-28T19:35:13;tversluis;"MAW Plant Health Documents"
 Page;11268593;2020-08-28T19:35:20;tversluis;"MAW Plant Health Entries"
+Table;11151247;2020-08-28T19:35:27;tversluis;"MAW Plant Health Entry"
