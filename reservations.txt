@@ -479,7 +479,6 @@ Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
 Codeunit;11268750;2020-01-16T08:53:38;vpanjala;PBI_14588
 Table;11151372;2020-01-24T17:08:33;glind;Rounding Method Preference
 Page;11268637;2020-01-24T17:08:53;glind;Rounding Method Preference
-Codeunit;11268747;2020-01-24T17:09:16;glind;Rounding Method Preference
 Codeunit;11151080;2020-01-30T11:20:42;tversluis;BC14
 Report;11151064;2020-01-30T22:31:14;tversluis;BC14
 Report;11151215;2020-01-30T22:32:03;tversluis;
@@ -1330,3 +1329,4 @@ Codeunit;11151346;2020-08-28T14:47:19;tversluis;"MAW Connect Vendor Facade"
 Table;11151347;2020-08-28T14:47:26;tversluis;"MAW Connect Work Order"
 Codeunit;11151351;2020-08-28T14:47:33;tversluis;"MAW Connect Work Order API"
 Codeunit;11151352;2020-08-28T14:47:40;tversluis;"MAW Connect Work Order Facade"
+Codeunit;11268747;2020-08-28T14:47:46;tversluis;"MAW Cons.ItemRnd.Pref.Prop.Sub"
