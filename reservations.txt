@@ -2812,3 +2812,4 @@ TableExtension;11151222;2020-08-28T20:54:00;tversluis;"MAW Ship-to Address" exte
 PageExtension;11151241;2020-08-28T20:54:08;tversluis;"MAW Ship-to Address List" extends "Ship-to Address List"
 Page;11151142;2020-08-28T20:54:15;tversluis;"MAW Shortcut Property Setup"
 Table;11151130;2020-08-28T20:54:23;tversluis;"MAW Shortcut Property Setup"
+Codeunit;11151136;2020-08-28T20:54:31;tversluis;"MAW Shortcut Property Setup UI"
