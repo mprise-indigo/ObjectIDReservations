@@ -2521,3 +2521,4 @@ PageExtension;11151288;2020-08-28T20:18:22;tversluis;"MAW Purchasing Codes" exte
 Codeunit;11151363;2020-08-28T20:18:29;tversluis;"MAW PurchBlnktOrdBusEvntGUIDs"
 Codeunit;11151364;2020-08-28T20:18:36;tversluis;"MAW PurchBlnktOrdBusEvntLogMgt"
 Codeunit;11151362;2020-08-28T20:18:43;tversluis;"MAW PurchBlnktOrdBusEvntSource"
+TableExtension;11151211;2020-08-28T20:18:50;tversluis;"MAW Purch. Cr. Memo Hdr." extends "Purch. Cr. Memo Hdr."
