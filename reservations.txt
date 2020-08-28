@@ -197,7 +197,6 @@ Table;11151241;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Table;11151242;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268525;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268526;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
-Page;11268527;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268528;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
@@ -1941,3 +1940,4 @@ Codeunit;11268593;2020-08-28T19:03:26;tversluis;"MAW Job WIP Output Posting"
 Page;11268590;2020-08-28T19:03:32;tversluis;"MAW Job WIP Posting Setup"
 Table;11268590;2020-08-28T19:03:38;tversluis;"MAW Job WIP Posting Setup"
 Codeunit;11268590;2020-08-28T19:03:45;tversluis;"MAW Job WIP Posting Setup Mgt."
+Page;11268527;2020-08-28T19:03:52;tversluis;"MAW JSON Buffer"
