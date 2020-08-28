@@ -154,7 +154,6 @@ Codeunit;11269448;2019-04-16T08:41:36;vpanjala;
 Codeunit;11269449;2019-04-16T08:46:40;damara;Task11837
 Page;11269447;2019-04-18T10:08:02;vpanjala;Task12023
 Codeunit;11268678;2019-04-23T11:38:35;damara;Task12090
-Table;11151274;2019-04-23T14:50:15;adkorte;PBI08537
 Codeunit;11268679;2019-04-24T13:50:16;adkorte;8537
 Codeunit;11268680;2019-04-24T13:50:16;adkorte;8537
 Table;11269447;2019-04-26T12:40:52;damara;Task12090
@@ -1745,3 +1744,4 @@ Table;11268655;2020-08-28T15:39:45;tversluis;"MAW Item Avail. Matching Entry"
 Table;11268654;2020-08-28T15:39:51;tversluis;"MAW Item Avail.Matching Method"
 Page;11268654;2020-08-28T15:39:57;tversluis;"MAW Item Avail.Match.Meth.List"
 Page;11268560;2020-08-28T15:40:03;tversluis;"MAW Item Avail.Prod.Fcst.Param"
+Table;11151274;2020-08-28T15:40:09;tversluis;"MAW Item Avail. ProdFcstParam."
