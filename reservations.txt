@@ -162,7 +162,6 @@ Page;11197800;2019-06-05T10:40:33;glind;PBI12465
 Codeunit;11268690;2019-06-06T17:03:23;tversluis;Job Creation/Calculation
 Codeunit;11197751;2019-07-04T08:50:21;jhoek;Feature value event subscribers
 Page;11268996;2019-07-25T07:11:24;damara;Task12857
-Page;11268526;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
 Codeunit;11268694;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
@@ -2483,3 +2482,4 @@ Page;11151138;2020-08-28T20:13:49;tversluis;"MAW Property Templates"
 Page;11151140;2020-08-28T20:13:56;tversluis;"MAW Property Templ.Line Subpg."
 Codeunit;11151208;2020-08-28T20:14:07;tversluis;"MAW Property Value Facade"
 Page;11151135;2020-08-28T20:14:14;tversluis;"MAW Property Value Factbox"
+Page;11268526;2020-08-28T20:14:20;tversluis;"MAW Property Value Overview"
