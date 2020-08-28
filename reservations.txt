@@ -2034,3 +2034,4 @@ PageExtension;11151299;2020-08-28T19:17:47;tversluis;"MAW Lot No. Information Ca
 Codeunit;11151157;2020-08-28T19:17:55;tversluis;"MAW Lot No. Information Facade"
 PageExtension;11151100;2020-08-28T19:18:02;tversluis;"MAW Lot No. Information List" extends "Lot No. Information List"
 Codeunit;11151375;2020-08-28T19:18:09;tversluis;"MAW Lot No. Information UI"
+Page;11151366;2020-08-28T19:18:16;tversluis;"MAW Lot No. Info. Subpage"
