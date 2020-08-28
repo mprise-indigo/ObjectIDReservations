@@ -193,7 +193,6 @@ Codeunit;11268697;2019-09-12T14:27:58;jhoek;
 Table;11151243;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151244;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151245;2019-09-16T09:37:50;adkorte;UPG BI extension
-Table;11151246;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151360;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151361;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151362;2019-09-16T10:29:21;adkorte;UPG BI extension
@@ -2172,3 +2171,4 @@ Table;11151249;2020-08-28T19:35:47;tversluis;"MAW Plant Health Jnl. Batch"
 Page;11268595;2020-08-28T19:35:54;tversluis;"MAW Plant Health Jnl. Batches"
 Table;11151248;2020-08-28T19:36:01;tversluis;"MAW Plant Health Jnl. Templ."
 Page;11268594;2020-08-28T19:36:07;tversluis;"MAW Plant Health Jnl.Templates"
+Table;11151246;2020-08-28T19:36:15;tversluis;"MAW Plant Health Journal Line"
