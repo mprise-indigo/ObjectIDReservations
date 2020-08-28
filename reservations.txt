@@ -280,7 +280,6 @@ Table;11151510;2019-09-23T08:27:51;damara;Task13433_Dalath
 Page;11268971;2019-09-23T08:28:27;damara;Task13433_Dalath
 Codeunit;11268971;2019-09-23T08:30:32;damara;Task13433_Dalath
 Table;11151193;2019-09-26T07:51:39;adkorte;PBI12988 Baser Material Preferences
-Page;11151132;2019-09-26T07:51:40;adkorte;PBI12988 Baser Material Preferences
 Codeunit;11268726;2019-09-26T07:53:23;adkorte;PBI12988 Baser Material Preferences
 Report;11151197;2019-09-26T11:32:01;damara;Task13437_Dalath
 Codeunit;11268727;2019-09-26T14:16:39;glind;PBI13433 Lot Sorting
@@ -1160,3 +1159,4 @@ Codeunit;11151378;2020-08-28T14:26:14;tversluis;"MAW Available Lots Mgt."
 TableExtension;11151226;2020-08-28T14:26:21;tversluis;"MAW Bank Acc. Reconc. Line" extends "Bank Acc. Reconciliation Line"
 Report;11151042;2020-08-28T14:26:27;tversluis;"MAW Barcodes Installed"
 Table;11151330;2020-08-28T14:26:34;tversluis;"MAW Base Material Preference"
+Page;11151132;2020-08-28T14:26:41;tversluis;"MAW Base Material Preferences"
