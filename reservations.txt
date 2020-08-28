@@ -394,7 +394,6 @@ Page;11268643;2019-10-23T11:46:17;vpanjala;DalatPBI_13792
 Report;11151062;2019-10-25T12:24:58;damara;Dalath_PBI_13794
 Report;11151063;2019-10-30T16:34:20;tversluis;Anouk - Dalat something
 Page;11268633;2019-11-01T16:53:22;glind;PBI13613
-Report;11151471;2019-11-04T08:16:36;vpanjala;Dalat_PBI_13956
 Table;11151138;2019-11-12T11:06:44;tversluis;Production Item Preferences
 Page;11151246;2019-11-12T11:06:45;tversluis;Production Item Preferences
 Codeunit;11268738;2019-11-12T11:06:45;tversluis;Production Item Preferences
@@ -2027,3 +2026,4 @@ Page;11268603;2020-08-28T19:16:45;tversluis;"MAW Lot Filter Set Preferences"
 Codeunit;11268644;2020-08-28T19:16:52;tversluis;"MAW Lot Filter Set Pref. Mgt."
 Page;11268599;2020-08-28T19:16:59;tversluis;"MAW Lot Filter Set Subpage"
 Codeunit;11268727;2020-08-28T19:17:06;tversluis;"MAW Lot Filter - Sorting"
+Report;11151471;2020-08-28T19:17:13;tversluis;"MAW Lot Inventory"
