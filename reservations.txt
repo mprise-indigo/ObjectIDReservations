@@ -163,7 +163,6 @@ Page;11197800;2019-06-05T10:40:33;glind;PBI12465
 Codeunit;11268690;2019-06-06T17:03:23;tversluis;Job Creation/Calculation
 Codeunit;11197751;2019-07-04T08:50:21;jhoek;Feature value event subscribers
 Page;11268996;2019-07-25T07:11:24;damara;Task12857
-Page;11268525;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268526;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
@@ -2295,3 +2294,4 @@ Codeunit;11268554;2020-08-28T19:51:10;tversluis;"MAW Prod. Contract To Request"
 Page;11268579;2020-08-28T19:51:16;tversluis;"MAW ProdContrBaseMatFactorPref"
 Codeunit;11268565;2020-08-28T19:51:23;tversluis;"MAW Prod.Contr. Calc.PriceLns"
 Table;11151207;2020-08-28T19:51:29;tversluis;"MAW Prod. Contr. Comment Line"
+Page;11268525;2020-08-28T19:51:36;tversluis;"MAW Prod. Contr. Comment Lines"
