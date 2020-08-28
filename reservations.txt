@@ -2771,3 +2771,4 @@ PageExtension;11151102;2020-08-28T20:48:55;tversluis;"MAW Sales Return Order" ex
 PageExtension;11151129;2020-08-28T20:49:03;tversluis;"MAW Sales Return Order List" extends "Sales Return Order List"
 PageExtension;11151103;2020-08-28T20:49:10;tversluis;"MAW Sales Return Order Subform" extends "Sales Return Order Subform"
 Codeunit;11151057;2020-08-28T20:49:17;tversluis;"MAW Sales Shipment Facade"
+TableExtension;11151201;2020-08-28T20:49:24;tversluis;"MAW Sales Shipment Header" extends "Sales Shipment Header"
