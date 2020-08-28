@@ -184,7 +184,6 @@ Table;11151509;2019-09-11T08:31:59;damara;Task13246
 Page;11268999;2019-09-11T08:40:31;damara;Task13246
 Table;11269448;2019-09-12T11:27:14;damara;Task13246
 Codeunit;11268697;2019-09-12T14:27:58;jhoek;
-Table;11151244;2019-09-16T09:37:50;adkorte;UPG BI extension
 Table;11151360;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151361;2019-09-16T10:29:21;adkorte;UPG BI extension
 Table;11151362;2019-09-16T10:29:21;adkorte;UPG BI extension
@@ -2323,3 +2322,4 @@ Page;11268572;2020-08-28T19:54:38;tversluis;"MAW ProdContrTemplPricCompSubp"
 Page;11268570;2020-08-28T19:54:45;tversluis;"MAW Prod.Contr. Templ. Price"
 Table;11268566;2020-08-28T19:54:52;tversluis;"MAW ProdContrTempl.Price Comp."
 Page;11268542;2020-08-28T19:55:00;tversluis;"MAW ProdContrTempPlntHealthReq"
+Table;11151244;2020-08-28T19:55:07;tversluis;"MAW ProdContTemplPlntHealthReq"
