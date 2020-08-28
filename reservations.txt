@@ -1775,3 +1775,4 @@ PageExtension;11151239;2020-08-28T15:42:49;tversluis;"MAW Item Card" extends "It
 PageExtension;11151290;2020-08-28T15:42:55;tversluis;"MAW Item Categories" extends "Item Categories"
 Page;11151335;2020-08-28T15:43:00;tversluis;"MAW Item Colors"
 PageExtension;11151285;2020-08-28T15:43:12;tversluis;"MAW Item Cross Ref. Entries" extends "Item Cross Reference Entries"
+TableExtension;11151246;2020-08-28T15:43:18;tversluis;"MAW Item Cross Reference" extends "Item Cross Reference"
