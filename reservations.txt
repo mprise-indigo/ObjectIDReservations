@@ -390,7 +390,6 @@ Page;11268630;2019-10-16T11:32:19;adkorte;TS13416 Move objects from dedicated ID
 Page;11268632;2019-10-16T11:32:20;adkorte;TS13416 Move objects from dedicated ID-ranges
 Report;11151214;2019-10-17T16:42:01;tversluis;Anouk - Pick List
 Report;11151057;2019-10-23T09:46:05;tversluis;Anouk - Pick List
-Page;11268643;2019-10-23T11:46:17;vpanjala;DalatPBI_13792
 Report;11151062;2019-10-25T12:24:58;damara;Dalath_PBI_13794
 Report;11151063;2019-10-30T16:34:20;tversluis;Anouk - Dalat something
 Table;11151138;2019-11-12T11:06:44;tversluis;Production Item Preferences
@@ -2035,3 +2034,4 @@ PageExtension;11151100;2020-08-28T19:18:02;tversluis;"MAW Lot No. Information Li
 Codeunit;11151375;2020-08-28T19:18:09;tversluis;"MAW Lot No. Information UI"
 Page;11151366;2020-08-28T19:18:16;tversluis;"MAW Lot No. Info. Subpage"
 Page;11268633;2020-08-28T19:18:28;tversluis;"MAW Lot Position Priorities"
+Page;11268643;2020-08-28T19:18:35;tversluis;"MAW Lot Reclass. Journal"
