@@ -233,7 +233,6 @@ Codeunit;11268720;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11268721;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11268722;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11151211;2019-09-02T11:03:12;jhoek;
-Codeunit;11268696;2019-09-05T10:17:01;jhoek;
 Report;11151059;2019-09-10T08:21:58;vpanjala;Task12440
 Report;11151060;2019-09-10T08:22:27;vpanjala;Task12440
 Codeunit;11269450;2019-09-10T10:57:16;vpanjala;Task12440
@@ -1402,3 +1401,4 @@ Codeunit;11197946;2020-08-28T14:56:36;tversluis;"MAW Create Data Exch. S. Order"
 Codeunit;11151503;2020-08-28T14:56:43;tversluis;"MAW CreateDim Handlers"
 Page;11151100;2020-08-28T14:56:51;tversluis;"MAW Create GMO Invoices"
 Report;11151365;2020-08-28T14:56:58;tversluis;"MAW Create Ind. Cost Periods"
+Codeunit;11268696;2020-08-28T14:57:05;tversluis;"MAW Create Item from Inspect."
