@@ -1785,3 +1785,4 @@ Codeunit;11268688;2020-08-28T18:42:58;tversluis;MAW Item - Inh. Props.
 PageExtension;11151246;2020-08-28T18:44:03;tversluis;"MAW Item Journal" extends "Item Journal"
 Codeunit;11151192;2020-08-28T18:44:10;tversluis;"MAW Item Journal Integration"
 TableExtension;11151261;2020-08-28T18:44:17;tversluis;"MAW Item Journal Line" extends "Item Journal Line"
+TableExtension;11151230;2020-08-28T18:44:24;tversluis;"MAW Item Ledger Entry" extends "Item Ledger Entry"
