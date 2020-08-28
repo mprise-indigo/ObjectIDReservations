@@ -405,7 +405,6 @@ Report;11151064;2020-01-30T22:31:14;tversluis;BC14
 Report;11151215;2020-01-30T22:32:03;tversluis;
 Report;11151216;2020-01-30T22:35:24;tversluis;
 Codeunit;11151086;2020-02-11T16:42:58;tversluis;BC14
-Report;11151066;2020-02-13T08:13:12;adkorte;TS14979 reset report to standard
 Page;11151084;2020-02-17T16:12:52;adkorte;PBI 15165
 Codeunit;11151191;2020-02-18T00:22:24;tversluis;BC14
 Table;11151375;2020-02-20T12:00:04;tversluis;Move objects out of license range
@@ -2132,3 +2131,4 @@ Codeunit;11268679;2020-08-28T19:30:41;tversluis;"MAW P.Forec. Entry Filter Mgt."
 Codeunit;11268619;2020-08-28T19:30:48;tversluis;"MAW PHD. Jnl.-Check Line"
 Codeunit;11268621;2020-08-28T19:30:55;tversluis;"MAW PHD. Jnl.-Post Batch"
 Codeunit;11268620;2020-08-28T19:31:02;tversluis;"MAW PHD. Jnl.-Post Line"
+Report;11151066;2020-08-28T19:31:08;tversluis;"MAW Phys. Inventory List"
