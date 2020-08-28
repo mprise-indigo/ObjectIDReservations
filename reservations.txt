@@ -871,7 +871,6 @@ EnumTypeExtension;11151039;2020-08-27T09:03:43;adkorte;Price Management BC16
 EnumTypeExtension;11151040;2020-08-27T09:04:01;adkorte;Price Management BC16
 Codeunit;11268786;2020-08-27T09:12:18;adkorte;Price Management BC16
 Codeunit;11268787;2020-08-27T09:12:18;adkorte;Price Management BC16
-Codeunit;11268788;2020-08-27T09:19:28;adkorte;Price Management BC16
 Page;11269431;2020-08-27T09:26:17;vpanjala;Floriday_Task_21127
 Page;11269433;2020-08-27T09:34:20;vpanjala;Floriday_Task_21127
 Table;11151039;2020-08-28T08:59:11;tversluis;agro setup
@@ -2220,3 +2219,4 @@ Page;11268510;2020-08-28T19:41:56;tversluis;"MAW Pref.Overview Prop.Values"
 Page;11268511;2020-08-28T19:42:03;tversluis;"MAW Pref.Overvw Prod.Res.Subp."
 Table;11151229;2020-08-28T19:42:09;tversluis;"MAW Pref. Result"
 TableExtension;11151236;2020-08-28T19:42:16;tversluis;"MAW Prepaymt.Inv. Line Buffer" extends "Prepayment Inv. Line Buffer"
+Codeunit;11268788;2020-08-28T19:42:23;tversluis;"Price Calc. - Agriware Price" implements "Price Calculation"
