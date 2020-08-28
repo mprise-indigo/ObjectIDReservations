@@ -1,7 +1,6 @@
 ﻿Table;11151537;2019-01-29T07:31:27;wkleemans;PBI 9928
 Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Codeunit;11268637;2019-02-01T13:12:59;adkorte;PBI10608 Undo Posting codeunit
-Codeunit;11268641;2019-02-05T11:44:32;adkorte;PBI10608
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
 Table;11151314;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
 Table;11151315;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
@@ -2173,3 +2172,4 @@ Table;11151248;2020-08-28T19:36:01;tversluis;"MAW Plant Health Jnl. Templ."
 Page;11268594;2020-08-28T19:36:07;tversluis;"MAW Plant Health Jnl.Templates"
 Table;11151246;2020-08-28T19:36:15;tversluis;"MAW Plant Health Journal Line"
 Page;11268592;2020-08-28T19:36:21;tversluis;"MAW Plant Health Journal Lines"
+Codeunit;11268641;2020-08-28T19:36:28;tversluis;"MAW Plant Health Journal Mgt."
