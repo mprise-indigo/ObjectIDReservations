@@ -2676,3 +2676,4 @@ PageExtension;11151251;2020-08-28T20:37:22;tversluis;"MAW Sales Credit Memo" ext
 PageExtension;11151127;2020-08-28T20:37:29;tversluis;"MAW Sales Credit Memos" extends "Sales Credit Memos"
 PageExtension;11151245;2020-08-28T20:37:36;tversluis;"MAW Sales Credit Memo Stat." extends "Sales Credit Memo Statistics"
 Report;11151103;2020-08-28T20:37:42;tversluis;"MAW Sales - Cr. Memo"
+TableExtension;11151205;2020-08-28T20:37:49;tversluis;"MAW Sales Cr.Memo Header" extends "Sales Cr.Memo Header"
