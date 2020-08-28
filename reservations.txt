@@ -2538,3 +2538,4 @@ PageExtension;11151105;2020-08-28T20:20:39;tversluis;"MAW Purch. Return Ord. Sub
 Codeunit;11151390;2020-08-28T20:20:47;tversluis;"MAW QR Code Mgt."
 Report;11151117;2020-08-28T20:20:53;tversluis;"MAW Quote"
 Page;11197796;2020-08-28T20:21:00;tversluis;"MAW Quote Activities"
+Page;11197842;2020-08-28T20:21:07;tversluis;"MAW Quote Card"
