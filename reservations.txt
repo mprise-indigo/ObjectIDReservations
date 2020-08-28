@@ -3,7 +3,6 @@ Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Codeunit;11268637;2019-02-01T13:12:59;adkorte;PBI10608 Undo Posting codeunit
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
 Table;11151314;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
-Table;11151316;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
 Page;11268604;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Page;11268606;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Report;11151044;2019-02-18T11:22:58;adkorte;PBI11007
@@ -2894,3 +2893,4 @@ Page;11268614;2020-08-28T21:04:50;tversluis;"MAW Time Reg. Calc. Rules Day"
 Page;11268628;2020-08-28T21:04:56;tversluis;"MAW Time Reg. Calc. Rules Week"
 Page;11268605;2020-08-28T21:05:02;tversluis;"MAW Time Reg.Class.Activities"
 Table;11151315;2020-08-28T21:05:08;tversluis;"MAW Time Reg. Class. Activity"
+Table;11151316;2020-08-28T21:05:14;tversluis;"MAW Time Reg. Class. Position"
