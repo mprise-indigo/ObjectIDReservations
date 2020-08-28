@@ -204,7 +204,6 @@ Table;11151510;2019-09-23T08:27:51;damara;Task13433_Dalath
 Page;11268971;2019-09-23T08:28:27;damara;Task13433_Dalath
 Codeunit;11268971;2019-09-23T08:30:32;damara;Task13433_Dalath
 Table;11151193;2019-09-26T07:51:39;adkorte;PBI12988 Baser Material Preferences
-Report;11151197;2019-09-26T11:32:01;damara;Task13437_Dalath
 Table;11268480;2019-09-27T08:03:19;adkorte;Permanent reservation BI extension
 Table;11268481;2019-09-27T08:03:19;adkorte;Permanent reservation BI extension
 Table;11268482;2019-09-27T08:03:19;adkorte;Permanent reservation BI extension
@@ -2652,3 +2651,4 @@ Codeunit;11268600;2020-08-28T20:34:16;tversluis;"MAW Resource Roster Mgt."
 Report;11151073;2020-08-28T20:34:23;tversluis;"MAW Resource Roster Personal"
 Page;11151537;2020-08-28T20:34:30;tversluis;"MAW Resource Roster Subpage"
 Report;11151072;2020-08-28T20:34:36;tversluis;"MAW Resource Roster Total"
+Report;11151197;2020-08-28T20:34:43;tversluis;"MAW Resource Sticker"
