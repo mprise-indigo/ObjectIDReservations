@@ -25,7 +25,6 @@ Codeunit;11268647;2019-03-04T16:23:19;glind;PBI 9318
 Table;11151295;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
 Table;11151296;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
 Table;11197875;2019-03-07T12:32:42;adkorte;PBI11459
-Table;11151291;2019-03-08T14:04:03;glind;PBI 9318
 Page;11268657;2019-03-08T14:05:30;glind;PBI 9318
 Page;11268609;2019-03-11T09:05:28;wkleemans;PBI 11525
 Page;11197871;2019-03-14T09:51:05;jhoek;TS11573
@@ -2125,3 +2124,4 @@ Codeunit;11151258;2020-08-28T19:29:32;tversluis;"MAW Page Management"
 Table;11197948;2020-08-28T19:29:39;tversluis;"MAW Parameter Buffer Logistics"
 Table;11268570;2020-08-28T19:29:47;tversluis;"MAW PC.Base Mater.Factor Pref."
 Table;11268569;2020-08-28T19:29:54;tversluis;"MAW PC.Price Component Variant"
+Table;11151291;2020-08-28T19:30:00;tversluis;"MAW PDF Printer Selection"
