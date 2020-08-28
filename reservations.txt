@@ -2211,3 +2211,4 @@ PageExtension;11151218;2020-08-28T19:40:56;tversluis;"MAW Post.Purch.Cr. Memo Su
 PageExtension;11151216;2020-08-28T19:41:03;tversluis;"MAW Post.Purch. Invoice Subfrm" extends "Posted Purch. Invoice Subform"
 Codeunit;11151194;2020-08-28T19:41:09;tversluis;"MAW Post Sales Line Output"
 Page;11151257;2020-08-28T19:41:16;tversluis;"MAW Pot Code"
+Table;11151267;2020-08-28T19:41:22;tversluis;"MAW Pot Code"
