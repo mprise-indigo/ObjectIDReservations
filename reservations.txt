@@ -1970,3 +1970,4 @@ Codeunit;11151468;2020-08-28T19:08:02;tversluis;"MAW Load Carrier ID UI"
 Report;11151107;2020-08-28T19:08:09;tversluis;"MAW Loading List"
 Page;11151078;2020-08-28T19:08:15;tversluis;"MAW Loading Location"
 Table;11151050;2020-08-28T19:08:22;tversluis;"MAW Loading Location"
+TableExtension;11151213;2020-08-28T19:08:29;tversluis;"MAW Location" extends Location
