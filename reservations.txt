@@ -1777,3 +1777,4 @@ PageExtension;11151285;2020-08-28T15:43:12;tversluis;"MAW Item Cross Ref. Entrie
 TableExtension;11151246;2020-08-28T15:43:18;tversluis;"MAW Item Cross Reference" extends "Item Cross Reference"
 Codeunit;11151199;2020-08-28T15:43:24;tversluis;"MAW Item Cross Ref. Facade"
 Codeunit;11268764;2020-08-28T15:43:29;tversluis;"MAW Item Event Hub"
+Codeunit;11151200;2020-08-28T15:43:35;tversluis;"MAW Item Facade"
