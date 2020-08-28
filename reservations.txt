@@ -2856,3 +2856,4 @@ PageExtension;11151294;2020-08-28T20:59:17;tversluis;"MAW Standard Cost Workshee
 TableExtension;11151250;2020-08-28T20:59:24;tversluis;"MAW Standard Cost Worksheet" extends "Standard Cost Worksheet"
 Table;11151048;2020-08-28T20:59:32;tversluis;"MAW Standard Date Formula"
 Page;11151131;2020-08-28T20:59:39;tversluis;"MAW Standard Date Formulas"
+TableExtension;11151218;2020-08-28T20:59:46;tversluis;"MAW Standard Purchase Line" extends "Standard Purchase Line"
