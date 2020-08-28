@@ -473,7 +473,6 @@ Codeunit;11268743;2019-11-28T10:32:27;adkorte;BI install script extension
 Codeunit;11268744;2019-11-28T11:48:08;damara;Dalath_PBI_14237
 Codeunit;11268745;2019-11-28T11:54:49;damara;Dalath_PBI_14237
 Page;11268998;2019-11-29T10:26:02;adkorte;IAC Assignment Activities
-Report;11151475;2019-12-09T06:33:43;vpanjala;DalatPBI_14152
 Table;11151195;2019-12-10T15:14:21;adkorte;TS14145
 Table;11268487;2019-12-17T10:13:36;damara;PBI_14305
 Table;11268488;2019-12-17T10:13:47;damara;PBI_14305
@@ -1162,3 +1161,4 @@ Page;11151132;2020-08-28T14:26:41;tversluis;"MAW Base Material Preferences"
 Page;11151184;2020-08-28T14:26:48;tversluis;"MAW Base Material Requirements"
 Codeunit;11268726;2020-08-28T14:26:55;tversluis;"MAW Base Mater.Pref.Prop.Sub."
 Page;11151159;2020-08-28T14:27:03;tversluis;"MAW Base Mat. Req. Subpage"
+Report;11151475;2020-08-28T14:27:10;tversluis;"MAW Batch Cancel Activities"
