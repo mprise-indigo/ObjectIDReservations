@@ -379,7 +379,6 @@ Codeunit;11268734;2019-10-02T10:50:35;adkorte;PBI 13487 Mengbaan Planning Baas
 Codeunit;11268735;2019-10-02T10:50:35;adkorte;PBI 13487 Mengbaan Planning Baas
 Table;11151369;2019-10-03T15:53:12;adkorte;PBI12988 Base Material Upgrade
 Table;11151370;2019-10-03T15:53:12;adkorte;PBI12988 Base Material Upgrade
-Page;11268640;2019-10-04T07:59:02;vpanjala;DalatPBI_13575
 Page;11268641;2019-10-04T07:59:25;vpanjala;DalatPBI_13575
 Page;11268642;2019-10-04T08:06:45;vpanjala;DalatPBI_13575
 Page;11268628;2019-10-15T10:50:55;adkorte;TS 13087 Page for week time reg. calc rules
@@ -2106,3 +2105,4 @@ Page;11151497;2020-08-28T19:27:08;tversluis;"MAW Output Factor Preferences"
 Table;11151074;2020-08-28T19:27:15;tversluis;"MAW Output Item Preference"
 Page;11151196;2020-08-28T19:27:21;tversluis;"MAW Output Item Preferences"
 PageExtension;11151140;2020-08-28T19:27:28;tversluis;"MAW Output Journal" extends "Output Journal"
+Page;11268640;2020-08-28T19:27:35;tversluis;"MAW Output Work Order Card"
