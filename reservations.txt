@@ -866,7 +866,6 @@ Codeunit;11268784;2020-08-25T11:24:28;adkorte;TS17457 preview features
 Codeunit;11268785;2020-08-26T16:03:19;tversluis;for subscribers
 EnumTypeExtension;11151040;2020-08-27T09:04:01;adkorte;Price Management BC16
 Codeunit;11268786;2020-08-27T09:12:18;adkorte;Price Management BC16
-Codeunit;11268787;2020-08-27T09:12:18;adkorte;Price Management BC16
 Page;11269431;2020-08-27T09:26:17;vpanjala;Floriday_Task_21127
 Page;11269433;2020-08-27T09:34:20;vpanjala;Floriday_Task_21127
 Table;11151039;2020-08-28T08:59:11;tversluis;agro setup
@@ -2234,3 +2233,4 @@ Table;11151262;2020-08-28T19:44:03;tversluis;"MAW Print Log Entry"
 Page;11151263;2020-08-28T19:44:10;tversluis;"MAW Print Logging"
 Codeunit;11268647;2020-08-28T19:44:17;tversluis;"MAW Print PDF"
 EnumTypeExtension;11151039;2020-08-28T19:44:23;tversluis;"MAW Priority Price" extends "Price Calculation Method"
+Codeunit;11268787;2020-08-28T19:44:30;tversluis;"MAW Priority Price Mgt."
