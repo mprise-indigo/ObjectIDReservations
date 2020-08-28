@@ -1461,3 +1461,4 @@ PageExtension;11151230;2020-08-28T15:03:58;tversluis;"MAW Customer Card" extends
 Page;11151338;2020-08-28T15:04:05;tversluis;"MAW Customer Colors"
 Codeunit;11151130;2020-08-28T15:04:12;tversluis;"MAW Customer Facade"
 PageExtension;11151233;2020-08-28T15:04:19;tversluis;"MAW Customer List" extends "Customer List"
+Codeunit;11151100;2020-08-28T15:04:26;tversluis;"MAW Customer Mgt."
