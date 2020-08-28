@@ -2698,3 +2698,4 @@ TableExtension;11151232;2020-08-28T20:40:01;tversluis;"MAW Sales Header" extends
 Codeunit;11151132;2020-08-28T20:40:08;tversluis;"MAW Sales Header Facade"
 Codeunit;11151245;2020-08-28T20:40:15;tversluis;"MAW Sales Header - Inh.Props."
 Codeunit;11151104;2020-08-28T20:40:22;tversluis;"MAW Sales Header Mgt."
+Codeunit;11151133;2020-08-28T20:40:29;tversluis;"MAW Sales Header UI"
