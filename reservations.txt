@@ -2516,3 +2516,4 @@ PageExtension;11151104;2020-08-28T20:17:48;tversluis;"MAW Purchase Return Order"
 PageExtension;11151106;2020-08-28T20:17:55;tversluis;"MAW Purchase Return Orders" extends "Purchase Return Orders"
 Codeunit;11151394;2020-08-28T20:18:02;tversluis;"MAW Purchase Supply Mgt."
 TableExtension;11151247;2020-08-28T20:18:09;tversluis;"MAW Purchasing" extends Purchasing
+PageExtension;11151289;2020-08-28T20:18:15;tversluis;"MAW Purchasing Code List" extends "Purchasing Code List"
