@@ -1270,3 +1270,4 @@ PageExtension;11151201;2020-08-28T14:40:19;tversluis;"MAW Company Information" e
 TableExtension;11151259;2020-08-28T14:40:26;tversluis;"MAW Company Information" extends "Company Information"
 Table;11151418;2020-08-28T14:40:33;tversluis;"MAW Complaint"
 Page;11151415;2020-08-28T14:40:41;tversluis;"MAW Complaint Card"
+Table;11151417;2020-08-28T14:40:47;tversluis;"MAW Complaint Code"
