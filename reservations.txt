@@ -2758,3 +2758,4 @@ PageExtension;11151108;2020-08-28T20:47:20;tversluis;"MAW Sales Prices" extends 
 Page;11151349;2020-08-28T20:47:27;tversluis;"MAW Sales Price Setup"
 Table;11151349;2020-08-28T20:47:35;tversluis;"MAW Sales Price Setup"
 TableExtension;11151256;2020-08-28T20:47:41;tversluis;"MAW Sales Price Worksheet" extends "Sales Price Worksheet"
+PageExtension;11151247;2020-08-28T20:47:49;tversluis;"MAW Sales Quote" extends "Sales Quote"
