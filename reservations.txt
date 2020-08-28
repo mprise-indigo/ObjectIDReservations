@@ -1788,3 +1788,4 @@ TableExtension;11151261;2020-08-28T18:44:17;tversluis;"MAW Item Journal Line" ex
 TableExtension;11151230;2020-08-28T18:44:24;tversluis;"MAW Item Ledger Entry" extends "Item Ledger Entry"
 Codeunit;11151393;2020-08-28T18:44:31;tversluis;"MAW Item Ledger Supply Mgt."
 PageExtension;11151242;2020-08-28T18:44:38;tversluis;"MAW Item List" extends "Item List"
+Codeunit;11151103;2020-08-28T18:44:45;tversluis;"MAW Item Mgt."
