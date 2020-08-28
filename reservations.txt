@@ -2649,3 +2649,4 @@ PageExtension;11151114;2020-08-28T20:33:55;tversluis;"MAW Resource List" extends
 Page;11151073;2020-08-28T20:34:02;tversluis;"MAW Resource Roster"
 Report;11151074;2020-08-28T20:34:09;tversluis;"MAW Resource Roster Day Sheet"
 Codeunit;11268600;2020-08-28T20:34:16;tversluis;"MAW Resource Roster Mgt."
+Report;11151073;2020-08-28T20:34:23;tversluis;"MAW Resource Roster Personal"
