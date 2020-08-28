@@ -1783,3 +1783,4 @@ Codeunit;11151518;2020-08-28T15:43:58;tversluis;"MAW Item Hybrid Prop. Subscr."
 Page;11151126;2020-08-28T15:44:04;tversluis;"MAW Item Hybrids"
 Codeunit;11268688;2020-08-28T18:42:58;tversluis;MAW Item - Inh. Props.
 PageExtension;11151246;2020-08-28T18:44:03;tversluis;"MAW Item Journal" extends "Item Journal"
+Codeunit;11151192;2020-08-28T18:44:10;tversluis;"MAW Item Journal Integration"
