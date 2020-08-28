@@ -1174,3 +1174,4 @@ Report;11151040;2020-08-28T14:28:22;tversluis;"MAW Batch Release Sales Orders"
 Report;11151050;2020-08-28T14:28:28;tversluis;"MAW Batch Reopen Sales Orders"
 TableExtension;11151257;2020-08-28T14:28:34;tversluis;"MAW Bin" extends Bin
 Report;11151061;2020-08-28T14:28:41;tversluis;"MAW Bin Code Sticker"
+PageExtension;11151110;2020-08-28T14:28:48;tversluis;"MAW Bins" extends Bins
