@@ -1178,3 +1178,4 @@ PageExtension;11151110;2020-08-28T14:28:48;tversluis;"MAW Bins" extends Bins
 PageExtension;11151262;2020-08-28T14:28:54;tversluis;"MAW Blanket Purchase Order" extends "Blanket Purchase Order"
 PageExtension;11151133;2020-08-28T14:29:01;tversluis;"MAW Blanket Purchase Orders" extends "Blanket Purchase Orders"
 PageExtension;11151259;2020-08-28T14:29:08;tversluis;"MAW Blanket Sales Order" extends "Blanket Sales Order"
+Report;11151187;2020-08-28T14:29:15;tversluis;"MAW Blanket Sales Order"
