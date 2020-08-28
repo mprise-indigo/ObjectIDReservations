@@ -450,7 +450,6 @@ Page;11268645;2019-10-23T09:16:39;damara;PBI_13791_Dalath
 Report;11151057;2019-10-23T09:46:05;tversluis;Anouk - Pick List
 Page;11268643;2019-10-23T11:46:17;vpanjala;DalatPBI_13792
 Report;11151058;2019-10-24T11:38:02;adkorte;Anouk Dalat Project
-Report;11151061;2019-10-25T12:24:45;damara;Dalath_PBI_13794
 Report;11151062;2019-10-25T12:24:58;damara;Dalath_PBI_13794
 Report;11151063;2019-10-30T16:34:20;tversluis;Anouk - Dalat something
 Codeunit;11268736;2019-10-31T08:30:15;damara;PBI_13791_Dalath
@@ -1174,3 +1173,4 @@ Codeunit;11151052;2020-08-28T14:28:15;tversluis;"MAW Batch Recalc. Job Planning"
 Report;11151040;2020-08-28T14:28:22;tversluis;"MAW Batch Release Sales Orders"
 Report;11151050;2020-08-28T14:28:28;tversluis;"MAW Batch Reopen Sales Orders"
 TableExtension;11151257;2020-08-28T14:28:34;tversluis;"MAW Bin" extends Bin
+Report;11151061;2020-08-28T14:28:41;tversluis;"MAW Bin Code Sticker"
