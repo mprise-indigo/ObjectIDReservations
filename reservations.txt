@@ -1335,3 +1335,4 @@ PageExtension;11151142;2020-08-28T14:48:14;tversluis;"MAW Consumption Journal" e
 TableExtension;11151237;2020-08-28T14:48:21;tversluis;"MAW Contact" extends Contact
 PageExtension;11151257;2020-08-28T14:48:28;tversluis;"MAW Contact Card" extends "Contact Card"
 Page;11151431;2020-08-28T14:48:34;tversluis;"MAW Contact Complaints Subpage"
+Table;11151415;2020-08-28T14:48:42;tversluis;"MAW Contact Email Symbol"
