@@ -1737,3 +1737,4 @@ Table;11197952;2020-08-28T15:38:52;tversluis;"MAW Invt. Mut. Property Buffer"
 TableExtension;11151225;2020-08-28T15:38:58;tversluis;"MAW Item" extends Item
 Page;11268655;2020-08-28T15:39:04;tversluis;"MAW Item Availability"
 Table;11268653;2020-08-28T15:39:10;tversluis;"MAW Item Availability Entry"
+Codeunit;11151190;2020-08-28T15:39:16;tversluis;"MAW Item Availability Integr."
