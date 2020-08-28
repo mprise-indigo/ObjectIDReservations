@@ -2204,3 +2204,4 @@ PageExtension;11151210;2020-08-28T19:40:03;tversluis;"MAW Posted Sls.Credit Memo
 PageExtension;11151271;2020-08-28T19:40:10;tversluis;"MAW Posted Sls.Cr.Memo Lns." extends "Posted Sales Credit Memo Lines"
 PageExtension;11151212;2020-08-28T19:40:17;tversluis;"MAW Posted Sls.Cr. Memo Subfrm" extends "Posted Sales Cr. Memo Subform"
 PageExtension;11151209;2020-08-28T19:40:24;tversluis;"MAW Posted Sls.Invoice Subfrm" extends "Posted Sales Invoice Subform"
+Page;11151397;2020-08-28T19:40:30;tversluis;"MAW Posted Transport List"
