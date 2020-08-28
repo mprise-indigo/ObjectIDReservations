@@ -2683,3 +2683,4 @@ PageExtension;11151135;2020-08-28T20:38:17;tversluis;"MAW Sales Cr. Memo Subform
 Codeunit;11151396;2020-08-28T20:38:24;tversluis;"MAW Sales Demand Mgt."
 Report;11151045;2020-08-28T20:38:31;tversluis;"MAW Sales Document - Update"
 Codeunit;11268684;2020-08-28T20:38:37;tversluis;"MAW Sales Doc. - Update Props."
+Codeunit;11151495;2020-08-28T20:38:44;tversluis;"MAW Sales Event Hub"
