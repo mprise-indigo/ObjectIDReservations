@@ -2420,3 +2420,4 @@ PageExtension;11151278;2020-08-28T20:06:24;tversluis;"MAW Production Journal" ex
 Table;11151225;2020-08-28T20:06:31;tversluis;"MAW Production Manager"
 Table;11151068;2020-08-28T20:06:38;tversluis;"MAW Production Manager Cue"
 Codeunit;11151225;2020-08-28T20:06:46;tversluis;"MAW Production Manager Facade"
+Page;11151227;2020-08-28T20:06:52;tversluis;"MAW Production Manager List"
