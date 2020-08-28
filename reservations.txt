@@ -157,7 +157,6 @@ Codeunit;11268679;2019-04-24T13:50:16;adkorte;8537
 Codeunit;11268680;2019-04-24T13:50:16;adkorte;8537
 Table;11269447;2019-04-26T12:40:52;damara;Task12090
 Report;11269442;2019-05-03T09:05:21;vpanjala;Task12162
-Table;11151506;2019-05-03T12:24:31;damara;Task11835
 Codeunit;11197804;2019-05-06T11:56:06;glind;Rename Item
 Table;11151507;2019-05-06T14:36:44;damara;Task12179
 Page;11268958;2019-05-06T14:37:06;damara;Task12179
@@ -1907,3 +1906,4 @@ Table;11151177;2020-08-28T18:59:22;tversluis;"MAW Job Reservation Line"
 Codeunit;11151173;2020-08-28T18:59:29;tversluis;"MAW Job Reservation Mgt."
 Codeunit;11151166;2020-08-28T18:59:35;tversluis;"MAW Job - Set In Production"
 Page;11268629;2020-08-28T18:59:42;tversluis;"MAW Job Shortcut Date Setup"
+Table;11151506;2020-08-28T18:59:49;tversluis;"MAW Job Shortcut Date Setup"
