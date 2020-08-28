@@ -345,7 +345,6 @@ Codeunit;11268742;2019-11-22T12:46:08;adkorte;Time Registration Label Dim
 Codeunit;11268743;2019-11-28T10:32:27;adkorte;BI install script extension
 Codeunit;11268744;2019-11-28T11:48:08;damara;Dalath_PBI_14237
 Codeunit;11268745;2019-11-28T11:54:49;damara;Dalath_PBI_14237
-Table;11151195;2019-12-10T15:14:21;adkorte;TS14145
 Codeunit;11269036;2019-12-24T14:24:16;tversluis;mimic app inspection behavior
 Codeunit;11268746;2020-01-14T08:14:28;adkorte;TS 14592 Properties DWH
 Codeunit;11151080;2020-01-30T11:20:42;tversluis;BC14
@@ -2938,3 +2937,4 @@ Report;11151240;2020-08-28T21:11:57;tversluis;"MAW Update Requisition Line"
 Codeunit;11151106;2020-08-28T21:12:04;tversluis;"MAW Update Sales Line From Job"
 Codeunit;11151236;2020-08-28T21:12:10;tversluis;"MAW UpdPurchLnQtiesFromRcptQty"
 Table;11151093;2020-08-28T21:12:17;tversluis;"MAW UPG Document Feature Value"
+Table;11151195;2020-08-28T21:12:24;tversluis;"MAW UPG Insp. Value Copy Pref."
