@@ -2641,3 +2641,4 @@ Page;11151204;2020-08-28T20:33:01;tversluis;"MAW Res. Group Capacity Matrix"
 Page;11268518;2020-08-28T20:33:08;tversluis;"MAW Res.Labor Pattern Ln.Subp."
 TableExtension;11151214;2020-08-28T20:33:15;tversluis;"MAW Resource" extends Resource
 PageExtension;11151111;2020-08-28T20:33:21;tversluis;"MAW Resource Card" extends "Resource Card"
+Page;11268517;2020-08-28T20:33:28;tversluis;"MAW Resource Labor Pattern"
