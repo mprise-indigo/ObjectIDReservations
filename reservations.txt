@@ -1333,3 +1333,4 @@ Page;11268637;2020-08-28T14:48:00;tversluis;"MAW Cons. Item Rounding Prefs."
 Page;11268569;2020-08-28T14:48:07;tversluis;"MAW Constant Factors"
 PageExtension;11151142;2020-08-28T14:48:14;tversluis;"MAW Consumption Journal" extends "Consumption Journal"
 TableExtension;11151237;2020-08-28T14:48:21;tversluis;"MAW Contact" extends Contact
+PageExtension;11151257;2020-08-28T14:48:28;tversluis;"MAW Contact Card" extends "Contact Card"
