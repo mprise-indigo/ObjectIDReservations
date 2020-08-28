@@ -2519,3 +2519,4 @@ TableExtension;11151247;2020-08-28T20:18:09;tversluis;"MAW Purchasing" extends P
 PageExtension;11151289;2020-08-28T20:18:15;tversluis;"MAW Purchasing Code List" extends "Purchasing Code List"
 PageExtension;11151288;2020-08-28T20:18:22;tversluis;"MAW Purchasing Codes" extends "Purchasing Codes"
 Codeunit;11151363;2020-08-28T20:18:29;tversluis;"MAW PurchBlnktOrdBusEvntGUIDs"
+Codeunit;11151364;2020-08-28T20:18:36;tversluis;"MAW PurchBlnktOrdBusEvntLogMgt"
