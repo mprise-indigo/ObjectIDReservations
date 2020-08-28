@@ -184,7 +184,6 @@ Page;11197800;2019-06-05T10:40:33;glind;PBI12465
 Codeunit;11268690;2019-06-06T17:03:23;tversluis;Job Creation/Calculation
 Codeunit;11197751;2019-07-04T08:50:21;jhoek;Feature value event subscribers
 Page;11268996;2019-07-25T07:11:24;damara;Task12857
-Codeunit;11268692;2019-08-02T13:10:40;damara;Task12832
 Table;11151239;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Table;11151240;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Table;11151241;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
@@ -1959,3 +1958,4 @@ Table;11151508;2020-08-28T19:06:20;tversluis;"MAW LF Provider Available Age"
 Codeunit;11268640;2020-08-28T19:06:27;tversluis;"MAW LF Provider Feature Value"
 Page;11268602;2020-08-28T19:06:34;tversluis;"MAW LF Provider Feature Value"
 Table;11151312;2020-08-28T19:06:41;tversluis;"MAW LF Provider Feature Value"
+Codeunit;11268692;2020-08-28T19:06:48;tversluis;"MAW LF Provider NonExpired Lot"
