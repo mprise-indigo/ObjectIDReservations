@@ -5,7 +5,6 @@ Page;11268596;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Page;11268597;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Page;11268598;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Page;11268599;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
-Codeunit;11268636;2019-01-28T10:38:00;glind;PBP 10072 Lot Filter Setup
 Table;11151537;2019-01-29T07:31:27;wkleemans;PBI 9928
 Page;11268600;2019-01-29T14:26:26;glind;PBI 10072 Lot Filter Set
 Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
@@ -2027,3 +2026,4 @@ Table;11151313;2020-08-28T19:15:15;tversluis;"MAW Lot Entry Position Prior."
 Page;11268634;2020-08-28T19:15:22;tversluis;"MAW Lot Entry Pos.Prio.Factb."
 Codeunit;11268737;2020-08-28T19:15:28;tversluis;"MAW Lot Entry Pos.Priority Mgt"
 Page;11151367;2020-08-28T19:15:35;tversluis;"MAW Lot Entry Subpage"
+Codeunit;11268636;2020-08-28T19:15:42;tversluis;"MAW Lot Filter Mgt."
