@@ -1804,3 +1804,4 @@ TableExtension;11151252;2020-08-28T18:46:25;tversluis;"MAW Item Tracking Code" e
 PageExtension;11151101;2020-08-28T18:46:32;tversluis;"MAW Item Tracking Code Card" extends "Item Tracking Code Card"
 PageExtension;11151298;2020-08-28T18:46:40;tversluis;"MAW Item Tracking Codes" extends "Item Tracking Codes"
 Codeunit;11151131;2020-08-28T18:46:47;tversluis;"MAW Item Tracking Mgt."
+Codeunit;11151376;2020-08-28T18:46:53;tversluis;"MAW Item Tracking UI"
