@@ -2194,3 +2194,4 @@ PageExtension;11151273;2020-08-28T19:38:56;tversluis;"MAW Posted Purch. Invoice 
 PageExtension;11151214;2020-08-28T19:39:03;tversluis;"MAW Posted Purch. Rcpt. Subfrm" extends "Posted Purchase Rcpt. Subform"
 PageExtension;11151272;2020-08-28T19:39:09;tversluis;"MAW Posted Purch.Receipt Lines" extends "Posted Purchase Receipt Lines"
 PageExtension;11151222;2020-08-28T19:39:16;tversluis;"MAW Posted Purch. Receipts" extends "Posted Purchase Receipts"
+PageExtension;11151221;2020-08-28T19:39:23;tversluis;"MAW Posted Sales Credit Memos" extends "Posted Sales Credit Memos"
