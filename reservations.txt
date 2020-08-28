@@ -35,7 +35,6 @@ Codeunit;11197816;2019-02-22T15:01:46;jhoek;IA EBF Feature to Genus Mgt.
 Codeunit;11197815;2019-02-22T15:17:36;jhoek;IA EBF Charge Mgt.
 Codeunit;11197814;2019-02-22T15:26:48;jhoek;IA EBF VMP Put Order
 Codeunit;11197813;2019-02-25T13:27:32;jhoek;
-Page;11268607;2019-02-25T16:05:29;glind;PBI10727
 Codeunit;11197812;2019-02-25T20:35:16;jhoek;
 Codeunit;11197811;2019-02-26T11:03:38;jhoek;IA EBF Quote Header Facade
 Codeunit;11268645;2019-02-26T16:08:27;glind;PBI10727
@@ -1718,3 +1717,4 @@ Codeunit;11151270;2020-08-28T15:36:13;tversluis;"MAW Inspection - UI"
 Page;11151280;2020-08-28T15:36:20;tversluis;"MAW Inspection Value"
 Table;11151278;2020-08-28T15:36:28;tversluis;"MAW Inspection Value"
 Table;11151257;2020-08-28T15:36:35;tversluis;"MAW Inspect. Value Copy Pref."
+Page;11268607;2020-08-28T15:36:42;tversluis;"MAW Inspect. Value Copy Prefs"
