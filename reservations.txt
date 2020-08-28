@@ -6,7 +6,6 @@ Page;11268597;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Page;11268598;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Page;11268599;2019-01-28T10:37:18;glind;PBP 10072 Lot Filter Setup
 Codeunit;11268636;2019-01-28T10:38:00;glind;PBP 10072 Lot Filter Setup
-Query;11151042;2019-01-28T11:25:18;wkleemans;PBI 9928
 Table;11151537;2019-01-29T07:31:27;wkleemans;PBI 9928
 Page;11268600;2019-01-29T14:26:26;glind;PBI 10072 Lot Filter Set
 Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
@@ -1356,3 +1355,4 @@ Table;11151133;2020-08-28T14:50:40;tversluis;"MAW Container Composit. Pref."
 Table;11151094;2020-08-28T14:50:50;tversluis;"MAW Container Config. Buffer"
 Codeunit;11151143;2020-08-28T14:50:57;tversluis;"MAW Container Config.Buffer UI"
 Page;11151465;2020-08-28T14:51:05;tversluis;"MAW Container Entries"
+Query;11151042;2020-08-28T14:51:12;tversluis;"MAW Container Entries"
