@@ -6,7 +6,6 @@ Table;11151314;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
 Table;11151315;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
 Table;11151316;2019-02-08T15:42:49;adkorte;PBI10292 new tables and pages
 Page;11268604;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
-Page;11268605;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Page;11268606;2019-02-08T15:42:50;adkorte;PBI10292 new tables and pages
 Report;11151044;2019-02-18T11:22:58;adkorte;PBI11007
 Report;11151075;2019-02-21T07:53:52;adkorte;replacement for report 11151044 which was in use in 10.07
@@ -2894,3 +2893,4 @@ Codeunit;11268623;2020-08-28T21:04:37;tversluis;"MAW Time Reg.Buffer Preprocess"
 Table;11151368;2020-08-28T21:04:44;tversluis;"MAW Time Reg. Calc. Rule"
 Page;11268614;2020-08-28T21:04:50;tversluis;"MAW Time Reg. Calc. Rules Day"
 Page;11268628;2020-08-28T21:04:56;tversluis;"MAW Time Reg. Calc. Rules Week"
+Page;11268605;2020-08-28T21:05:02;tversluis;"MAW Time Reg.Class.Activities"
