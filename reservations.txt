@@ -1783,3 +1783,4 @@ Table;11151237;2020-08-28T15:43:47;tversluis;"MAW Item Hybrid"
 Codeunit;11268597;2020-08-28T15:43:52;tversluis;"MAW Item Hybrid Mgt."
 Codeunit;11151518;2020-08-28T15:43:58;tversluis;"MAW Item Hybrid Prop. Subscr."
 Page;11151126;2020-08-28T15:44:04;tversluis;"MAW Item Hybrids"
+Codeunit;50000;2020-08-28T18:40:15;tversluis;MAW Item - Inh. Props.
