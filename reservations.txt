@@ -1791,3 +1791,4 @@ PageExtension;11151242;2020-08-28T18:44:38;tversluis;"MAW Item List" extends "It
 Codeunit;11151103;2020-08-28T18:44:45;tversluis;"MAW Item Mgt."
 Table;11151154;2020-08-28T18:44:53;tversluis;"MAW Item Preference"
 Page;11151060;2020-08-28T18:45:00;tversluis;"MAW Item Preferences"
+Codeunit;11151055;2020-08-28T18:45:07;tversluis;"MAW Item Prod. Pref. UI"
