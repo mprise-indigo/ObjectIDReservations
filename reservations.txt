@@ -171,7 +171,6 @@ Table;11151241;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Table;11151242;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268525;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Page;11268526;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
-Page;11268528;2019-08-14T07:41:31;adkorte;TS13123 Time registration labelling
 Codeunit;11268467;2019-08-14T11:06:10;adkorte;TS13123 Time registration labelling
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
 Codeunit;11268694;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
@@ -2161,3 +2160,4 @@ Table;11151234;2020-08-28T19:34:06;tversluis;"MAW Plant Health Decl. Type"
 Page;11268534;2020-08-28T19:34:12;tversluis;"MAW Plant Health Decl. Types"
 Page;11268544;2020-08-28T19:34:18;tversluis;"MAW Plant Health Doc. Lot Sel."
 Codeunit;11268622;2020-08-28T19:34:25;tversluis;"MAW Plant Health Doc. Post"
+Page;11268528;2020-08-28T19:34:31;tversluis;"MAW Plant Health Document"
