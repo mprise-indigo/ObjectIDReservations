@@ -1728,3 +1728,4 @@ PageExtension;11151039;2020-08-28T15:37:53;tversluis;"MAW Inventory Setup" exten
 TableExtension;11151039;2020-08-28T15:38:00;tversluis;"MAW Inventory Setup" extends "Inventory Setup"
 Codeunit;11268758;2020-08-28T15:38:07;tversluis;"MAW Inv. Mut. Buf. Event Hub"
 Codeunit;11197973;2020-08-28T15:38:14;tversluis;"MAW Inv.Mut.Buf.Trac. - Post"
+Codeunit;11197956;2020-08-28T15:38:20;tversluis;"MAW Inv.Mut. Web Serv.Handler"
