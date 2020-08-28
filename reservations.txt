@@ -150,7 +150,6 @@ Codeunit;11197751;2019-07-04T08:50:21;jhoek;Feature value event subscribers
 Page;11268996;2019-07-25T07:11:24;damara;Task12857
 Table;11151304;2019-08-14T13:25:16;glind;PBI13139 Job Area Line
 Codeunit;11268694;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
-Codeunit;11268695;2019-08-21T12:48:28;glind;PBI13139 Job Area Line redesign
 Codeunit;11151174;2019-08-29T13:53:51;tversluis;
 Codeunit;11268716;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11268717;2019-08-30T13:14:42;adkorte;Financial fact BI
@@ -2997,3 +2996,4 @@ PageExtension;11151116;2020-08-28T21:19:08;tversluis;"MAW Whse. Basic Role Cente
 PageExtension;11151115;2020-08-28T21:19:15;tversluis;"MAW Whse. WMS Role Center" extends "Whse. WMS Role Center"
 Codeunit;11151360;2020-08-28T21:19:22;tversluis;"MAW Window"
 Codeunit;11268745;2020-08-28T21:19:28;tversluis;"MAW WO OutQtySpec - Inh.Props."
+Codeunit;11268695;2020-08-28T21:19:36;tversluis;"MAW WO ResultLine - Inh.Props."
