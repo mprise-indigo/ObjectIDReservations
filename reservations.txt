@@ -2644,3 +2644,4 @@ PageExtension;11151111;2020-08-28T20:33:21;tversluis;"MAW Resource Card" extends
 Page;11268517;2020-08-28T20:33:28;tversluis;"MAW Resource Labor Pattern"
 Table;11151230;2020-08-28T20:33:35;tversluis;"MAW Resource Labor Pattern"
 Table;11151231;2020-08-28T20:33:42;tversluis;"MAW Resource Labor Pattern Ln."
+Page;11268519;2020-08-28T20:33:49;tversluis;"MAW Resource Labor Patterns"
