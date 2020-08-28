@@ -174,7 +174,6 @@ Codeunit;11268721;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11268722;2019-08-30T13:14:42;adkorte;Financial fact BI
 Codeunit;11151211;2019-09-02T11:03:12;jhoek;
 Codeunit;11269450;2019-09-10T10:57:16;vpanjala;Task12440
-Table;11151509;2019-09-11T08:31:59;damara;Task13246
 Page;11268999;2019-09-11T08:40:31;damara;Task13246
 Table;11269448;2019-09-12T11:27:14;damara;Task13246
 Codeunit;11268697;2019-09-12T14:27:58;jhoek;
@@ -2660,3 +2659,4 @@ Codeunit;11151073;2020-08-28T20:35:17;tversluis;"MAW Restart Job Queue"
 Page;11151494;2020-08-28T20:35:24;tversluis;"MAW Role Center - Setup"
 Table;11151041;2020-08-28T20:35:32;tversluis;"MAW Role Center - Setup"
 Codeunit;11151078;2020-08-28T20:35:39;tversluis;"MAW RootstockJob FromSales Mgt"
+Table;11151509;2020-08-28T20:35:45;tversluis;"MAW Rounding Method"
