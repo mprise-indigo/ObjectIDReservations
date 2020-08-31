@@ -436,7 +436,6 @@ Codeunit;11268780;2020-08-14T11:35:18;tversluis;for subscribers
 Codeunit;11268781;2020-08-14T14:05:46;tversluis;for subscribers
 Codeunit;11268782;2020-08-14T14:23:25;tversluis;for subscribers
 Codeunit;11268783;2020-08-14T14:40:17;tversluis;for subscribers
-Page;11269400;2020-08-24T09:30:44;skapoor;Task_19778
 Page;11269401;2020-08-25T08:29:35;skapoor;Task_19778
 Table;11151384;2020-08-25T09:02:01;adkorte;TS17457 preview features
 Page;11268648;2020-08-25T09:02:01;adkorte;TS17457 preview features
@@ -2681,3 +2680,4 @@ Codeunit;11151538;2020-08-28T21:26:30;tversluis;"MAW XMLWriter"
 Codeunit;11269392;2020-08-31T12:57:03;tversluis;"MAW Job Aggregator"
 Page;11269399;2020-08-31T12:57:08;tversluis;"MAW Job Entity"
 Table;11269398;2020-08-31T12:57:13;tversluis;"MAW Job Entity Buffer"
+Page;11269400;2020-08-31T12:57:19;tversluis;"MAW Position Entity"
