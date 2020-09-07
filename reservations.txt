@@ -412,7 +412,6 @@ Table;11151382;2020-07-07T10:19:21;adkorte;TS18477 Anouk Optiflor
 Table;11269424;2020-07-07T13:32:11;vpanjala;Floriday_Task_18923
 Table;11151383;2020-07-07T15:17:48;adkorte;TS18477 Anouk Optiflor
 Page;11269423;2020-07-10T09:18:48;vpanjala;Floriday_Task_18480
-Page;11269424;2020-07-13T08:36:36;damara;Floriday_TASK_18309
 Table;11269426;2020-07-15T09:31:08;vpanjala;Floriday_Task_18310
 Page;11269425;2020-07-15T10:10:06;vpanjala;Floriday_Task_18310
 Page;11269426;2020-07-16T14:09:39;vpanjala;Floriday_Task_18313
