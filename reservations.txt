@@ -2700,3 +2700,4 @@ Page;11269424;2020-09-07T08:10:53;damara;Floriday_TASK_21448
 Table;11269429;2020-09-08T07:34:57;vpanjala;Sales_Orders_Additional_Services
 Page;11269435;2020-09-08T10:19:28;vpanjala;Sales_Orders_Additional_Services
 Table;11269430;2020-09-09T07:55:33;vpanjala;Store Fulfillment Requests in Agriware
+Table;11269432;2020-09-17T12:20:32;vpanjala;Floriday_Sales_Order_ErrorLog
