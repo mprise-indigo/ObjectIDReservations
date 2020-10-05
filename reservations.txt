@@ -2712,3 +2712,4 @@ EnumType;11151041;2020-10-01T10:07:01;glind;Additional Sales Lines
 Page;11151103;2020-10-01T13:02:14;glind;Additional Sales Lines
 Codeunit;11269430;2020-10-05T08:47:01;vpanjala;Floriday_Version_Control_List
 Codeunit;11151083;2020-10-05T12:59:56;jboes;FIXME Teus: Object free in BC16 not in other versions
+Codeunit;11151226;2020-10-05T13:01:28;jboes;Ball: Filter sources in item availability view
