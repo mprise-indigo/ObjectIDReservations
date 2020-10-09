@@ -2705,7 +2705,6 @@ Page;11269436;2020-09-17T12:21:31;vpanjala;Floriday_Sales_Order_ErrorLog
 Page;11269437;2020-09-24T08:26:22;vpanjala;Split_Selected_Floriday_Sales_Line
 Table;11269433;2020-09-24T08:34:56;vpanjala;Split_Selected_Floriday_Sales_Line
 Page;11197749;2020-09-24T10:36:06;skapoor;TASK_22435
-Page;11269419;2020-09-24T11:51:40;skapoor;Task_22086
 Page;11269438;2020-09-25T15:44:38;vpanjala;_PostPhotoAPI
 Codeunit;11151039;2020-10-01T10:07:01;glind;Additional Sales Lines
 EnumType;11151041;2020-10-01T10:07:01;glind;Additional Sales Lines
@@ -2722,3 +2721,4 @@ Codeunit;11151235;2020-10-06T19:13:23;jboes;Ball Source Filters Item Availabilit
 Page;11269439;2020-10-07T11:43:28;damara;Floriday_TASK_19759
 Table;11269410;2020-10-07T17:52:14;vpanjala;Add_Picture_From_Floriday_To_TradeItem
 Page;11269411;2020-10-07T17:53:02;vpanjala;Add_Picture_from_Floriday_To_TradeItem
+Page;11269419;2020-10-09T07:10:54;damara;Floriday_TASK_19759
