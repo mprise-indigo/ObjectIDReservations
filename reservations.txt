@@ -2724,3 +2724,4 @@ Page;11269411;2020-10-07T17:53:02;vpanjala;Add_Picture_from_Floriday_To_TradeIte
 Page;11269409;2020-10-09T09:10:30;damara;Floriday_TASK_19759
 Page;11269410;2020-10-09T09:10:56;damara;Floriday_TASK_19759
 Codeunit;11269420;2020-10-09T11:55:14;vpanjala;Floriday_Trade_Item_Property_Subscribers
+Codeunit;11151334;2020-10-14T15:05:03;glind;Additional Sales Lines
