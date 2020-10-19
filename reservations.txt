@@ -2725,3 +2725,4 @@ Codeunit;11269420;2020-10-09T11:55:14;vpanjala;Floriday_Trade_Item_Property_Subs
 Codeunit;11151334;2020-10-14T15:05:03;glind;Additional Sales Lines
 Codeunit;11151410;2020-10-14T15:09:38;glind;Additional Sales Lines
 Page;11151134;2020-10-19T09:07:45;jboes;Ball - Production Plan for Demand
+Codeunit;11268790;2020-10-19T12:20:23;skapoor;IA_Resource_Subscriber
