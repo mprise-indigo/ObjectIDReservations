@@ -2731,3 +2731,4 @@ Page;11151371;2020-10-19T13:22:50;jboes;Ball - Production Plan for Demand
 Codeunit;11151226;2020-10-20T13:19:08;jboes;Ball - Production Plan for Demand
 Page;11269412;2020-10-20T13:28:59;damara;Floriday_TASK_23796
 Page;11269413;2020-10-20T13:37:08;damara;Floriday_TASK_23796
+Report;11151068;2020-10-21T10:57:48;jboes;Ball - Batch Current Output factor
