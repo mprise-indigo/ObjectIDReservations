@@ -2753,3 +2753,4 @@ Table;11268500;2020-11-17T05:27:43;skapoor;MAWResourceLaborPatternTemplate
 Codeunit;11268770;2020-11-17T05:29:12;skapoor;MAWApplyResourceLaborPatternTemplate
 Page;11268680;2020-11-17T05:49:26;skapoor;MAWResourceLaborPatternTemplate
 Codeunit;11268771;2020-11-17T05:51:51;skapoor;MAWResourceLaborPatternTemplateUI
+Page;11268682;2020-11-17T05:53:18;skapoor;MAWResourceLaborPatternTemplateList
