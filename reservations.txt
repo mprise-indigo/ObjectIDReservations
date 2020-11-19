@@ -2703,7 +2703,6 @@ Codeunit;11151039;2020-10-01T10:07:01;glind;Additional Sales Lines
 EnumType;11151041;2020-10-01T10:07:01;glind;Additional Sales Lines
 Page;11151103;2020-10-01T13:02:14;glind;Additional Sales Lines
 Codeunit;11269430;2020-10-05T08:47:01;vpanjala;Floriday_Version_Control_List
-Codeunit;11151083;2020-10-05T12:59:56;jboes;FIXME Teus: Object free in BC16 not in other versions
 Page;11151153;2020-10-05T15:30:27;jboes;Ball: Filter sources in item availability view
 Codeunit;11151228;2020-10-05T15:43:45;jboes;Ball: Filter sources in item availability view
 Table;11151401;2020-10-06T08:10:55;jboes;Ball Filter Sources in Item Avail.
@@ -2764,3 +2763,4 @@ Page;11269407;2020-11-19T07:21:46;vpanjala;IA_Floriday_Split_Sales_Order_Lines
 Page;11151235;2020-11-19T09:13:05;jboes;GCG | Job production planning
 Codeunit;11151490;2020-11-19T09:15:15;jboes;GCG | Job production planning
 Table;11151095;2020-11-19T09:27:45;tversluis;FREE from MAW17
+Codeunit;11151083;2020-11-19T09:29:14;tversluis;FREE from MAW17
