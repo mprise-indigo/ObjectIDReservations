@@ -2783,3 +2783,4 @@ Table;11151408;2020-11-23T11:15:33;jboes;Ball | Warehouse Tracking ID Overview
 Table;11151409;2020-11-23T11:15:44;jboes;Ball | Warehouse Tracking ID Overview
 Codeunit;11268791;2020-11-23T11:16:59;jboes;Ball | Warehouse Tracking ID Overview
 Codeunit;11268792;2020-11-23T11:17:10;jboes;Ball | Warehouse Tracking ID Overview
+Query;11151047;2020-11-23T11:18:17;jboes;Ball | Warehouse Tracking ID Overview
