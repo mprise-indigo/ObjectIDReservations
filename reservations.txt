@@ -2803,3 +2803,4 @@ Codeunit;11268794;2020-12-03T13:17:08;jboes;Ball | Warehouse tracking id propert
 EnumType;11151042;2020-12-03T15:26:44;jboes;Ball Warehouse | Warehouse Tracking ID
 Query;11151180;2020-12-04T04:32:43;jkarri;Comment_JobFinancialStatistics_QueryBasedPage
 Table;11151411;2020-12-04T09:30:42;jboes;Ball | Manage warehouse inspections
+Table;11151412;2020-12-04T09:44:40;jboes;Ball | Manage warehouse inspections
