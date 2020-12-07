@@ -2808,3 +2808,4 @@ Codeunit;11268796;2020-12-04T12:02:23;jboes;Ball | Warehouse tracking & Inspecti
 Table;11151438;2020-12-04T12:11:56;jboes;Ball | Warehouse tracking & Inspections
 Table;11151439;2020-12-04T12:12:07;jboes;Ball | Warehouse tracking & Inspections
 Page;11269414;2020-12-07T08:52:57;vpanjala;IA_Trade_Item_Features
+Table;11151416;2020-12-07T12:23:23;jboes;Ball | Integration Whse track - ILE
