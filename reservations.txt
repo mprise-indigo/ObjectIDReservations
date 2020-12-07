@@ -2819,3 +2819,4 @@ Page;11268669;2020-12-07T13:13:49;jboes;Ball | Pick
 Page;11268670;2020-12-07T13:14:00;jboes;Ball | Pick
 Codeunit;11268797;2020-12-07T13:15:20;jboes;Ball | Pick
 EnumType;11151043;2020-12-07T13:16:40;jboes;Ball | Pick
+TableExtension;11151042;2020-12-07T13:17:41;jboes;Ball | Pick
