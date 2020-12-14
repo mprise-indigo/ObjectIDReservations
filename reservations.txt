@@ -2833,3 +2833,4 @@ Query;11151182;2020-12-10T13:27:23;jkarri;JobMutationEntryQuery_JobInventory_Que
 Table;11151445;2020-12-10T14:59:05;jboes;Ball | Whse. Tracking Code Preference
 Page;11268679;2020-12-11T09:46:01;jboes;Ball | Whs. Tracking Code Preferences
 Codeunit;11268765;2020-12-14T05:40:56;skapoor;MAW Create Job From Pro Demand
+Page;11268674;2020-12-14T05:44:26;skapoor;MAW Jobs List Per Period
