@@ -2838,3 +2838,4 @@ Query;11151051;2020-12-15T09:47:51;jboes;Ball | PickPack Additional Status Views
 Query;11151052;2020-12-15T09:48:04;jboes;Ball | PickPack Additional Status Views
 Codeunit;11268798;2020-12-15T09:49:26;jboes;Ball | PickPack Additional Status Views
 Codeunit;11268799;2020-12-15T09:49:37;jboes;Ball | PickPack Additional Status Views
+Codeunit;11268800;2020-12-16T09:49:57;jboes;Ball | Pick order - properties management
