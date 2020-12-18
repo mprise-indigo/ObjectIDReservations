@@ -357,17 +357,9 @@ Report;11151065;2020-02-20T12:00:05;tversluis;Move objects out of license range
 Codeunit;11268752;2020-02-20T12:00:05;tversluis;Move objects out of license range
 Codeunit;11268753;2020-02-20T12:00:05;tversluis;Move objects out of license range
 Codeunit;11268754;2020-02-20T12:00:05;tversluis;Move objects out of license range
-Table;11268600;2020-03-01T14:18:28;vpanjala;Task_15131
-Page;11268671;2020-03-02T07:10:02;damara;Task_15132
-Page;11268672;2020-03-02T07:10:12;damara;Task_15132
 Table;11151080;2020-03-03T23:46:35;tversluis;new property value table
-Codeunit;11268756;2020-03-04T05:40:27;damara;Task_15132
-Page;11268673;2020-03-04T17:24:53;vpanjala;Task_15133
 Report;11151477;2020-03-06T09:47:48;damara;Task_15136
-Page;11268674;2020-03-16T13:34:18;vpanjala;Task_15138
-Table;11268601;2020-03-18T05:46:03;vpanjala;task_15133
 Page;11268675;2020-03-21T06:08:19;damara;Task_15908
-Codeunit;11268765;2020-03-22T07:03:22;vpanjala;PBI_15138
 Codeunit;11269037;2020-04-22T09:43:49;glind;PBI15638 IAC Create Item from App
 Codeunit;11268762;2020-04-22T13:52:36;tversluis;fifo/lifo a.s.
 Codeunit;11268763;2020-04-22T13:52:36;tversluis;fifo/lifo a.s.
@@ -2786,3 +2778,76 @@ Query;11151047;2020-11-23T11:18:17;jboes;Ball | Warehouse Tracking ID Overview
 Query;11151048;2020-11-23T11:18:30;jboes;Ball | Warehouse Tracking ID Overview
 Table;11269407;2020-11-23T11:39:30;vpanjala;IA_SSCC_Print_Job
 Report;11151217;2020-11-24T04:44:12;ssanam;MAW Deleted Report 11151217 17.0.0.0
+Page;11151421;2020-11-24T09:02:47;jboes;Ball | Graph 
+Codeunit;11269402;2020-11-26T06:27:30;damara;Floriday_TASK_24510
+Codeunit;11269419;2020-11-26T06:58:32;vpanjala;IA_Floriday_FulfillmentOrders_Management
+TableExtension;11151040;2020-11-26T14:02:30;adkorte;MAW Price List Line
+Table;11151404;2020-11-30T09:25:53;jboes;Ball "Warehouse Tracking ID Log
+Page;11151500;2020-11-30T14:30:48;jboes;Ball "Warehouse Tracking ID Log
+Report;11151069;2020-11-30T15:54:53;jboes;Ball "Warehouse Tracking ID Log
+TableExtension;11151041;2020-12-01T14:56:00;jboes;Ball | Inegration Whse track - ILE
+Codeunit;11268793;2020-12-01T14:57:30;jboes;Ball | Inegration Whse track - ILE
+PageExtension;11151040;2020-12-01T15:11:54;jboes;Ball | Integration Whse track - ILE
+Table;11151410;2020-12-01T16:34:14;jboes;Ball | Integration Whse track - ILE
+Page;11151531;2020-12-01T17:35:54;jboes;Ball | Integration Whse track - ILE
+PageExtension;11151041;2020-12-02T12:33:01;jboes;Ball | Integration Whse track - ILE
+Codeunit;11268794;2020-12-03T13:17:08;jboes;Ball | Warehouse tracking id properties
+EnumType;11151042;2020-12-03T15:26:44;jboes;Ball Warehouse | Warehouse Tracking ID
+Query;11151180;2020-12-04T04:32:43;jkarri;Comment_JobFinancialStatistics_QueryBasedPage
+Table;11151411;2020-12-04T09:30:42;jboes;Ball | Manage warehouse inspections
+Table;11151412;2020-12-04T09:44:40;jboes;Ball | Manage warehouse inspections
+Codeunit;11268796;2020-12-04T12:02:23;jboes;Ball | Warehouse tracking & Inspections
+Table;11151438;2020-12-04T12:11:56;jboes;Ball | Warehouse tracking & Inspections
+Table;11151439;2020-12-04T12:12:07;jboes;Ball | Warehouse tracking & Inspections
+Page;11269414;2020-12-07T08:52:57;vpanjala;IA_Trade_Item_Features
+Table;11151416;2020-12-07T12:23:23;jboes;Ball | Integration Whse track - ILE
+Table;11151440;2020-12-07T13:11:53;jboes;Ball | Pick
+Table;11151441;2020-12-07T13:12:02;jboes;Ball | Pick
+Table;11151443;2020-12-07T13:12:11;jboes;Ball | Pick
+Table;11151442;2020-12-07T13:12:20;jboes;Ball | Pick
+Page;11268667;2020-12-07T13:13:31;jboes;Ball | Pick
+Page;11268668;2020-12-07T13:13:40;jboes;Ball | Pick
+Page;11268669;2020-12-07T13:13:49;jboes;Ball | Pick
+Page;11268670;2020-12-07T13:14:00;jboes;Ball | Pick
+Codeunit;11268797;2020-12-07T13:15:20;jboes;Ball | Pick
+EnumType;11151043;2020-12-07T13:16:40;jboes;Ball | Pick
+TableExtension;11151042;2020-12-07T13:17:41;jboes;Ball | Pick
+PageExtension;11151042;2020-12-07T13:18:22;jboes;Ball | Pick
+Page;11268649;2020-12-07T18:01:13;jboes;Ball | Integration Whse track - ILE
+PageExtension;11151043;2020-12-08T08:25:35;jboes;Ball | Integration Whse track - ILE
+PageExtension;11151044;2020-12-08T08:25:49;jboes;Ball | Integration Whse track - ILE
+Page;11268676;2020-12-08T10:38:13;jboes;Ball | Pick
+Table;11151444;2020-12-08T10:41:05;jboes;Ball | Warehouse Tracking Code
+EnumType;11151044;2020-12-08T14:15:07;jboes;Ball | Warehouse Tracking Code
+Page;11268677;2020-12-08T15:02:38;jboes;Ball | Warehouse Tracking Code
+Page;11268678;2020-12-08T15:02:49;jboes;Ball | Warehouse Tracking Code
+Page;11268673;2020-12-09T08:11:21;skapoor;MAW Dem. & Sup. Plann. TimeLine
+PageExtension;11151045;2020-12-09T10:29:16;jboes;Ball | Manage inspections Warehouse tracking ID
+Query;11151181;2020-12-10T13:26:10;jkarri;LaborPlanningPerAction_QueryBasedPage
+Query;11151182;2020-12-10T13:27:23;jkarri;JobMutationEntryQuery_JobInventory_QueryBasedPage
+Table;11151445;2020-12-10T14:59:05;jboes;Ball | Whse. Tracking Code Preference
+Page;11268679;2020-12-11T09:46:01;jboes;Ball | Whs. Tracking Code Preferences
+Codeunit;11268765;2020-12-14T05:40:56;skapoor;MAW Create Job From Pro Demand
+Page;11268674;2020-12-14T05:44:26;skapoor;MAW Jobs List Per Period
+Table;11268601;2020-12-14T05:46:53;skapoor;MAW Job Supply Buffer
+Codeunit;11268756;2020-12-14T05:48:39;skapoor;MAW Prod. Plan Demand Mgt.
+Page;11268672;2020-12-14T05:49:29;skapoor;MAW Prod.Plan Dem. Item Subpag
+Page;11268671;2020-12-14T05:50:26;skapoor;MAW Prod. Plan For Demand
+Table;11268600;2020-12-14T05:51:24;skapoor;MAW Prod. Plan for Dem. Period
+Query;11151051;2020-12-15T09:47:51;jboes;Ball | PickPack Additional Status Views
+Query;11151052;2020-12-15T09:48:04;jboes;Ball | PickPack Additional Status Views
+Codeunit;11268798;2020-12-15T09:49:26;jboes;Ball | PickPack Additional Status Views
+Codeunit;11268799;2020-12-15T09:49:37;jboes;Ball | PickPack Additional Status Views
+Codeunit;11268800;2020-12-16T09:49:57;jboes;Ball | Pick order - properties management
+Codeunit;11268801;2020-12-16T15:16:01;jboes;Ball | Pick order - tracking ids
+Table;11151446;2020-12-16T15:17:41;jboes;Ball | Pick worksheet
+Table;11151447;2020-12-16T15:17:50;jboes;Ball | Pick worksheet
+Table;11151448;2020-12-16T15:18:00;jboes;Ball | Pick worksheet
+Table;11151449;2020-12-16T15:18:14;jboes;Ball | Pick worksheet
+Page;11268686;2020-12-16T15:27:31;jboes;Ball | Pick worksheet
+Page;11268687;2020-12-16T15:27:43;jboes;Ball | Pick worksheet
+Page;11268688;2020-12-16T15:27:55;jboes;Ball | Pick worksheet
+Page;11268689;2020-12-16T15:28:05;jboes;Ball | Pick worksheet
+Page;11268690;2020-12-16T15:28:22;jboes;Ball | Pick worksheet
+Codeunit;11268802;2020-12-17T10:38:26;jboes;Ball | Warehouse Tracking Property Mgt
+>>>>>>> 16274ab3374199a178376bf3098304c758d4d824
