@@ -2869,3 +2869,4 @@ Page;11268692;2021-01-05T10:50:46;jboes;Ball | Job Pick Lines
 Codeunit;11269038;2021-01-05T11:55:57;skapoor;MAWPA WhseTrackingIDFacade
 Codeunit;11269039;2021-01-05T11:56:43;skapoor;MAWPA WOAggregatorFacade
 Codeunit;11269397;2021-01-05T11:59:40;skapoor;MAW WOResConsumptionInbound
+Codeunit;11269394;2021-01-05T12:01:02;skapoor;MAW Work Order Aggregator UI
