@@ -2876,3 +2876,4 @@ TableExtension;11269000;2021-01-05T12:18:09;skapoor;MAWA Inspection Line
 PageExtension;11269001;2021-01-05T12:19:08;skapoor;MAWA Inspection Line Subpage
 PageExtension;11269002;2021-01-05T12:19:53;skapoor;MAWA Inspection List
 TableExtension;11269001;2021-01-05T12:20:45;skapoor;MAWA Item
+PageExtension;11269004;2021-01-05T12:21:55;skapoor;MAWA Item Card
