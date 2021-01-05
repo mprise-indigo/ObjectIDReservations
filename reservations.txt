@@ -2873,3 +2873,4 @@ Codeunit;11269393;2021-01-05T12:02:55;skapoor;MAW WO Inbound Aggregator
 Codeunit;11268680;2021-01-05T12:09:41;skapoor;MAWA App UI
 PageExtension;11269000;2021-01-05T12:11:54;skapoor;MAWA Inspection Card
 TableExtension;11269000;2021-01-05T12:18:09;skapoor;MAWA Inspection Line
+PageExtension;11269001;2021-01-05T12:19:08;skapoor;MAWA Inspection Line Subpage
