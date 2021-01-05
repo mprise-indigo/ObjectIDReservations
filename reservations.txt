@@ -2882,3 +2882,4 @@ PageExtension;11268680;2021-01-05T12:23:39;skapoor;MAWA Job Card
 PageExtension;11269003;2021-01-05T12:25:55;skapoor;MAWA Job List
 Page;11269391;2021-01-05T12:27:05;skapoor;MAW Activity Entity
 TableExtension;11269390;2021-01-05T12:27:39;skapoor;MAW API Activity
+TableExtension;11269392;2021-01-05T12:28:05;skapoor;MAW API Bin
