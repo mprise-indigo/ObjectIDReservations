@@ -2891,3 +2891,4 @@ Codeunit;11269398;2021-01-05T12:37:55;skapoor;MAW WOResultLineInbound
 TableExtension;11268463;2021-01-05T12:49:23;skapoor;MAWPA WOLotEntry Entity Buffer
 Report;11151078;2021-01-05T15:20:18;jboes;Ball | Create Job picks
 Codeunit;11268807;2021-01-05T22:02:09;jboes;Ball | Generate Job Pick Worksheet
+Page;11269419;2021-01-06T07:46:06;vpanjala;IA_Floriday_Load_Carrier_Item_Lines
