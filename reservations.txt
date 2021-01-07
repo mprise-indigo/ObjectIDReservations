@@ -2892,3 +2892,4 @@ TableExtension;11268463;2021-01-05T12:49:23;skapoor;MAWPA WOLotEntry Entity Buff
 Report;11151078;2021-01-05T15:20:18;jboes;Ball | Create Job picks
 Codeunit;11268807;2021-01-05T22:02:09;jboes;Ball | Generate Job Pick Worksheet
 Page;11269419;2021-01-06T07:46:06;vpanjala;IA_Floriday_Load_Carrier_Item_Lines
+Codeunit;11268808;2021-01-07T09:23:28;jboes;Ball | Create job picks
