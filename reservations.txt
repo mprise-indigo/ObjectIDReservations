@@ -1774,7 +1774,6 @@ TableExtension;11151236;2020-08-28T19:42:16;tversluis;"MAW Prepaymt.Inv. Line Bu
 Codeunit;11268788;2020-08-28T19:42:23;tversluis;"Price Calc. - Agriware Price" implements "Price Calculation"
 PageExtension;11151300;2020-08-28T19:42:29;tversluis;"MAW price list line" extends "Get Price Line"
 TableExtension;11151266;2020-08-28T19:42:36;tversluis;"MAW Price list line" extends "Price List Line"
-Page;11268786;2020-08-28T19:42:43;tversluis;"MAW Price List Lines"
 Page;11151528;2020-08-28T19:42:49;tversluis;"MAW Primary Res. Activities"
 Codeunit;11151068;2020-08-28T19:42:56;tversluis;"MAW Primary Res. Activity Mgt."
 Table;11151119;2020-08-28T19:43:03;tversluis;"MAW Primary Resource Activity"
