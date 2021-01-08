@@ -2900,3 +2900,4 @@ Page;11269402;2021-01-08T11:16:30;skapoor;MAWPA Whse. Tracking ID Entity
 Codeunit;11269040;2021-01-08T11:43:25;skapoor;MAWPA JobPickOrderAggregator
 Table;11269401;2021-01-08T12:32:38;skapoor;MAWPA JobPickLine Entity Buffer
 Codeunit;11268809;2021-01-08T12:58:39;jboes;Ball | Item Bom preference
+Table;11151455;2021-01-08T14:43:31;jboes;Ball | Item Bom Base Material
