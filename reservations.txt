@@ -2897,3 +2897,4 @@ PageExtension;11151046;2021-01-07T13:55:20;adkorte;MAW Price List Lines
 Table;11151454;2021-01-08T10:18:50;jboes;Ball | Item BOM Preference
 Page;11268693;2021-01-08T10:19:11;jboes;Ball | Item BOM Preference
 Page;11269402;2021-01-08T11:16:30;skapoor;MAWPA Whse. Tracking ID Entity
+Codeunit;11269040;2021-01-08T11:43:25;skapoor;MAWPA JobPickOrderAggregator
