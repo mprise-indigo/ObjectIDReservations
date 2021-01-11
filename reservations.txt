@@ -2903,3 +2903,4 @@ Codeunit;11268809;2021-01-08T12:58:39;jboes;Ball | Item Bom preference
 Table;11151455;2021-01-08T14:43:31;jboes;Ball | Item Bom Base Material
 Page;11268694;2021-01-08T14:43:55;jboes;Ball | Item Bom Base Material
 Page;11269380;2021-01-11T06:50:00;skapoor;MAWPA Job Pick Order Entity
+EnumType;11151045;2021-01-11T08:12:24;jboes;Ball | Item BoM Base Preference
