@@ -2905,3 +2905,4 @@ Page;11269380;2021-01-11T06:50:00;skapoor;MAWPA Job Pick Order Entity
 EnumType;11151045;2021-01-11T08:12:24;jboes;Ball | Item BoM Base Preference
 Page;11269381;2021-01-11T13:56:57;skapoor;MAWPA Job Pick Line Entity
 Table;11269402;2021-01-12T05:15:11;skapoor;MAWPA JobPickSpec Ent. Buffer
+Table;11151453;2021-01-13T10:41:36;jboes;Ball | Item BOM as new product specification
