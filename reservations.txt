@@ -2912,3 +2912,4 @@ TableExtension;11151043;2021-01-13T11:17:48;jboes;Ball | Item BOM as new product
 PageExtension;11151048;2021-01-13T11:18:15;jboes;Ball | Item BOM as new product specification
 TableExtension;11151044;2021-01-14T11:55:00;jboes;Ball | Calculate Planned Labor
 PageExtension;11151049;2021-01-14T15:29:08;jboes;Ball | Calculate Planned Labor
+Codeunit;11268810;2021-01-15T09:39:32;glind;MAW Upgrade Tag
