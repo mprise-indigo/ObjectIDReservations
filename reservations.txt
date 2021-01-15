@@ -2914,3 +2914,4 @@ PageExtension;11151049;2021-01-14T15:29:08;jboes;Ball | Calculate Planned Labor
 Codeunit;11151083;2021-01-15T09:43:38;glind;MAW Upgrade Tag
 Codeunit;11269417;2021-01-15T11:53:28;damara;Floriday_TASK_27582
 Codeunit;11269421;2021-01-15T12:21:07;damara;Floriday_TASK_27582
+Codeunit;11268810;2021-01-15T13:22:37;glind;MAW Install
