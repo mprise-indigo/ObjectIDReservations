@@ -2912,3 +2912,4 @@ Codeunit;11151083;2021-01-15T09:43:38;glind;MAW Upgrade Tag
 Codeunit;11269417;2021-01-15T11:53:28;damara;Floriday_TASK_27582
 Codeunit;11269421;2021-01-15T12:21:07;damara;Floriday_TASK_27582
 Codeunit;11151211;2021-01-15T13:32:44;glind;MAW Install
+Table;11151456;2021-01-18T08:56:22;jboes;Ball | Job Pick Worksheet - Allocate inventory
