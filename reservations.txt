@@ -2919,3 +2919,4 @@ Codeunit;11269041;2021-01-18T12:09:51;skapoor;MAWPA JobPickOrderInbndAggr.
 Codeunit;11269042;2021-01-18T12:21:36;skapoor;MAWPA JobPickOrderAggregatorUI
 Table;11151457;2021-01-18T16:54:53;jboes;Ball | Job Pick worksheet Location allocation
 Page;11268696;2021-01-18T17:04:03;jboes;Ball | Job Pick worksheet Location allocation
+Page;11268697;2021-01-18T17:53:49;jboes;Ball | Job Pick worksheet Location allocation
