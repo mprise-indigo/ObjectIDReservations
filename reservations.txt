@@ -2915,3 +2915,4 @@ Codeunit;11151211;2021-01-15T13:32:44;glind;MAW Install
 Table;11151456;2021-01-18T08:56:22;jboes;Ball | Job Pick Worksheet - Allocate inventory
 Page;11268695;2021-01-18T08:56:51;jboes;Ball | Job Pick Worksheet - Allocate inventory
 Page;11269382;2021-01-18T12:09:06;skapoor;MAWPA JobPickLine Spec. Entity
+Codeunit;11269041;2021-01-18T12:09:51;skapoor;MAWPA JobPickOrderInbndAggr.
