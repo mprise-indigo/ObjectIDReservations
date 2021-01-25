@@ -2925,3 +2925,4 @@ Codeunit;11268810;2021-01-18T17:54:24;jboes;Ball | Job Pick worksheet Location a
 Codeunit;11269043;2021-01-19T07:43:05;skapoor;MAWPA JobPickLnSpecInbdAggr.
 TableExtension;11151044;2021-01-22T16:09:59;jboes;Ball | BOM Item on Sales Line
 PageExtension;11151049;2021-01-22T16:22:59;jboes;Ball | BOM Item on Sales Line
+Codeunit;11268811;2021-01-25T11:31:40;jboes;Ball | Location Allocation
