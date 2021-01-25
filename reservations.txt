@@ -2926,3 +2926,4 @@ Codeunit;11269043;2021-01-19T07:43:05;skapoor;MAWPA JobPickLnSpecInbdAggr.
 TableExtension;11151044;2021-01-22T16:09:59;jboes;Ball | BOM Item on Sales Line
 PageExtension;11151049;2021-01-22T16:22:59;jboes;Ball | BOM Item on Sales Line
 Codeunit;11268811;2021-01-25T11:31:40;jboes;Ball | Location Allocation
+Query;11151054;2021-01-25T11:32:04;jboes;Ball | Location Allocation
