@@ -2931,3 +2931,4 @@ Query;11151055;2021-01-25T11:32:29;jboes;Ball | Location Allocation
 Report;11151079;2021-01-25T11:36:55;jboes;Ball | Post Job Pick
 Codeunit;11268812;2021-01-25T11:37:17;jboes;Ball | Post Job Pick
 Query;11151056;2021-01-25T11:37:37;jboes;Ball | Post Job Pick
+Query;11151057;2021-01-25T11:50:57;jboes;Ball | Location Allocation
