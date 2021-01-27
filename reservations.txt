@@ -2932,3 +2932,4 @@ Codeunit;11268812;2021-01-25T11:37:17;jboes;Ball | Post Job Pick
 Query;11151056;2021-01-25T11:37:37;jboes;Ball | Post Job Pick
 Query;11151057;2021-01-25T11:50:57;jboes;Ball | Location Allocation
 Codeunit;11269452;2021-01-27T05:50:50;ssanam;Task_25305_IA_Standard_Purchase_Subscr
+Report;11151080;2021-01-27T06:52:12;skapoor;IA Update Job Product Group
