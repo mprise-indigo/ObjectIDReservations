@@ -2936,3 +2936,4 @@ Report;11151080;2021-01-27T06:52:12;skapoor;IA Update Job Product Group
 Table;11151463;2021-01-27T08:25:15;jboes;Ball | Location allocation
 Query;11151058;2021-01-27T12:32:43;jboes;Ball | Location allocation
 Codeunit;11268811;2021-01-28T12:06:30;jboes;Ball | Pick Sales Item Bom
+Query;11151059;2021-01-28T12:06:55;jboes;Ball | Pick Sales Item Bom
