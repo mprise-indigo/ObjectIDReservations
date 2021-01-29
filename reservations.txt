@@ -2937,3 +2937,4 @@ Codeunit;11268811;2021-01-28T12:06:30;jboes;Ball | Pick Sales Item Bom
 Query;11151059;2021-01-28T12:06:55;jboes;Ball | Pick Sales Item Bom
 Query;11151061;2021-01-29T08:51:18;jboes;Ball | Location allocation
 PageExtension;11151050;2021-01-29T11:36:53;jboes;Ball | Pick Sales integration
+PageExtension;11269006;2021-01-29T12:12:48;skapoor;MAWA Purchase Order
