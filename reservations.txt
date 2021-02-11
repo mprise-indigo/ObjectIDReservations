@@ -2967,3 +2967,4 @@ Table;11151447;2021-02-11T08:17:31;jboes;Ball Generate Packing Order Preference
 Page;11268688;2021-02-11T08:18:04;jboes;Ball Generate Packing Order Preference
 Query;11151062;2021-02-11T15:31:10;jboes;Ball | Generate Packing worksheet
 Codeunit;11268818;2021-02-11T16:03:38;jboes;Ball | Generate Packing worksheet
+EnumType;11151048;2021-02-11T16:50:46;jboes;Ball | Generate Packing Order Preference
