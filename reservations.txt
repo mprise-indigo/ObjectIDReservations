@@ -2972,3 +2972,4 @@ Codeunit;11268819;2021-02-12T10:11:56;jboes;Ball | Generate Packing Order Prefer
 TableExtension;11151045;2021-02-12T10:12:24;jboes;Ball | Generate Packing Order Preference
 Table;11151538;2021-02-12T10:37:01;skapoor;MAW Inspection Application
 PageExtension;11151052;2021-02-12T10:56:02;jboes;Ball | Generate Packing Order Preference
+Codeunit;11268821;2021-02-12T11:21:10;ssanam;IA_Opportunity_Entry_Subs_TS27826
