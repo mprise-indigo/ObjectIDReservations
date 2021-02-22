@@ -2991,3 +2991,4 @@ Codeunit;11268835;2021-02-19T09:25:34;skapoor;MAW Insp. Application Facade
 Query;11151062;2021-02-20T23:03:22;jboes;Ball | Generate Job Pick Worksheet
 Query;11151063;2021-02-20T23:06:33;jboes;Ball | Generate Job Pick Worksheet
 Codeunit;11268819;2021-02-22T09:32:31;jboes;Ball Sales order Mgt
+Codeunit;11268827;2021-02-22T17:33:27;jboes;Ball | Copy job pick type 2 job activity scheme
