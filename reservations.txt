@@ -3005,3 +3005,4 @@ Table;11269040;2021-03-05T09:42:36;skapoor;MAWPA Whse. Track. Line Buffer
 Codeunit;11269044;2021-03-05T12:21:43;skapoor;MAWPA WhseTrackLineAggregator
 PageExtension;11151056;2021-03-05T13:19:30;kkleijer;Packing Order Whs Tracking
 PageExtension;11151057;2021-03-08T18:15:02;jboes;Ball | Item BOM
+Page;11269040;2021-03-10T08:16:02;skapoor;MAWPA Whse. Track. Line Entity
