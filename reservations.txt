@@ -3022,3 +3022,4 @@ TableExtension;11151047;2021-03-16T11:22:12;kkleijer;Ball Load Policy Preference
 Table;11151485;2021-03-16T11:34:55;kkleijer;Ball Load Policy Preference
 Page;11268706;2021-03-16T13:23:57;kkleijer;Ball Loading Setup
 PageExtension;11151058;2021-03-16T14:40:46;kkleijer;Ball Loading Setup
+Codeunit;11268831;2021-03-16T15:12:46;kkleijer;Ball Loading Setup
