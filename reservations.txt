@@ -3017,3 +3017,4 @@ Page;11269043;2021-03-15T06:14:06;skapoor;MAWPA PackOrderTrackLn. Entity
 Codeunit;11269046;2021-03-16T06:05:04;skapoor;MAWPA PackOrderInbdAggregator
 Table;11151464;2021-03-16T09:03:37;kkleijer;Ball Loading Setup
 Page;11268705;2021-03-16T09:05:32;kkleijer;Ball Loading Setup
+EnumType;11151049;2021-03-16T11:11:36;kkleijer;Ball Load Policy Preference
