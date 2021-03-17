@@ -3025,3 +3025,4 @@ PageExtension;11151058;2021-03-16T14:40:46;kkleijer;Ball Loading Setup
 Codeunit;11268831;2021-03-16T15:12:46;kkleijer;Ball Loading Setup
 Page;11269044;2021-03-17T07:41:26;skapoor;MAWA Skill Code Entity
 Page;11269045;2021-03-17T08:18:51;skapoor;MAWA Res. Skill Entity
+TableExtension;11269040;2021-03-17T08:20:04;skapoor;MAWA Resource Skill
