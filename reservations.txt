@@ -3029,3 +3029,4 @@ TableExtension;11269040;2021-03-17T08:20:04;skapoor;MAWA Resource Skill
 Table;11151493;2021-03-17T09:36:48;kkleijer;Ball Load Order
 Table;11151494;2021-03-17T09:36:59;kkleijer;Ball Load Order
 Table;11151495;2021-03-17T09:37:08;kkleijer;Ball Load Order
+EnumType;11151050;2021-03-18T13:23:12;kkleijer;Ball Load Order
