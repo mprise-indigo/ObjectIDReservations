@@ -3047,3 +3047,4 @@ Codeunit;11268834;2021-03-24T15:27:10;apeek;Ball | Load Order Status Mgt.
 TableExtension;11268463;2021-03-26T08:08:33;skapoor;MAWPA WO MatlConsEntityBuffer
 PageExtension;11269398;2021-03-26T08:08:58;skapoor;MAWPA WO Matl. Consp. Entity
 Codeunit;11268836;2021-03-26T08:38:54;kkleijer;Ball Load Order
+Table;11151486;2021-03-29T08:09:57;kkleijer;Ball Load Batch
