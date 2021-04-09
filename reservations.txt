@@ -3086,3 +3086,4 @@ Table;11151503;2021-04-06T13:53:19;kkleijer;Ball Load Order Sort Sequence
 Page;11268729;2021-04-06T15:29:11;kkleijer;Ball Load Order Sort Sequence
 Report;11151089;2021-04-08T11:38:20;kkleijer;Ball Load Order Create from Worksheet
 Codeunit;11268840;2021-04-08T13:03:35;kkleijer;Ball Load Order Create from Worksheet
+TableExtension;11151052;2021-04-09T08:35:04;kkleijer;Ball Load Rule
