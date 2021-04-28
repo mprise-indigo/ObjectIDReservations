@@ -3116,3 +3116,4 @@ Table;11151511;2021-04-22T11:13:43;kkleijer;Ball Warehouse tracking location upd
 Page;11268733;2021-04-22T11:19:56;kkleijer;Ball Warehouse tracking location update
 Codeunit;11268844;2021-04-22T15:21:00;kkleijer;Ball Warehouse tracking location update
 Codeunit;11268849;2021-04-28T09:35:45;jboes;Ball | Item availability
+Table;11269044;2021-04-28T10:07:45;skapoor;MAWLA LoadOrderLnStruc. Buffer
