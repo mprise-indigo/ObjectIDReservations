@@ -3120,3 +3120,4 @@ Table;11269044;2021-04-28T10:07:45;skapoor;MAWLA LoadOrderLnStruc. Buffer
 Page;11269047;2021-04-29T07:17:05;skapoor;MAWLA LoadOrderLnStruc Entity
 Codeunit;11269047;2021-04-29T08:01:06;skapoor;MAWLA LoadOrderAggregator
 PageExtension;11151066;2021-04-29T09:05:33;kkleijer;Add Warehouse Tracking Code to ProdSpecList
+EnumType;11151056;2021-04-29T13:39:41;jboes;Ball | Split Job Pick Worksheet based on batch values
