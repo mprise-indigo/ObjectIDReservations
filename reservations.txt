@@ -3123,3 +3123,5 @@ PageExtension;11151066;2021-04-29T09:05:33;kkleijer;Add Warehouse Tracking Code 
 EnumType;11151056;2021-04-29T13:39:41;jboes;Ball | Split Job Pick Worksheet based on batch values
 Table;11269045;2021-04-30T12:15:52;skapoor;MAWLA LoadOrderLnStrucSpec Buffer
 Page;11269048;2021-04-30T13:02:20;skapoor;MAWLA LoadOrdLnStrucSpecEntity
+Table;11151512;2021-05-03T10:50:09;apeek;Ball | WhseTrkgID Inventory
+Page;11268734;2021-05-03T10:50:09;apeek;Ball | WhseTrkgID Inventory
