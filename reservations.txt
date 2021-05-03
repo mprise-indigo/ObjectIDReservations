@@ -3126,3 +3126,4 @@ Page;11269048;2021-04-30T13:02:20;skapoor;MAWLA LoadOrdLnStrucSpecEntity
 Table;11151512;2021-05-03T10:50:09;apeek;Ball | WhseTrkgID Inventory
 Page;11268734;2021-05-03T10:50:09;apeek;Ball | WhseTrkgID Inventory
 Codeunit;11269048;2021-05-03T14:19:57;skapoor;MAWLA LoadOrderInbndAggregator
+Codeunit;11269049;2021-05-03T15:27:39;skapoor;MAWLA LoadOrrderAggreatorUI
