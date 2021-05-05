@@ -3136,3 +3136,4 @@ Page;11268738;2021-05-05T11:33:03;apeek;Ball | Load Order Overview
 Codeunit;11268850;2021-05-05T11:33:03;apeek;Ball | Load Order Overview
 Query;11151071;2021-05-05T11:33:03;apeek;Ball | Load Order Overview
 EnumType;11269000;2021-05-05T13:38:44;tversluis;MAWA App Type
+Page;11269012;2021-05-05T13:40:46;tversluis;App Setups
