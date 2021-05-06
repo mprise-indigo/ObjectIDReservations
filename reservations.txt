@@ -3140,3 +3140,4 @@ Page;11269012;2021-05-05T13:40:46;tversluis;App Setups
 Table;11269013;2021-05-05T15:07:03;tversluis;MAWA App
 Codeunit;11269023;2021-05-05T15:54:06;tversluis;MAWA Upgrade
 Codeunit;11269024;2021-05-05T21:19:42;tversluis;MAWA Upgrade Tag Mgt.
+EnumType;11151057;2021-05-06T10:10:34;apeek;Ball | LoadCarrierIDDeliveryStatus
