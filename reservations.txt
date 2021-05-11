@@ -3144,3 +3144,5 @@ EnumType;11151057;2021-05-06T10:10:34;apeek;Ball | LoadCarrierIDDeliveryStatus
 Table;11269014;2021-05-06T14:04:09;tversluis;MAWA External App ID
 Codeunit;11269352;2021-05-11T13:30:44;tversluis;MAWA ....App SyncJobMutEntries
 Codeunit;11269353;2021-05-11T13:30:44;tversluis;MAWA ....App SyncJobMutEntries
+Codeunit;11269354;2021-05-11T15:03:13;tversluis;MAWA ....AppQueryInbSyncQEntrs
+Codeunit;11269355;2021-05-11T15:03:13;tversluis;MAWA ....AppQueryInbSyncQEntrs
