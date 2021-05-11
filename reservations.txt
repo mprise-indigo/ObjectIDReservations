@@ -3142,3 +3142,5 @@ Codeunit;11269023;2021-05-05T15:54:06;tversluis;MAWA Upgrade
 Codeunit;11269024;2021-05-05T21:19:42;tversluis;MAWA Upgrade Tag Mgt.
 EnumType;11151057;2021-05-06T10:10:34;apeek;Ball | LoadCarrierIDDeliveryStatus
 Table;11269014;2021-05-06T14:04:09;tversluis;MAWA External App ID
+Codeunit;11269352;2021-05-11T13:30:44;tversluis;MAWA ....App SyncJobMutEntries
+Codeunit;11269353;2021-05-11T13:30:44;tversluis;MAWA ....App SyncJobMutEntries
