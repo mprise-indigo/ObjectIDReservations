@@ -3148,3 +3148,5 @@ Codeunit;11269354;2021-05-11T15:03:13;tversluis;MAWA ....AppQueryInbSyncQEntrs
 Codeunit;11269355;2021-05-11T15:03:13;tversluis;MAWA ....AppQueryInbSyncQEntrs
 Codeunit;11269356;2021-05-11T15:16:24;tversluis;MAWA ....App ProcessInbndSyncQ
 Codeunit;11269357;2021-05-11T15:16:24;tversluis;MAWA ....App ProcessInbndSyncQ
+Codeunit;11269358;2021-05-11T21:50:20;tversluis;MAWA ....AppProcessOutbndSyncQ
+Codeunit;11269359;2021-05-11T21:50:20;tversluis;MAWA ....AppProcessOutbndSyncQ
