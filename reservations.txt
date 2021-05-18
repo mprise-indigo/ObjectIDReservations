@@ -3152,3 +3152,4 @@ Codeunit;11269360;2021-05-14T12:27:14;tversluis;MAWA Install
 Codeunit;11269046;2021-05-18T05:58:44;skapoor;MAWA App Company Mgt.
 Codeunit;11269047;2021-05-18T12:12:32;skapoor;MAWA App Resource Mgt.
 TableExtension;11151054;2021-05-18T13:48:26;kkleijer;Generate Warehouse Tracking IDs
+TableExtension;11151055;2021-05-18T13:56:36;kkleijer;Generate Warehouse Tracking IDs
