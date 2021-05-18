@@ -3150,3 +3150,4 @@ Codeunit;11269358;2021-05-11T21:50:20;tversluis;MAWA ....AppProcessOutbndSyncQ
 Codeunit;11269359;2021-05-11T21:50:20;tversluis;MAWA ....AppProcessOutbndSyncQ
 Codeunit;11269360;2021-05-14T12:27:14;tversluis;MAWA Install
 Codeunit;11269046;2021-05-18T05:58:44;skapoor;MAWA App Company Mgt.
+Codeunit;11269047;2021-05-18T12:12:32;skapoor;MAWA App Resource Mgt.
