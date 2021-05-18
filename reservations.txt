@@ -3117,7 +3117,6 @@ Codeunit;11268844;2021-04-22T15:21:00;kkleijer;Ball Warehouse tracking location 
 Codeunit;11268849;2021-04-28T09:35:45;jboes;Ball | Item availability
 Table;11269044;2021-04-28T10:07:45;skapoor;MAWLA LoadOrderLnStruc. Buffer
 Page;11269047;2021-04-29T07:17:05;skapoor;MAWLA LoadOrderLnStruc Entity
-Codeunit;11269047;2021-04-29T08:01:06;skapoor;MAWLA LoadOrderAggregator
 PageExtension;11151066;2021-04-29T09:05:33;kkleijer;Add Warehouse Tracking Code to ProdSpecList
 EnumType;11151056;2021-04-29T13:39:41;jboes;Ball | Split Job Pick Worksheet based on batch values
 Table;11269045;2021-04-30T12:15:52;skapoor;MAWLA LoadOrderLnStrucSpec Buffer
