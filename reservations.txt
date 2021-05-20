@@ -3152,4 +3152,3 @@ TableExtension;11151054;2021-05-18T13:48:26;kkleijer;Generate Warehouse Tracking
 TableExtension;11151055;2021-05-18T13:56:36;kkleijer;Generate Warehouse Tracking IDs
 Codeunit;11269046;2021-05-19T07:53:32;skapoor;MAWPA PackOrderInbdAggregator
 Codeunit;11269049;2021-05-19T09:40:17;skapoor;MAWA App Company Mgt.
-Codeunit;11269048;2021-05-19T09:41:00;skapoor;MAWA App Location Mgt.
