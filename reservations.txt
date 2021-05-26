@@ -3387,3 +3387,4 @@ EnumTypeExtension;11268900;2021-05-25T14:27:26;vpanjala;
 Codeunit;11268851;2021-05-25T15:05:18;apeek;Ball | Ship Load Order Lines
 Codeunit;11268852;2021-05-25T15:05:18;apeek;Ball | Ship Load Order Lines
 Codeunit;11269401;2021-05-26T15:35:19;glind;34340: New QR Code Mgt.
+Codeunit;11269404;2021-05-26T15:48:02;glind;34340: New QR Code Mgt.
