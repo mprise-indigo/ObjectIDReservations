@@ -3406,3 +3406,4 @@ Codeunit;11268855;2021-06-03T08:39:56;apeek;Ball | Load Order Line Properties
 Table;11151517;2021-06-03T16:10:44;glind;35641:UPG table
 EnumType;11151058;2021-06-03T16:19:29;kkleijer;Ball Harvest Label
 Report;11151091;2021-06-03T16:31:06;glind;35641:UPG table
+Query;11151072;2021-06-04T15:26:21;apeek;Ball | Ship LoadOrder
