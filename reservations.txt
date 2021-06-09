@@ -3410,3 +3410,4 @@ Query;11151072;2021-06-04T15:26:21;apeek;Ball | Ship LoadOrder
 Report;11151092;2021-06-07T08:54:41;kkleijer;Ball Whse Tracking ID label
 EnumType;11269401;2021-06-08T09:52:21;damara;34323:EBD-FDY17
 Codeunit;11269368;2021-06-09T09:49:07;skapoor;MAWPA App Work Order Mgt
+TableExtension;11269350;2021-06-09T12:12:38;tversluis;MAWPA App Location Sync. Setup
