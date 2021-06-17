@@ -3420,5 +3420,4 @@ TableExtension;11269351;2021-06-15T22:04:18;tversluis;MAWPA Job Pick Line
 Codeunit;11268856;2021-06-16T11:40:23;glind;Sigg M5: Property subscriber
 PageExtension;11151068;2021-06-17T09:32:13;kkleijer;Ball Box Label
 TableExtension;11151056;2021-06-17T09:40:28;kkleijer;Ball Box Label
-TableExtension;11151057;2021-06-17T09:45:48;kkleijer;Ball Box Label
 PageExtension;11151069;2021-06-17T10:00:40;kkleijer;Ball Box Label
