@@ -3430,3 +3430,5 @@ Codeunit;11269371;2021-06-22T10:24:51;skapoor;MAWA App Inbnd Work Result Mgt.
 TableExtension;11151056;2021-06-22T13:42:03;kkleijer;Ball Sales Order Block
 TableExtension;11151057;2021-06-22T20:14:07;kkleijer;Ball Sales Order Block
 TableExtension;11269354;2021-06-22T22:34:27;tversluis;MAWPA Warehouse Tracking ID
+Report;11151096;2021-06-23T16:09:13;glind;Sigg M4: Split Lot
+Codeunit;11268857;2021-06-23T16:09:13;glind;Sigg M4: Split Lot
