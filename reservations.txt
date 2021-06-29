@@ -3434,3 +3434,4 @@ TableExtension;11151058;2021-06-28T09:38:23;jboes;
 TableExtension;11269352;2021-06-29T08:12:37;skapoor;MAWA Work Order Header
 Codeunit;11269372;2021-06-29T08:15:19;skapoor;MAWLA App Load CarrierMgt.
 Codeunit;11269040;2021-06-29T08:23:33;skapoor;MAWLA App Load Carrier ID Mgt.
+TableExtension;11269041;2021-06-29T09:57:05;skapoor;MAWLA Load Carrier ID
