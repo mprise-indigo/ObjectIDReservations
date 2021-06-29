@@ -3433,3 +3433,4 @@ Report;11151096;2021-06-23T16:09:13;glind;Sigg M4: Split Lot
 Codeunit;11268857;2021-06-23T16:09:13;glind;Sigg M4: Split Lot
 TableExtension;11151058;2021-06-28T09:38:23;jboes;
 TableExtension;11269352;2021-06-29T08:12:37;skapoor;MAWA Work Order Header
+Codeunit;11269372;2021-06-29T08:15:19;skapoor;MAWLA App Load CarrierMgt.
