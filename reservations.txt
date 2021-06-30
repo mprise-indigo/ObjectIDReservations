@@ -3443,4 +3443,3 @@ Table;11151518;2021-06-30T08:28:50;apeek;Labor Standard Pref
 Codeunit;11269041;2021-06-30T12:52:30;skapoor;MAWLA App Load Order Mgt.
 TableExtension;11269042;2021-06-30T13:02:07;skapoor;MAWLA App Location Sync. Setup
 TableExtension;11269043;2021-06-30T13:04:33;skapoor;MAWLA Load Order
-Query;11151183;2021-06-30T13:09:58;ssanam;MAW_Items_And_Variants_TS36305
