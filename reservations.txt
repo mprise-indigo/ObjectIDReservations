@@ -3441,4 +3441,3 @@ Codeunit;11269364;2021-06-29T21:39:23;tversluis;MAWPA Inbnd Packing Order Mgt.
 TableExtension;11269355;2021-06-29T21:43:38;tversluis;MAWPA Packing Order
 Table;11151518;2021-06-30T08:28:50;apeek;Labor Standard Pref
 Codeunit;11269041;2021-06-30T12:52:30;skapoor;MAWLA App Load Order Mgt.
-TableExtension;11269356;2021-06-30T12:59:47;skapoor;MAWLA App Location Sync. Setup
