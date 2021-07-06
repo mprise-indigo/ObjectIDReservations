@@ -3445,3 +3445,4 @@ Query;11151183;2021-06-30T13:11:40;ssanam;Sigg_MAW_Items_And_Variants_TS36305
 Codeunit;11268858;2021-07-02T08:24:30;ssanam;Sigg_MAW_Price_List_Line_Mgt.
 Codeunit;11269043;2021-07-02T13:55:29;skapoor;MAWPLA LoadOrderFacade
 Codeunit;11269373;2021-07-05T16:14:32;tversluis;MAWPA Inbnd PackOrderTrkgLnMgt
+TableExtension;11269356;2021-07-06T11:53:30;tversluis;MAWPA Packing Order Trkg Line
