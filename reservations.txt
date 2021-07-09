@@ -3446,3 +3446,4 @@ Codeunit;11269043;2021-07-02T13:55:29;skapoor;MAWPLA LoadOrderFacade
 Codeunit;11269373;2021-07-05T16:14:32;tversluis;MAWPA Inbnd PackOrderTrkgLnMgt
 TableExtension;11269356;2021-07-06T11:53:30;tversluis;MAWPA Packing Order Trkg Line
 TableExtension;11269357;2021-07-06T11:54:20;tversluis;MAWPA Packing Order Spec.
+Codeunit;11269042;2021-07-09T08:25:30;skapoor;MAWPLA InbndLoadLnStrucSpecMgt
