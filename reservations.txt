@@ -3449,3 +3449,4 @@ Codeunit;11269042;2021-07-09T08:25:30;skapoor;MAWPLA InbndLoadLnStrucSpecMgt
 TableExtension;11269044;2021-07-09T08:30:05;skapoor;MAWPLA Load Ord.Line Structure
 Codeunit;11269044;2021-07-12T07:09:21;skapoor;MAWLA InbndLoadOrderMgt
 Page;11268740;2021-07-13T13:28:55;adkorte;TS30525 - MAW 20-days trend
+Codeunit;11151195;2021-07-13T13:35:50;adkorte;TS30525 - MAW 20-days trend mgt
