@@ -3453,3 +3453,5 @@ Codeunit;11268859;2021-07-13T13:50:18;adkorte;TS30525 - MAW 20-days trend mgt
 TableExtension;11269010;2021-07-16T08:10:40;skapoor;MAWA Inspectio Header
 Codeunit;11269380;2021-07-28T08:28:08;vpanjala;Task_TS15093_MAW_Document_Email_Printer
 EnumTypeExtension;11151042;2021-07-29T09:01:57;adkorte;MAW Replenishment System
+Table;11151519;2021-07-30T12:53:54;glind;Sigg M11: Plant Pattern ID
+Page;11268741;2021-07-30T12:53:55;glind;Sigg M11: Plant Pattern ID
