@@ -3455,3 +3455,4 @@ Codeunit;11269380;2021-07-28T08:28:08;vpanjala;Task_TS15093_MAW_Document_Email_P
 EnumTypeExtension;11151042;2021-07-29T09:01:57;adkorte;MAW Replenishment System
 Table;11151519;2021-07-30T12:53:54;glind;Sigg M11: Plant Pattern ID
 Page;11268741;2021-07-30T12:53:55;glind;Sigg M11: Plant Pattern ID
+Codeunit;11268461;2021-08-03T10:47:05;ssanam;IA_Pr_F_Scenario_Inherit_Props
