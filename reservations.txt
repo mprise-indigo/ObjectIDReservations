@@ -3456,3 +3456,7 @@ EnumTypeExtension;11151042;2021-07-29T09:01:57;adkorte;MAW Replenishment System
 Table;11151519;2021-07-30T12:53:54;glind;Sigg M11: Plant Pattern ID
 Page;11268741;2021-07-30T12:53:55;glind;Sigg M11: Plant Pattern ID
 Codeunit;11268901;2021-08-03T10:55:35;ssanam;IA_Pr_F_Scenario_Inherit_Props
+Codeunit;11268860;2021-08-16T10:33:03;glind;Sigg M11: ISAL data exchange
+Codeunit;11268861;2021-08-16T10:33:03;glind;Sigg M11: ISAL data exchange
+Codeunit;11268862;2021-08-16T10:33:03;glind;Sigg M11: ISAL data exchange
+XmlPort;11151039;2021-08-16T10:33:03;glind;Sigg M11: ISAL data exchange
