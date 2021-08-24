@@ -3464,3 +3464,4 @@ EnumType;11151062;2021-08-20T16:28:30;glind;Sigg M11: ISAL data exchange
 EnumType;11151063;2021-08-20T16:28:30;glind;Sigg M11: ISAL data exchange
 Codeunit;11269374;2021-08-24T15:47:05;tversluis;MAWA Inbound Work Request Mgt.
 Table;11269350;2021-08-24T15:48:42;tversluis;MAWA Work Request Header
+Table;11269351;2021-08-24T22:23:40;tversluis;MAWA Work Request Line
