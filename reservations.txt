@@ -3468,3 +3468,4 @@ Table;11269351;2021-08-24T22:23:40;tversluis;MAWA Work Request Line
 Codeunit;11268863;2021-08-26T08:59:08;glind;Sigg M11: ISAL data exchange
 Codeunit;11269375;2021-08-26T22:35:10;tversluis;MAWA Outbound Work Request Mgt.
 Page;11269350;2021-08-27T10:04:54;tversluis;MAWA Work Request Card
+Page;11269351;2021-08-27T10:05:06;tversluis;MAWA Work Request Lines Subpage
