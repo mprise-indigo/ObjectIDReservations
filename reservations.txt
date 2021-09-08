@@ -3475,3 +3475,4 @@ TableExtension;11197749;2021-09-08T13:44:59;skapoor;MAWLS Work Order Header
 Codeunit;11197749;2021-09-08T14:12:46;skapoor;MAWLS Work Order Facade
 PageExtension;11197750;2021-09-08T14:52:02;skapoor;MAWLS Work Order List
 Codeunit;11197750;2021-09-08T15:05:56;skapoor;MAWLS Work Order UI
+TableExtension;11197750;2021-09-08T15:06:53;skapoor;MAWLS Sales Header
