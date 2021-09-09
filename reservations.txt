@@ -3481,3 +3481,4 @@ Codeunit;11197952;2021-09-08T15:30:33;skapoor;MAWLS Sales Header UI
 PageExtension;11197950;2021-09-09T06:37:26;skapoor;MAWLS Sales Order
 PageExtension;11197951;2021-09-09T06:56:30;skapoor;MAWLS Sales Order List
 PageExtension;11197952;2021-09-09T07:11:46;skapoor;MAWLS Sales Order Overview
+PageExtension;11197953;2021-09-09T07:16:25;skapoor;MAWLS Genus Card
