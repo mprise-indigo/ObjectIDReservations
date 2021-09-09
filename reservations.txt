@@ -3489,3 +3489,4 @@ PageExtension;11197956;2021-09-09T08:14:59;skapoor;MAWLS Job List
 Codeunit;11197953;2021-09-09T08:21:10;skapoor;MAWLS JobAct.SchemeLineFacade
 Codeunit;11197975;2021-09-09T08:22:53;skapoor;MAWLS Agr.Lic.Cod.Listener
 TableExtension;11197932;2021-09-09T08:30:37;skapoor;MAWLS Job
+TableExtension;11197933;2021-09-09T08:33:38;skapoor;MAWLS Postion
