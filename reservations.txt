@@ -3471,7 +3471,6 @@ Page;11269350;2021-08-27T10:04:54;tversluis;MAWA Work Request Card
 Page;11269351;2021-08-27T10:05:06;tversluis;MAWA Work Request Lines Subpage
 PageExtension;11269350;2021-08-31T12:15:39;skapoor;MAWA Activities
 PageExtension;11197749;2021-09-08T13:33:53;skapoor;MAWLS Work Order
-Codeunit;11197749;2021-09-08T14:12:46;skapoor;MAWLS Work Order Facade
 PageExtension;11197750;2021-09-08T14:52:02;skapoor;MAWLS Work Order List
 Codeunit;11197750;2021-09-08T15:05:56;skapoor;MAWLS Work Order UI
 TableExtension;11197930;2021-09-08T15:11:24;skapoor;MAWLS Work Order Header
