@@ -3491,3 +3491,4 @@ Codeunit;11197975;2021-09-09T08:22:53;skapoor;MAWLS Agr.Lic.Cod.Listener
 TableExtension;11197932;2021-09-09T08:30:37;skapoor;MAWLS Job
 TableExtension;11197933;2021-09-09T08:33:38;skapoor;MAWLS Postion
 PageExtension;11197957;2021-09-09T08:53:47;skapoor;MAWLS Application Ctrl Activ.
+PageExtension;11197958;2021-09-09T08:56:44;skapoor;MAWLS Job Card
