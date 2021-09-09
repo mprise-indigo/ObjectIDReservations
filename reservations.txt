@@ -3485,3 +3485,4 @@ PageExtension;11197953;2021-09-09T07:16:25;skapoor;MAWLS Genus Card
 PageExtension;11197954;2021-09-09T07:18:39;skapoor;MAWLS Item Card
 PageExtension;11197955;2021-09-09T07:18:58;skapoor;MAWLS Item List
 Codeunit;11197951;2021-09-09T07:26:48;skapoor;MAWLS Item Facade
+PageExtension;11197956;2021-09-09T08:14:59;skapoor;MAWLS Job List
