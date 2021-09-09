@@ -3493,3 +3493,4 @@ TableExtension;11197933;2021-09-09T08:33:38;skapoor;MAWLS Postion
 PageExtension;11197957;2021-09-09T08:53:47;skapoor;MAWLS Application Ctrl Activ.
 PageExtension;11197958;2021-09-09T08:56:44;skapoor;MAWLS Job Card
 TableExtension;11197934;2021-09-09T10:53:59;skapoor;MAWLS Application Control Cue
+TableExtension;11197935;2021-09-09T10:56:34;skapoor;MAWLS Activity
