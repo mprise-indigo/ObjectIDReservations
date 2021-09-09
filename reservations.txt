@@ -3494,3 +3494,4 @@ TableExtension;11197934;2021-09-09T10:53:59;skapoor;MAWLS Application Control Cu
 TableExtension;11197935;2021-09-09T10:56:34;skapoor;MAWLS Activity
 PageExtension;11197959;2021-09-09T10:57:53;skapoor;MAWLS Activities
 Codeunit;11197976;2021-09-09T17:04:31;skapoor;MAWI Work Order Facade
+Codeunit;11197977;2021-09-09T17:08:43;skapoor;MAWI Work Order UI
