@@ -3470,7 +3470,6 @@ Codeunit;11269375;2021-08-26T22:35:10;tversluis;MAWA Outbound Work Request Mgt.
 Page;11269350;2021-08-27T10:04:54;tversluis;MAWA Work Request Card
 Page;11269351;2021-08-27T10:05:06;tversluis;MAWA Work Request Lines Subpage
 PageExtension;11269350;2021-08-31T12:15:39;skapoor;MAWA Activities
-PageExtension;11197749;2021-09-08T13:33:53;skapoor;MAWLS Work Order
 PageExtension;11197750;2021-09-08T14:52:02;skapoor;MAWLS Work Order List
 TableExtension;11197930;2021-09-08T15:11:24;skapoor;MAWLS Work Order Header
 TableExtension;11197931;2021-09-08T15:12:45;skapoor;MAWLS Sales Header
