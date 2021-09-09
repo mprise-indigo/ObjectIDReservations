@@ -3497,3 +3497,4 @@ PageExtension;11197960;2021-09-09T17:14:25;skapoor;MAWI Work Order Card
 PageExtension;11197961;2021-09-09T17:17:30;skapoor;MAWI Work Order List
 TableExtension;11197936;2021-09-09T20:01:26;skapoor;MAWI Job Mutation Entry
 PageExtension;11197962;2021-09-09T20:12:59;skapoor;MAWI Job Mutation Entries
+PageExtension;11197963;2021-09-09T20:29:47;skapoor;MAWI Report Job Supply Ready
