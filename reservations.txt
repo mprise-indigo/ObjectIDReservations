@@ -3451,3 +3451,5 @@ Page;11268742;2021-09-16T12:07:47;tversluis;Scrap Reason Category
 Table;11269409;2021-09-20T10:24:18;damara;Task_23515_FDY
 Page;11269440;2021-09-20T10:29:42;damara;Task_23515_FDY
 Codeunit;11268864;2021-09-23T12:53:55;glind;Sigg M11: Process order response
+Codeunit;11268865;2021-09-23T12:57:01;tversluis;MAW Sales Header/Line Subscribers
+Codeunit;11268866;2021-09-23T12:57:01;tversluis;MAW Sales Header/Line Subscribers
