@@ -3454,3 +3454,4 @@ Codeunit;11268864;2021-09-23T12:53:55;glind;Sigg M11: Process order response
 Codeunit;11268865;2021-09-23T12:57:01;tversluis;MAW Sales Header/Line Subscribers
 Codeunit;11268866;2021-09-23T12:57:01;tversluis;MAW Sales Header/Line Subscribers
 Codeunit;11268910;2021-09-29T12:14:19;skapoor;MAWP Delete Transaction Data
+Codeunit;11268911;2021-09-30T08:23:48;skapoor;MAWL Delete Transaction Data
