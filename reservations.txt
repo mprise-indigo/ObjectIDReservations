@@ -3456,3 +3456,5 @@ Codeunit;11268866;2021-09-23T12:57:01;tversluis;MAW Sales Header/Line Subscriber
 Codeunit;11268910;2021-09-29T12:14:19;skapoor;MAWP Delete Transaction Data
 Codeunit;11268911;2021-09-30T08:23:48;skapoor;MAWL Delete Transaction Data
 Codeunit;11268867;2021-10-06T10:09:31;damara;Lot Filter Set
+Table;11151521;2021-10-06T10:36:21;damara;Lot Filter Set
+Page;11268743;2021-10-06T10:36:21;damara;Lot Filter Set
