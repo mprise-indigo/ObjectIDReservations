@@ -3468,3 +3468,4 @@ Codeunit;11269039;2021-10-19T00:27:49;tversluis;MAWA Outbnd Sync.Q.via Job Q.
 Codeunit;11269045;2021-10-19T01:38:20;tversluis;MAWA Process Out.Sync Q.Entry
 Codeunit;11268904;2021-10-19T10:25:10;tversluis;MAWA Process Out.Sync Q.Entry
 Codeunit;11269376;2021-10-19T16:04:11;glind;Ball: Reschedule job queue
+Page;11268744;2021-10-21T14:42:13;adkorte;TS26258 MAW Lots Activities
