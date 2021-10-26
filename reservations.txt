@@ -3470,3 +3470,4 @@ Codeunit;11268904;2021-10-19T10:25:10;tversluis;MAWA Process Out.Sync Q.Entry
 Codeunit;11269376;2021-10-19T16:04:11;glind;Ball: Reschedule job queue
 Page;11268744;2021-10-21T14:42:13;adkorte;TS26258 MAW Lots Activities
 Report;11151097;2021-10-22T07:32:30;damara;Item_Avail_15341
+Table;11268657;2021-10-26T17:05:59;glind;Item Availability Parameter
