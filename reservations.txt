@@ -3473,3 +3473,4 @@ Report;11151097;2021-10-22T07:32:30;damara;Item_Avail_15341
 Table;11268657;2021-10-26T17:05:59;glind;Item Availability Parameter
 Page;11268745;2021-10-26T17:11:58;glind;Item Availability Parameter
 Query;11151073;2021-10-28T11:06:15;apeek;Ball | WhseTrkgIDLotQuantity
+PageExtension;11151070;2021-11-01T13:50:24;adkorte;MAW Location List
