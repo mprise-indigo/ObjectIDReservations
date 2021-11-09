@@ -3477,3 +3477,32 @@ PageExtension;11151070;2021-11-01T13:50:24;adkorte;MAW Location List
 Page;11268746;2021-11-02T13:22:55;glind;44868 Refactor Item Availability Parameter
 Table;11268658;2021-11-02T13:26:13;glind;44868 Refactor Item Availability Parameter
 Table;11151522;2021-11-09T09:50:54;tversluis;BC14: MAW UPG Item
+Table;11268506;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268507;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268508;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268509;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268510;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268511;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268512;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268513;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268514;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268515;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268516;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268517;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268518;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268519;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268520;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268521;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268522;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268523;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268524;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268525;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268526;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268527;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268528;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268529;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268530;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268531;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268532;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268533;2021-11-09T14:49:20;tversluis;BC14: UPG tables
+Table;11268534;2021-11-09T14:49:20;tversluis;BC14: UPG tables
