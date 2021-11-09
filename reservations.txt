@@ -3476,3 +3476,4 @@ Query;11151073;2021-10-28T11:06:15;apeek;Ball | WhseTrkgIDLotQuantity
 PageExtension;11151070;2021-11-01T13:50:24;adkorte;MAW Location List
 Page;11268746;2021-11-02T13:22:55;glind;44868 Refactor Item Availability Parameter
 Table;11268658;2021-11-02T13:26:13;glind;44868 Refactor Item Availability Parameter
+Table;11151522;2021-11-09T09:50:54;tversluis;BC14: MAW UPG Item
