@@ -3907,3 +3907,4 @@ EnumType;11269347;2021-11-11T11:20:08;skapoor;for Advance Prepayment
 EnumType;11269348;2021-11-11T11:20:08;skapoor;for Advance Prepayment
 EnumType;11269349;2021-11-11T11:20:08;skapoor;for Advance Prepayment
 EnumType;11151060;2021-11-11T11:27:50;glind;44940 Logistic Translation Type
+EnumType;11151064;2021-11-11T11:28:15;glind;44940 Logistic Translation Type
