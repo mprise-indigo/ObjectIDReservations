@@ -3911,3 +3911,4 @@ PageExtension;11151072;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order
 PageExtension;11151073;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
 PageExtension;11151074;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
 PageExtension;11151075;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
+Codeunit;60498;2021-11-12T10:42:12;ssanam;DefaultFeatureValue_TS45117
