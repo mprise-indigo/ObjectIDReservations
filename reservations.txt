@@ -3916,3 +3916,5 @@ Codeunit;60499;2021-11-12T10:43:15;ssanam;ItemVariant_TA_TS38383
 Table;11269352;2021-11-17T15:25:23;jboes;App message setup
 Page;11269352;2021-11-17T15:25:23;jboes;App message setup
 EnumType;11269350;2021-11-17T15:25:23;jboes;App message setup
+TableExtension;11151060;2021-11-17T16:05:49;jboes;App message setup
+EnumTypeExtension;11151043;2021-11-17T16:05:49;jboes;App message setup
