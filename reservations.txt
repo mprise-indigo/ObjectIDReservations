@@ -3918,3 +3918,4 @@ EnumType;11269350;2021-11-17T15:25:23;jboes;App message setup
 EnumTypeExtension;11151043;2021-11-17T16:05:49;jboes;App message setup
 PageExtension;11269351;2021-11-17T17:30:57;jboes;App message setup
 EnumTypeExtension;11269350;2021-11-17T17:30:57;jboes;App message setup
+Codeunit;60497;2021-11-22T08:00:07;adkorte;Time Registration Tests - TS44180
