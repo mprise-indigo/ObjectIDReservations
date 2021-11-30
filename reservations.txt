@@ -3920,3 +3920,4 @@ PageExtension;11269351;2021-11-17T17:30:57;jboes;App message setup
 EnumTypeExtension;11269350;2021-11-17T17:30:57;jboes;App message setup
 Codeunit;60497;2021-11-22T08:00:07;adkorte;Time Registration Tests - TS44180
 Codeunit;60496;2021-11-25T07:21:50;damara;TA_SO_Posting
+Codeunit;60495;2021-11-30T12:20:17;ssanam;TA_ItemAvailability_TS43859
