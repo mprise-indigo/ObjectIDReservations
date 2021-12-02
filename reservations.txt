@@ -3925,3 +3925,4 @@ TableExtension;11269002;2021-12-02T22:15:07;tversluis;MAWA Comment Line
 TableExtension;11269003;2021-12-02T22:15:17;tversluis;MAWA To-do
 Codeunit;11269046;2021-12-02T22:27:52;tversluis;MAWA Inspection Template Mgt.
 TableExtension;11269004;2021-12-02T22:38:50;tversluis;MAWA Default Feature Value
+TableExtension;11269005;2021-12-02T22:41:26;tversluis;MAWA Property Value
