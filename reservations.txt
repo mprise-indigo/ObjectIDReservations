@@ -3923,3 +3923,4 @@ Codeunit;60496;2021-11-25T07:21:50;damara;TA_SO_Posting
 Codeunit;60495;2021-11-30T12:20:17;ssanam;TA_ItemAvailability_TS43859
 Codeunit;11268902;2021-12-01T09:09:23;glind;45207: Replace dotnet
 TableExtension;11269002;2021-12-02T22:15:07;tversluis;MAWA Comment Line
+TableExtension;11269003;2021-12-02T22:15:17;tversluis;MAWA To-do
