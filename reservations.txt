@@ -3932,3 +3932,4 @@ Codeunit;60493;2021-12-09T13:14:50;ssanam;TA_LibraryProductionPreference_TS44816
 Codeunit;11268908;2021-12-13T14:29:26;adkorte;45124 Time for Time Mgt.
 Codeunit;11268909;2021-12-14T13:25:33;adkorte;45124 Time for Time UI
 Query;11151074;2021-12-15T14:08:31;jboes;Ball: PickPack API: send job pick line
+Report;11151118;2021-12-17T15:40:20;adkorte;TS46800 IA Time Reg. TFT data export
