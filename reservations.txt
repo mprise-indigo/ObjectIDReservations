@@ -3934,3 +3934,4 @@ Codeunit;11268909;2021-12-14T13:25:33;adkorte;45124 Time for Time UI
 Query;11151074;2021-12-15T14:08:31;jboes;Ball: PickPack API: send job pick line
 Report;11151118;2021-12-17T15:40:20;adkorte;TS46800 IA Time Reg. TFT data export
 Query;11151075;2021-12-20T14:04:46;jboes;Ball: Packing Order API
+EnumType;11151043;2021-12-21T10:01:35;glind;46299 Property Data Type
