@@ -3935,3 +3935,12 @@ Query;11151074;2021-12-15T14:08:31;jboes;Ball: PickPack API: send job pick line
 Report;11151118;2021-12-17T15:40:20;adkorte;TS46800 IA Time Reg. TFT data export
 Query;11151075;2021-12-20T14:04:46;jboes;Ball: Packing Order API
 Report;11151119;2021-12-20T14:10:11;adkorte;TS46799 IA Time for Time Hours Overview
+EnumType;11151043;2021-12-21T10:01:35;glind;46299 Property Data Type
+Codeunit;60492;2021-12-28T04:45:25;ssanam;TA_AdjustLotInventory_TS45823
+Codeunit;60000;2021-12-29T12:48:59;glind;46025 Update Starting Date Job
+EnumType;11151064;2022-01-03T09:42:24;damara;43540
+Codeunit;60491;2022-01-03T12:16:53;ssanam;TA_MAWUpdateUnitPriceChargeItem_TS44353
+Codeunit;60490;2022-01-04T06:42:38;damara;TA_WOConsumptionLine
+Codeunit;60489;2022-01-05T12:03:45;ssanam;TA_MAWSeedsDeliveryAndInvoicing_TS45613
+Codeunit;60001;2022-01-07T07:14:38;glind;47554 TA Update Complaint
+Codeunit;60002;2022-01-07T07:15:47;glind;47554 TA Update Complaint
