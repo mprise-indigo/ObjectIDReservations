@@ -3903,7 +3903,6 @@ EnumType;11269349;2021-11-11T11:20:08;skapoor;for Advance Prepayment
 EnumType;11151060;2021-11-11T11:27:50;glind;44940 Logistic Translation Type
 Report;11151098;2021-11-11T16:17:14;apeek;Ball: Check Posting reports
 Report;11151099;2021-11-11T16:17:14;apeek;Ball: Check Posting reports
-PageExtension;11151071;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
 PageExtension;11151072;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
 PageExtension;11151073;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
 PageExtension;11151074;2021-11-12T10:26:34;apeek;Ball: Check Shipping Load Order Report
