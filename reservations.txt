@@ -3956,3 +3956,4 @@ TableExtension;11151060;2022-01-28T18:19:44;jboes;Pick Pack API Whse Tracking in
 PageExtension;11151077;2022-01-28T18:20:00;jboes;Pick Pack API Whse Tracking inbound queue
 Codeunit;60485;2022-01-31T07:42:29;ssanam;TA45290_TestAutomation
 Codeunit;11197790;2022-02-01T12:29:53;glind;
+Codeunit;11197791;2022-02-01T12:30:10;glind;Upgrade objects
