@@ -3957,3 +3957,4 @@ PageExtension;11151077;2022-01-28T18:20:00;jboes;Pick Pack API Whse Tracking inb
 Codeunit;60485;2022-01-31T07:42:29;ssanam;TA45290_TestAutomation
 Codeunit;11197790;2022-02-01T12:29:53;glind;
 Codeunit;11197791;2022-02-01T12:30:10;glind;Upgrade objects
+Codeunit;11268914;2022-02-01T13:35:19;glind;Json management
