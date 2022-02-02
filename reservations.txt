@@ -3958,3 +3958,4 @@ Codeunit;60485;2022-01-31T07:42:29;ssanam;TA45290_TestAutomation
 Codeunit;11197790;2022-02-01T12:29:53;glind;
 Codeunit;11197791;2022-02-01T12:30:10;glind;Upgrade objects
 Codeunit;11268914;2022-02-01T13:35:19;glind;Json management
+Codeunit;11268915;2022-02-02T06:30:56;ssanam;task_46861
