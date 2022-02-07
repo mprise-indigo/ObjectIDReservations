@@ -3960,3 +3960,4 @@ Codeunit;11197791;2022-02-01T12:30:10;glind;Upgrade objects
 Codeunit;11268914;2022-02-01T13:35:19;glind;Json management
 Codeunit;11268915;2022-02-02T06:30:56;ssanam;task_46861
 Codeunit;60484;2022-02-02T06:54:10;ssanam;test_automation_45410
+Table;11151523;2022-02-07T10:14:55;adkorte;TS49514 MAW Blnkt. POrd. Sched. Period 2
