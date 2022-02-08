@@ -3962,3 +3962,4 @@ Codeunit;11268915;2022-02-02T06:30:56;ssanam;task_46861
 Codeunit;60484;2022-02-02T06:54:10;ssanam;test_automation_45410
 Table;11151523;2022-02-07T10:14:55;adkorte;TS49514 MAW Blnkt. POrd. Sched. Period 2
 Codeunit;60020;2022-02-08T06:05:21;skapoor;MAWF SO With Advanced Prepmt
+Codeunit;60004;2022-02-08T14:49:19;adkorte;TA Production Forecast Blanket Purchase Order link
