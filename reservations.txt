@@ -3967,3 +3967,6 @@ Codeunit;60007;2022-02-08T14:57:21;adkorte;TA Production Forecast Blanket Purcha
 Page;11269353;2022-02-10T10:56:27;ssanam;ForJobPick
 Table;11269353;2022-02-10T10:57:39;ssanam;ForJobPick
 Codeunit;11269377;2022-02-11T12:56:17;skapoor;MAWPA App LocSynchSetup Mgt
+Table;11151524;2022-02-14T09:27:18;glind;44939 Shortcut Inspection Line
+Page;11268747;2022-02-14T09:27:19;glind;44939 Shortcut Inspection Line
+EnumType;11151065;2022-02-14T09:27:19;glind;44939 Shortcut Inspection Line
