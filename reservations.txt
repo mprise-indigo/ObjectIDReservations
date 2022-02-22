@@ -3981,3 +3981,4 @@ EnumType;11151081;2022-02-17T09:52:02;glind;MAWP Whse Tracking ID Status
 EnumType;11151068;2022-02-21T13:05:21;apeek;48445 | Copy Item/Variant determined from Activity Scheme Line
 Codeunit;11268916;2022-02-21T13:10:59;glind;49157: Yield Inspection Update
 Codeunit;60483;2022-02-22T07:12:42;ssanam;49923_TestAutomation
+Codeunit;60482;2022-02-22T07:16:01;ssanam;47298_TestAutomation
