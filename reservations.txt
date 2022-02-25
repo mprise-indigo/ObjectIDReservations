@@ -3986,3 +3986,4 @@ Table;11151525;2022-02-22T10:12:34;adkorte;TS48240 MAW Job Production Scheme Lin
 Codeunit;60021;2022-02-24T07:14:11;skapoor;MAWF Payment Term On AdvPrepmt
 Codeunit;60022;2022-02-24T08:36:04;skapoor;Agriware Setup Library
 TableExtension;11151061;2022-02-25T07:48:01;ssanam;Job_Pick
+PageExtension;11151078;2022-02-25T07:48:29;ssanam;Job_Pick
