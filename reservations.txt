@@ -3989,3 +3989,4 @@ TableExtension;11151061;2022-02-25T07:48:01;ssanam;Job_Pick
 PageExtension;11151078;2022-02-25T07:48:29;ssanam;Job_Pick
 Codeunit;11268917;2022-02-25T07:50:38;ssanam;Job_Pick
 PageExtension;11151079;2022-02-25T08:31:41;ssanam;Job_Pick
+Codeunit;11268919;2022-02-25T10:44:21;ssanam;Job_Pick
