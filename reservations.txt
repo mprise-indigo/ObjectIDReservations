@@ -3991,3 +3991,4 @@ Codeunit;11268917;2022-02-25T07:50:38;ssanam;Job_Pick
 PageExtension;11151079;2022-02-25T08:31:41;ssanam;Job_Pick
 Codeunit;11268919;2022-02-25T10:44:21;ssanam;Job_Pick
 Query;11151076;2022-02-25T10:45:18;ssanam;Job_Pick
+Report;11269013;2022-02-28T05:43:10;ssanam;Job_Pick
