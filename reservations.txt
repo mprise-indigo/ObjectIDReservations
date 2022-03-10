@@ -4010,3 +4010,4 @@ Codeunit;60481;2022-03-09T07:00:19;ssanam;TA_SalesOrderPkgPlan
 Codeunit;11268920;2022-03-09T12:17:07;apeek;JobPickBC19|JobPickPerJob
 TableExtension;11151454;2022-03-09T12:34:27;ssanam;JobPick_Activity
 PageExtension;11151081;2022-03-09T12:42:47;ssanam;JobPick_Activities
+EnumType;11151070;2022-03-10T11:23:32;ssanam;JobPick_SourceDoc
