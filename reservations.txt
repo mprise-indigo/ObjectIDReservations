@@ -4024,3 +4024,4 @@ Codeunit;11268923;2022-03-11T15:30:32;glind;28271: Extend Linkages
 Codeunit;11268924;2022-03-11T15:30:32;glind;28271: Extend Linkages
 EnumTypeExtension;11151045;2022-03-14T07:45:18;ssanam;JobPick
 TableExtension;11151340;2022-03-15T10:23:02;skapoor;MAWA Ext. Com. Server Setup
+PageExtension;11151340;2022-03-16T07:44:15;skapoor;MAWA Ext. Com. Server Setup
