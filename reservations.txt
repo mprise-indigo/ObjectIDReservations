@@ -2,7 +2,6 @@
 Page;11151477;2019-02-01T07:17:28;wkleemans;PBI 9928
 Codeunit;11268642;2019-02-06T13:57:31;adkorte;PBI12321 BI extra dimension
 Report;11151044;2019-02-18T11:22:58;adkorte;PBI11007
-Codeunit;11197802;2019-03-04T16:23:19;glind;PBI 9318
 Table;11151295;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
 Table;11151296;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
 Table;11197875;2019-03-07T12:32:42;adkorte;PBI11459
@@ -4211,3 +4210,4 @@ TableExtension;11197775;2022-04-01T16:17:10;tversluis;"MAWE Picture" extends "MA
 PageExtension;11197776;2022-04-01T16:17:14;tversluis;"MAWE Picture Card" extends "MAW Picture Card"
 PageExtension;11197777;2022-04-01T16:17:16;tversluis;"MAWE Picture List" extends "MAW Picture List"
 PageExtension;11197783;2022-04-01T16:17:18;tversluis;"MAWE Posted Sales Inv. Subform" extends "Posted Sales Invoice Subform"
+Codeunit;11197802;2022-04-01T16:17:21;tversluis;"MAWE Print Label"
