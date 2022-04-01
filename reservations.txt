@@ -4195,3 +4195,4 @@ TableExtension;11197771;2022-04-01T16:16:12;tversluis;"MAWE Item Preference" ext
 TableExtension;11197790;2022-04-01T16:16:14;tversluis;"MAWE Item Variant" extends "Item Variant"
 PageExtension;11197791;2022-04-01T16:16:16;tversluis;"MAWE Item Variants" extends "Item Variants"
 Table;11197857;2022-04-01T16:16:19;tversluis;"MAWE Label"
+XmlPort;11197873;2022-04-01T16:16:21;tversluis;"MAWE LabelByID LabelReq"
