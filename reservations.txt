@@ -4227,3 +4227,4 @@ PageExtension;11197787;2022-04-01T16:18:49;tversluis;"MAWE Sales Quote" extends 
 PageExtension;11197794;2022-04-01T16:18:51;tversluis;"MAWE Sales Quote Subform" extends "Sales Quote Subform"
 TableExtension;11197761;2022-04-01T16:18:54;tversluis;"MAWE Sales Shipment Line" extends "Sales Shipment Line"
 Page;11197866;2022-04-01T16:18:56;tversluis;"MAWE Settl. Check SubP Sales"
+Page;11197867;2022-04-01T16:18:58;tversluis;"MAWE Settl. Check SubP Stat."
