@@ -19,7 +19,6 @@ Page;11268609;2019-03-11T09:05:28;wkleemans;PBI 11525
 Page;11197871;2019-03-14T09:51:05;jhoek;TS11573
 PageExtension;11197760;2019-03-18T09:09:03;jhoek;
 PageExtension;11197761;2019-03-18T09:09:03;jhoek;
-PageExtension;11197762;2019-03-18T09:09:03;jhoek;
 PageExtension;11197763;2019-03-18T09:09:03;jhoek;
 PageExtension;11197764;2019-03-18T09:09:03;jhoek;
 PageExtension;11197765;2019-03-18T09:09:03;jhoek;
@@ -4068,3 +4067,4 @@ TableExtension;11197786;2022-04-01T16:07:43;tversluis;"MAWE Customer" extends Cu
 PageExtension;11197784;2022-04-01T16:07:45;tversluis;"MAWE Customer Card" extends "Customer Card"
 PageExtension;11197785;2022-04-01T16:07:47;tversluis;"MAWE Customer List" extends "Customer List"
 Codeunit;11197838;2022-04-01T16:07:50;tversluis;"MAWE Custom Integration Mgt."
+PageExtension;11197762;2022-04-01T16:07:53;tversluis;"MAWE Database Initialization" extends "MAW Database Initialization"
