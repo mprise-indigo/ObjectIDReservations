@@ -8,7 +8,6 @@ Codeunit;11197814;2019-02-22T15:26:48;jhoek;IA EBF VMP Put Order
 Codeunit;11197813;2019-02-25T13:27:32;jhoek;
 Codeunit;11197812;2019-02-25T20:35:16;jhoek;
 Codeunit;11197811;2019-02-26T11:03:38;jhoek;IA EBF Quote Header Facade
-Codeunit;11197810;2019-02-28T15:39:18;jhoek;IA EBF Cust-Check Cr. Limit
 Codeunit;11197809;2019-03-01T09:10:10;jhoek;IA EBF Page Management
 Codeunit;11197802;2019-03-04T16:23:19;glind;PBI 9318
 Table;11151295;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
@@ -4112,3 +4111,4 @@ Page;11197823;2022-04-01T16:09:40;tversluis;"MAWE EAN Codes"
 Codeunit;11197815;2022-04-01T16:09:42;tversluis;"MAWE EBF Charge Mgt."
 Codeunit;11197868;2022-04-01T16:09:44;tversluis;"MAWE EBF Company-Initialize"
 Codeunit;11197796;2022-04-01T16:09:46;tversluis;"MAWE EBF Copy Document Mgt."
+Codeunit;11197810;2022-04-01T16:09:49;tversluis;"MAWE EBF Cust-Check Cr. Limit"
