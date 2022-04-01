@@ -7,7 +7,6 @@ Table;11151296;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
 Table;11197875;2019-03-07T12:32:42;adkorte;PBI11459
 Page;11268609;2019-03-11T09:05:28;wkleemans;PBI 11525
 PageExtension;11197760;2019-03-18T09:09:03;jhoek;
-PageExtension;11197771;2019-03-18T09:09:03;jhoek;
 PageExtension;11197775;2019-03-18T09:09:03;jhoek;
 PageExtension;11197778;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
@@ -4224,3 +4223,4 @@ PageExtension;11197788;2022-04-01T16:18:30;tversluis;"MAWE Sales Order" extends 
 PageExtension;11197793;2022-04-01T16:18:32;tversluis;"MAWE Sales Order List" extends "Sales Order List"
 Report;11197840;2022-04-01T16:18:34;tversluis;"MAWE Sales Order Loading List"
 PageExtension;11197773;2022-04-01T16:18:37;tversluis;"MAWE Sales Order Overview" extends "MAW Sales Order Overview"
+PageExtension;11197771;2022-04-01T16:18:39;tversluis;"MAWE Sales Order Pack. Plan" extends "MAW Sales Order Pack. Plan"
