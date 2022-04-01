@@ -2620,7 +2620,6 @@ Table;11151402;2020-10-06T08:11:07;jboes;Ball Filter Sources in Item Avail.
 Page;11151121;2020-10-06T08:12:11;jboes;Ball Filter Sources in Item Avail.
 Table;11269410;2020-10-07T17:52:14;vpanjala;Add_Picture_From_Floriday_To_TradeItem
 Page;11269411;2020-10-07T17:53:02;vpanjala;Add_Picture_from_Floriday_To_TradeItem
-Page;11269410;2020-10-09T09:10:56;damara;Floriday_TASK_19759
 Codeunit;11269420;2020-10-09T11:55:14;vpanjala;Floriday_Trade_Item_Property_Subscribers
 Codeunit;11151334;2020-10-14T15:05:03;glind;Additional Sales Lines
 Codeunit;11151410;2020-10-14T15:09:38;glind;Additional Sales Lines
@@ -4178,3 +4177,4 @@ Codeunit;11269418;2022-04-01T16:14:09;tversluis;"MAWE Floriday Sales Order Mgt."
 Page;11269415;2022-04-01T16:14:11;tversluis;"MAWE Floriday Setup"
 Table;11269415;2022-04-01T16:14:14;tversluis;"MAWE Floriday Setup"
 Page;11269438;2022-04-01T16:14:16;tversluis;"MAWE Floriday Setup Picture"
+Page;11269410;2022-04-01T16:14:19;tversluis;"MAWE Floriday SO Line Details"
