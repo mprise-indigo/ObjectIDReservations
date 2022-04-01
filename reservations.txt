@@ -4219,3 +4219,4 @@ PageExtension;11197774;2022-04-01T16:18:05;tversluis;"MAWE Rep. Comment Preferen
 TableExtension;11197768;2022-04-01T16:18:08;tversluis;"MAWE Report Comment Preference" extends "MAW Report Comment Preference"
 TableExtension;11197784;2022-04-01T16:18:10;tversluis;"MAWE Sales Cr.Memo Line" extends "Sales Cr.Memo Line"
 TableExtension;11197788;2022-04-01T16:18:13;tversluis;"MAWE Sales Header" extends "Sales Header"
+Codeunit;11197839;2022-04-01T16:18:15;tversluis;"MAWE Sales Header Mgt."
