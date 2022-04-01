@@ -16,7 +16,6 @@ PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
 TableExtension;11197760;2019-03-18T09:09:34;jhoek;
 TableExtension;11197761;2019-03-18T09:09:34;jhoek;
-TableExtension;11197768;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
 TableExtension;11197782;2019-03-18T09:09:34;jhoek;
 TableExtension;11197783;2019-03-18T09:09:34;jhoek;
@@ -4218,3 +4217,4 @@ PageExtension;11197779;2022-04-01T16:17:58;tversluis;"MAWE Quote Sales Order Set
 Report;11197833;2022-04-01T16:18:00;tversluis;"MAWE Remove EAB Statements"
 Codeunit;11197804;2022-04-01T16:18:03;tversluis;"MAWE Rename Item EBF Mgt."
 PageExtension;11197774;2022-04-01T16:18:05;tversluis;"MAWE Rep. Comment Preferences" extends "MAW Report Comment Preferences"
+TableExtension;11197768;2022-04-01T16:18:08;tversluis;"MAWE Report Comment Preference" extends "MAW Report Comment Preference"
