@@ -303,7 +303,6 @@ Report;11151071;2020-05-27T11:44:20;hverheij;TASK_17501
 Report;11151288;2020-06-04T14:19:47;skapoor;Task_17795
 Table;11269417;2020-06-23T12:38:13;vpanjala;Floriday_TASK_16785
 Page;11269416;2020-06-23T18:54:11;vpanjala;Floriday_TASK_16785
-Page;11269417;2020-06-24T04:22:36;vpanjala;Floriday_TASK_16785
 Page;11269418;2020-06-24T04:23:26;vpanjala;Floriday_TASK_16785
 Table;11269418;2020-06-24T09:12:07;damara;Floriday_TASK_18308
 Page;11269420;2020-06-24T09:13:04;damara;Floriday_TASK_18308
@@ -4230,3 +4229,4 @@ Page;11197866;2022-04-01T16:18:56;tversluis;"MAWE Settl. Check SubP Sales"
 Page;11197867;2022-04-01T16:18:58;tversluis;"MAWE Settl. Check SubP Stat."
 Page;11197864;2022-04-01T16:19:01;tversluis;"MAWE Settlement Check Auction"
 Query;11197761;2022-04-01T16:19:03;tversluis;"MAWE Statements per Date"
+Page;11269417;2022-04-01T16:19:06;tversluis;"MAWE Trade Item"
