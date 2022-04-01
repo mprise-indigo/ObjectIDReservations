@@ -4197,3 +4197,4 @@ PageExtension;11197791;2022-04-01T16:16:16;tversluis;"MAWE Item Variants" extend
 Table;11197857;2022-04-01T16:16:19;tversluis;"MAWE Label"
 XmlPort;11197873;2022-04-01T16:16:21;tversluis;"MAWE LabelByID LabelReq"
 XmlPort;11197876;2022-04-01T16:16:25;tversluis;"MAWE LabelByID LabelReqMsg"
+XmlPort;11197871;2022-04-01T16:16:29;tversluis;"MAWE LabelByOrder LabelReq"
