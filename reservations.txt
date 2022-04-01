@@ -57,7 +57,6 @@ TableExtension;11197771;2019-03-18T09:09:34;jhoek;
 TableExtension;11197773;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
 TableExtension;11197775;2019-03-18T09:09:34;jhoek;
-TableExtension;11197776;2019-03-18T09:09:34;jhoek;
 TableExtension;11197777;2019-03-18T09:09:34;jhoek;
 TableExtension;11197778;2019-03-18T09:09:34;jhoek;
 TableExtension;11197779;2019-03-18T09:09:34;jhoek;
@@ -4066,3 +4065,4 @@ PageExtension;11197769;2022-04-01T16:07:24;tversluis;"MAWE Cargo Carrier List" e
 Page;11197786;2022-04-01T16:07:26;tversluis;"MAWE Change Log Entry List"
 TableExtension;11197766;2022-04-01T16:07:28;tversluis;"MAWE Container" extends "MAW Container"
 PageExtension;11197767;2022-04-01T16:07:31;tversluis;"MAWE Container Card" extends "MAW Container Card"
+TableExtension;11197776;2022-04-01T16:07:33;tversluis;"MAWE Container Entry" extends "MAW Container Entry"
