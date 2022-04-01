@@ -333,7 +333,6 @@ Codeunit;11268772;2020-05-18T13:37:26;jkari;Task_16306
 Codeunit;11268773;2020-05-18T13:38:25;jkari;Task_16306
 Report;11151071;2020-05-27T11:44:20;hverheij;TASK_17501
 Report;11151288;2020-06-04T14:19:47;skapoor;Task_17795
-Table;11269416;2020-06-23T12:00:42;vpanjala;Floriday_TASK_16785
 Table;11269417;2020-06-23T12:38:13;vpanjala;Floriday_TASK_16785
 Page;11269416;2020-06-23T18:54:11;vpanjala;Floriday_TASK_16785
 Page;11269417;2020-06-24T04:22:36;vpanjala;Floriday_TASK_16785
@@ -4179,3 +4178,4 @@ Table;11269415;2022-04-01T16:14:14;tversluis;"MAWE Floriday Setup"
 Page;11269438;2022-04-01T16:14:16;tversluis;"MAWE Floriday Setup Picture"
 Page;11269410;2022-04-01T16:14:19;tversluis;"MAWE Floriday SO Line Details"
 Codeunit;11269434;2022-04-01T16:14:21;tversluis;"MAWE Floriday Token Handler"
+Table;11269416;2022-04-01T16:14:24;tversluis;"MAWE Floriday Trade Item"
