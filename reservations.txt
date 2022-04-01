@@ -27,7 +27,6 @@ PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
 TableExtension;11197760;2019-03-18T09:09:34;jhoek;
 TableExtension;11197761;2019-03-18T09:09:34;jhoek;
-TableExtension;11197765;2019-03-18T09:09:34;jhoek;
 TableExtension;11197768;2019-03-18T09:09:34;jhoek;
 TableExtension;11197771;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
@@ -4183,3 +4182,4 @@ Codeunit;11269420;2022-04-01T16:15:26;tversluis;"MAWE Flor. Trade Item Prop Sub"
 TableExtension;11197764;2022-04-01T16:15:29;tversluis;"MAWE Genus Feature" extends "MAW Genus Feature"
 PageExtension;11197764;2022-04-01T16:15:31;tversluis;"MAWE Genus Features" extends "MAW Genus Features"
 PageExtension;11197765;2022-04-01T16:15:34;tversluis;"MAWE Genus Features Subpage" extends "MAW Genus Features Subpage"
+TableExtension;11197765;2022-04-01T16:15:36;tversluis;"MAWE Genus Feature Value" extends "MAW Genus Feature Value"
