@@ -370,7 +370,6 @@ Codeunit;11268784;2020-08-25T11:24:28;adkorte;TS17457 preview features
 Codeunit;11268785;2020-08-26T16:03:19;tversluis;for subscribers
 EnumTypeExtension;11151040;2020-08-27T09:04:01;adkorte;Price Management BC16
 Codeunit;11268786;2020-08-27T09:12:18;adkorte;Price Management BC16
-Page;11269431;2020-08-27T09:26:17;vpanjala;Floriday_Task_21127
 Table;11151039;2020-08-28T08:59:11;tversluis;agro setup
 Page;11268515;2020-08-28T13:50:59;tversluis;"MAW Absence Planning Entries"
 Table;11151210;2020-08-28T13:51:07;tversluis;"MAW Absence Planning Entry"
@@ -4180,3 +4179,4 @@ Table;11269416;2022-04-01T16:14:24;tversluis;"MAWE Floriday Trade Item"
 Table;11269424;2022-04-01T16:14:26;tversluis;"MAWE Floriday Trade Item Name"
 Page;11269433;2022-04-01T16:14:28;tversluis;"MAWE Floriday Trade Item Names"
 Table;11269431;2022-04-01T16:14:30;tversluis;"MAWE Floriday Web Service"
+Page;11269431;2022-04-01T16:14:33;tversluis;"MAWE Floriday Web Services"
