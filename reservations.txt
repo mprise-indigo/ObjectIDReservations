@@ -4072,3 +4072,4 @@ TableExtension;11197769;2022-04-01T16:08:02;tversluis;"MAWE Document Packaging P
 Codeunit;11197750;2022-04-01T16:08:04;tversluis;"MAWE Download Label"
 Page;11197824;2022-04-01T16:08:07;tversluis;"MAWE EAB Bar Code Buffer"
 Table;11197824;2022-04-01T16:08:09;tversluis;"MAWE EAB Bar Code Buffer"
+Page;11197826;2022-04-01T16:08:11;tversluis;"MAWE EAB Card"
