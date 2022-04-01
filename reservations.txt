@@ -16,7 +16,6 @@ PageExtension;11197778;2019-03-18T09:09:03;jhoek;
 PageExtension;11197779;2019-03-18T09:09:03;jhoek;
 PageExtension;11197780;2019-03-18T09:09:03;jhoek;
 PageExtension;11197781;2019-03-18T09:09:03;jhoek;
-PageExtension;11197783;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
 PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
@@ -4211,3 +4210,4 @@ Table;11197762;2022-04-01T16:17:08;tversluis;"MAWE Pic. Img. Center Status"
 TableExtension;11197775;2022-04-01T16:17:10;tversluis;"MAWE Picture" extends "MAW Picture"
 PageExtension;11197776;2022-04-01T16:17:14;tversluis;"MAWE Picture Card" extends "MAW Picture Card"
 PageExtension;11197777;2022-04-01T16:17:16;tversluis;"MAWE Picture List" extends "MAW Picture List"
+PageExtension;11197783;2022-04-01T16:17:18;tversluis;"MAWE Posted Sales Inv. Subform" extends "Posted Sales Invoice Subform"
