@@ -4066,3 +4066,4 @@ PageExtension;11197767;2022-04-01T16:07:31;tversluis;"MAWE Container Card" exten
 TableExtension;11197776;2022-04-01T16:07:33;tversluis;"MAWE Container Entry" extends "MAW Container Entry"
 TableExtension;11197777;2022-04-01T16:07:35;tversluis;"MAWE Container Journal Line" extends "MAW Container Journal Line"
 PageExtension;11197768;2022-04-01T16:07:38;tversluis;"MAWE Container List" extends "MAW Container List"
+Page;11197868;2022-04-01T16:07:40;tversluis;"MAWE Correction Reason Codes"
