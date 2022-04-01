@@ -4217,3 +4217,4 @@ TableExtension;11197778;2022-04-01T16:17:49;tversluis;"MAWE Quote Photo" extends
 PageExtension;11197781;2022-04-01T16:17:52;tversluis;"MAWE Quote Publ. Channel Card" extends "MAW Quote Public. Channel Card"
 TableExtension;11197781;2022-04-01T16:17:55;tversluis;"MAWE Quote Publication Channel" extends "MAW Quote Publication Channel"
 PageExtension;11197779;2022-04-01T16:17:58;tversluis;"MAWE Quote Sales Order Setup" extends "MAW Create Sls Ords From Quote"
+Report;11197833;2022-04-01T16:18:00;tversluis;"MAWE Remove EAB Statements"
