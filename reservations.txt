@@ -4193,3 +4193,4 @@ Report;11197832;2022-04-01T16:16:04;tversluis;"MAWE Invoicing EAB Statements"
 TableExtension;11197787;2022-04-01T16:16:06;tversluis;"MAWE Item" extends Item
 PageExtension;11197786;2022-04-01T16:16:09;tversluis;"MAWE Item Card" extends "Item Card"
 TableExtension;11197771;2022-04-01T16:16:12;tversluis;"MAWE Item Preference" extends "MAW Item Preference"
+TableExtension;11197790;2022-04-01T16:16:14;tversluis;"MAWE Item Variant" extends "Item Variant"
