@@ -3293,7 +3293,6 @@ Codeunit;11269401;2021-05-26T15:35:19;glind;34340: New QR Code Mgt.
 Codeunit;11269404;2021-05-26T15:48:02;glind;34340: New QR Code Mgt.
 EnumTypeExtension;11197749;2021-05-27T07:34:15;damara;33573:EBF-FDY17
 EnumTypeExtension;11197750;2021-05-27T07:39:32;damara;33573:EBF-FDY17
-Codeunit;11269405;2021-05-27T07:41:57;damara;34428:EBF-FDY17
 EnumTypeExtension;11269400;2021-05-27T07:57:14;damara;33771:EBF-FDY17
 Report;11269004;2021-05-28T07:56:39;skapoor;MAWA App Export Locations
 Report;11269005;2021-05-31T08:12:56;skapoor;MAWA APP Export Positions
@@ -4165,3 +4164,4 @@ Page;11197798;2022-04-01T16:12:09;tversluis;"MAWE EOS Reason Codes"
 Page;11197828;2022-04-01T16:12:11;tversluis;"MAWE EOS Role Center Alert"
 Page;11197849;2022-04-01T16:12:14;tversluis;"MAWE EOS Setup"
 Table;11197849;2022-04-01T16:12:16;tversluis;"MAWE EOS Setup"
+Codeunit;11269405;2022-04-01T16:12:19;tversluis;"MAWE Event Subscribers"
