@@ -4210,3 +4210,4 @@ Codeunit;11197803;2022-04-01T16:16:58;tversluis;"MAWE Lbl. Property Subscribers"
 TableExtension;11197785;2022-04-01T16:17:00;tversluis;"MAWE Location" extends Location
 PageExtension;11197792;2022-04-01T16:17:03;tversluis;"MAWE Location Card" extends "Location Card"
 Page;11197766;2022-04-01T16:17:05;tversluis;"MAWE Pic. Img. Center Status"
+Table;11197762;2022-04-01T16:17:08;tversluis;"MAWE Pic. Img. Center Status"
