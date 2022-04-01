@@ -4069,3 +4069,4 @@ TableExtension;11197762;2022-04-01T16:07:55;tversluis;"MAWE Database Initializat
 Codeunit;11197866;2022-04-01T16:07:57;tversluis;"MAWE Decorum Mgt."
 PageExtension;11197772;2022-04-01T16:07:59;tversluis;"MAWE Document Packaging Plan" extends "MAW Document Packaging Plan"
 TableExtension;11197769;2022-04-01T16:08:02;tversluis;"MAWE Document Packaging Plan" extends "MAW Document Packaging Plan"
+Codeunit;11197750;2022-04-01T16:08:04;tversluis;"MAWE Download Label"
