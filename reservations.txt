@@ -2608,7 +2608,6 @@ Codeunit;11151228;2020-10-05T15:43:45;jboes;Ball: Filter sources in item availab
 Table;11151401;2020-10-06T08:10:55;jboes;Ball Filter Sources in Item Avail.
 Table;11151402;2020-10-06T08:11:07;jboes;Ball Filter Sources in Item Avail.
 Page;11151121;2020-10-06T08:12:11;jboes;Ball Filter Sources in Item Avail.
-Page;11269411;2020-10-07T17:53:02;vpanjala;Add_Picture_from_Floriday_To_TradeItem
 Codeunit;11269420;2020-10-09T11:55:14;vpanjala;Floriday_Trade_Item_Property_Subscribers
 Codeunit;11151334;2020-10-14T15:05:03;glind;Additional Sales Lines
 Codeunit;11151410;2020-10-14T15:09:38;glind;Additional Sales Lines
@@ -4183,3 +4182,4 @@ Codeunit;11269436;2022-04-01T16:15:14;tversluis;"MAWE Flor. Trade Item Helper"
 Codeunit;11269435;2022-04-01T16:15:17;tversluis;"MAWE Flor. Trade Item Hndlr."
 Codeunit;11269437;2022-04-01T16:15:19;tversluis;"MAWE Flor. Trade Item Mgt."
 Table;11269410;2022-04-01T16:15:22;tversluis;"MAWE Flor. Trade Item Pic."
+Page;11269411;2022-04-01T16:15:24;tversluis;"MAWE Flor. Trade Item Pic Fact"
