@@ -53,7 +53,6 @@ TableExtension;11197763;2019-03-18T09:09:34;jhoek;
 TableExtension;11197764;2019-03-18T09:09:34;jhoek;
 TableExtension;11197765;2019-03-18T09:09:34;jhoek;
 TableExtension;11197766;2019-03-18T09:09:34;jhoek;
-TableExtension;11197767;2019-03-18T09:09:34;jhoek;
 TableExtension;11197768;2019-03-18T09:09:34;jhoek;
 TableExtension;11197769;2019-03-18T09:09:34;jhoek;
 TableExtension;11197770;2019-03-18T09:09:34;jhoek;
@@ -4065,3 +4064,4 @@ Codeunit;11197840;2022-04-01T16:07:12;tversluis;"MAWE Buyer Number Facade"
 Page;11197821;2022-04-01T16:07:14;tversluis;"MAWE Buyer Number List"
 Report;11197831;2022-04-01T16:07:17;tversluis;"MAWE Calculate SO - EAB Status"
 Codeunit;11269432;2022-04-01T16:07:19;tversluis;"MAWE Call Web Service Wrapper"
+TableExtension;11197767;2022-04-01T16:07:21;tversluis;"MAWE Cargo Carrier" extends "MAW Cargo Carrier"
