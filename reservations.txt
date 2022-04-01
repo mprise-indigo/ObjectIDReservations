@@ -301,7 +301,6 @@ Codeunit;11268772;2020-05-18T13:37:26;jkari;Task_16306
 Codeunit;11268773;2020-05-18T13:38:25;jkari;Task_16306
 Report;11151071;2020-05-27T11:44:20;hverheij;TASK_17501
 Report;11151288;2020-06-04T14:19:47;skapoor;Task_17795
-Table;11269417;2020-06-23T12:38:13;vpanjala;Floriday_TASK_16785
 Page;11269416;2020-06-23T18:54:11;vpanjala;Floriday_TASK_16785
 Page;11269418;2020-06-24T04:23:26;vpanjala;Floriday_TASK_16785
 Table;11269418;2020-06-24T09:12:07;damara;Floriday_TASK_18308
@@ -4230,3 +4229,4 @@ Query;11197761;2022-04-01T16:19:03;tversluis;"MAWE Statements per Date"
 Page;11269417;2022-04-01T16:19:06;tversluis;"MAWE Trade Item"
 Page;11269429;2022-04-01T16:19:09;tversluis;"MAWE Trade Item Factbox"
 Page;11269414;2022-04-01T16:19:11;tversluis;"MAWE Trade Item Features"
+Table;11269417;2022-04-01T16:19:14;tversluis;"MAWE Trade Item Feature Value"
