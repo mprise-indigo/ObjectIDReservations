@@ -3915,7 +3915,6 @@ Page;11268750;2022-03-10T17:13:10;glind;49157: Update from inspection
 Codeunit;11268921;2022-03-11T09:16:28;jboes;Parallel Job Queue Inbound Queue
 Codeunit;11268922;2022-03-11T11:52:37;jboes;Parallel Job Queue Inbound Queue
 Report;11151122;2022-03-11T12:47:57;ssanam;JobPick
-PageExtension;11197792;2022-03-11T13:42:51;adkorte;MAWE Sales Order Subform
 PageExtension;11197793;2022-03-11T13:43:37;adkorte;MAWE Sales Order Subform
 PageExtension;11197794;2022-03-11T13:44:46;adkorte;MAWE Sales Order Subform
 PageExtension;11197795;2022-03-11T13:45:42;adkorte;MAWE Sales Order Subform
@@ -4209,3 +4208,4 @@ Page;11197783;2022-04-01T16:16:53;tversluis;"MAWE Label Webservice Calls"
 Page;11197780;2022-04-01T16:16:56;tversluis;"MAWE Label Webservices"
 Codeunit;11197803;2022-04-01T16:16:58;tversluis;"MAWE Lbl. Property Subscribers"
 TableExtension;11197785;2022-04-01T16:17:00;tversluis;"MAWE Location" extends Location
+PageExtension;11197792;2022-04-01T16:17:03;tversluis;"MAWE Location Card" extends "Location Card"
