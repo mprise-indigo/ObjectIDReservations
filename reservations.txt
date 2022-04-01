@@ -26,7 +26,6 @@ TableExtension;11197760;2019-03-18T09:09:34;jhoek;
 TableExtension;11197761;2019-03-18T09:09:34;jhoek;
 TableExtension;11197768;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
-TableExtension;11197775;2019-03-18T09:09:34;jhoek;
 TableExtension;11197778;2019-03-18T09:09:34;jhoek;
 TableExtension;11197779;2019-03-18T09:09:34;jhoek;
 TableExtension;11197780;2019-03-18T09:09:34;jhoek;
@@ -4211,3 +4210,4 @@ TableExtension;11197785;2022-04-01T16:17:00;tversluis;"MAWE Location" extends Lo
 PageExtension;11197792;2022-04-01T16:17:03;tversluis;"MAWE Location Card" extends "Location Card"
 Page;11197766;2022-04-01T16:17:05;tversluis;"MAWE Pic. Img. Center Status"
 Table;11197762;2022-04-01T16:17:08;tversluis;"MAWE Pic. Img. Center Status"
+TableExtension;11197775;2022-04-01T16:17:10;tversluis;"MAWE Picture" extends "MAW Picture"
