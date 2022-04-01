@@ -18,7 +18,6 @@ TableExtension;11197760;2019-03-18T09:09:34;jhoek;
 TableExtension;11197761;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
 TableExtension;11197782;2019-03-18T09:09:34;jhoek;
-TableExtension;11197783;2019-03-18T09:09:34;jhoek;
 Codeunit;11268649;2019-03-20T15:21:31;adkorte;Time Registration Classification Dimension
 Codeunit;11268670;2019-03-22T14:11:08;adkorte;PBI 11706
 Codeunit;11268671;2019-03-22T14:11:08;adkorte;PBI 11706
@@ -4220,3 +4219,4 @@ TableExtension;11197768;2022-04-01T16:18:08;tversluis;"MAWE Report Comment Prefe
 TableExtension;11197784;2022-04-01T16:18:10;tversluis;"MAWE Sales Cr.Memo Line" extends "Sales Cr.Memo Line"
 TableExtension;11197788;2022-04-01T16:18:13;tversluis;"MAWE Sales Header" extends "Sales Header"
 Codeunit;11197839;2022-04-01T16:18:15;tversluis;"MAWE Sales Header Mgt."
+TableExtension;11197783;2022-04-01T16:18:17;tversluis;"MAWE Sales Invoice Line" extends "Sales Invoice Line"
