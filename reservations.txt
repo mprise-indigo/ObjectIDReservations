@@ -122,7 +122,6 @@ Codeunit;11268714;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
 Codeunit;11268715;2019-06-04T12:24:20;tversluis;Job Creation/Calculation
 Page;11197800;2019-06-05T10:40:33;glind;PBI12465
 Codeunit;11268690;2019-06-06T17:03:23;tversluis;Job Creation/Calculation
-Codeunit;11197751;2019-07-04T08:50:21;jhoek;Feature value event subscribers
 Page;11268996;2019-07-25T07:11:24;damara;Task12857
 Codeunit;11151174;2019-08-29T13:53:51;tversluis;
 Codeunit;11268716;2019-08-30T13:14:42;adkorte;Financial fact BI
@@ -4116,3 +4115,4 @@ Codeunit;11197812;2022-04-01T16:09:56;tversluis;"MAWE EBF Delete Transactn Data"
 Codeunit;11197752;2022-04-01T16:09:59;tversluis;"MAWE EBF Doc. Feat. Value Mgt."
 Codeunit;11197877;2022-04-01T16:10:01;tversluis;"MAWE EBF Event Subscribers"
 Codeunit;11197816;2022-04-01T16:10:03;tversluis;"MAWE EBF Feature to Genus Mgt."
+Codeunit;11197751;2022-04-01T16:10:06;tversluis;"MAWE EBF Feature Value Mgt."
