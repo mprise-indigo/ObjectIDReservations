@@ -351,7 +351,6 @@ Table;11269420;2020-07-06T13:16:17;damara;Floriday_TASK_18314
 Page;11269422;2020-07-06T13:17:14;damara;Floriday_TASK_18314
 Page;11268644;2020-07-07T10:11:22;adkorte;TS18477 Anouk Optiflor
 Table;11151382;2020-07-07T10:19:21;adkorte;TS18477 Anouk Optiflor
-Table;11269424;2020-07-07T13:32:11;vpanjala;Floriday_Task_18923
 Table;11151383;2020-07-07T15:17:48;adkorte;TS18477 Anouk Optiflor
 Page;11269429;2020-07-21T10:56:52;vpanjala;Floriday_Task_18313
 Codeunit;11268769;2020-08-13T09:57:21;adkorte;GCG development
@@ -4179,3 +4178,4 @@ Page;11269438;2022-04-01T16:14:16;tversluis;"MAWE Floriday Setup Picture"
 Page;11269410;2022-04-01T16:14:19;tversluis;"MAWE Floriday SO Line Details"
 Codeunit;11269434;2022-04-01T16:14:21;tversluis;"MAWE Floriday Token Handler"
 Table;11269416;2022-04-01T16:14:24;tversluis;"MAWE Floriday Trade Item"
+Table;11269424;2022-04-01T16:14:26;tversluis;"MAWE Floriday Trade Item Name"
