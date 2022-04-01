@@ -3894,7 +3894,6 @@ Page;11268750;2022-03-10T17:13:10;glind;49157: Update from inspection
 Codeunit;11268921;2022-03-11T09:16:28;jboes;Parallel Job Queue Inbound Queue
 Codeunit;11268922;2022-03-11T11:52:37;jboes;Parallel Job Queue Inbound Queue
 Report;11151122;2022-03-11T12:47:57;ssanam;JobPick
-PageExtension;11197793;2022-03-11T13:43:37;adkorte;MAWE Sales Order Subform
 PageExtension;11197794;2022-03-11T13:44:46;adkorte;MAWE Sales Order Subform
 PageExtension;11197795;2022-03-11T13:45:42;adkorte;MAWE Sales Order Subform
 Codeunit;11268923;2022-03-11T15:30:32;glind;28271: Extend Linkages
@@ -4223,3 +4222,4 @@ TableExtension;11197789;2022-04-01T16:18:22;tversluis;"MAWE Sales Line" extends 
 Page;11197856;2022-04-01T16:18:25;tversluis;"MAWE Sales Line Auction Photo"
 Table;11197855;2022-04-01T16:18:27;tversluis;"MAWE Sales Line Auction Photo"
 PageExtension;11197788;2022-04-01T16:18:30;tversluis;"MAWE Sales Order" extends "Sales Order"
+PageExtension;11197793;2022-04-01T16:18:32;tversluis;"MAWE Sales Order List" extends "Sales Order List"
