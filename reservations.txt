@@ -352,7 +352,6 @@ Query;11151046;2020-07-02T12:36:58;glind;Area Planning AddIn
 Codeunit;11268768;2020-07-03T13:25:18;glind;Area Planning AddIn
 Table;11269420;2020-07-06T13:16:17;damara;Floriday_TASK_18314
 Page;11269422;2020-07-06T13:17:14;damara;Floriday_TASK_18314
-Table;11269421;2020-07-07T05:23:55;vpanjala;Floriday_Task_18923
 Page;11268644;2020-07-07T10:11:22;adkorte;TS18477 Anouk Optiflor
 Table;11151382;2020-07-07T10:19:21;adkorte;TS18477 Anouk Optiflor
 Table;11269424;2020-07-07T13:32:11;vpanjala;Floriday_Task_18923
@@ -4178,3 +4177,4 @@ Codeunit;11269415;2022-04-01T16:13:47;tversluis;"MAWE Floriday Mgt."
 Codeunit;11269439;2022-04-01T16:13:50;tversluis;"MAWE Floriday Order Handler"
 Codeunit;11269440;2022-04-01T16:13:52;tversluis;"MAWE Floriday Order Helper"
 Page;11269423;2022-04-01T16:13:55;tversluis;"MAWE Floriday Organizations"
+Table;11269421;2022-04-01T16:13:57;tversluis;"MAWE Floriday Organizations"
