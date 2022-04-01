@@ -319,7 +319,6 @@ Page;11269422;2020-07-06T13:17:14;damara;Floriday_TASK_18314
 Page;11268644;2020-07-07T10:11:22;adkorte;TS18477 Anouk Optiflor
 Table;11151382;2020-07-07T10:19:21;adkorte;TS18477 Anouk Optiflor
 Table;11151383;2020-07-07T15:17:48;adkorte;TS18477 Anouk Optiflor
-Page;11269429;2020-07-21T10:56:52;vpanjala;Floriday_Task_18313
 Codeunit;11268769;2020-08-13T09:57:21;adkorte;GCG development
 Codeunit;11268774;2020-08-14T10:40:41;tversluis;for subscribers
 Codeunit;11268775;2020-08-14T11:29:32;tversluis;for subscribers
@@ -4230,3 +4229,4 @@ Page;11197867;2022-04-01T16:18:58;tversluis;"MAWE Settl. Check SubP Stat."
 Page;11197864;2022-04-01T16:19:01;tversluis;"MAWE Settlement Check Auction"
 Query;11197761;2022-04-01T16:19:03;tversluis;"MAWE Statements per Date"
 Page;11269417;2022-04-01T16:19:06;tversluis;"MAWE Trade Item"
+Page;11269429;2022-04-01T16:19:09;tversluis;"MAWE Trade Item Factbox"
