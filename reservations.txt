@@ -2662,7 +2662,6 @@ Codeunit;11151428;2020-11-06T16:09:30;glind;15526 Additional Sales Shipment Line
 Table;112169404;2020-11-10T07:14:00;vpanjala;IA_Floriday_Fulfillment_Order
 Table;11269405;2020-11-10T07:15:15;vpanjala;IA_Load_Carriers
 Table;11269406;2020-11-10T07:16:00;vpanjala;IA_Load_Carrier_Items
-Page;11269404;2020-11-10T08:33:01;vpanjala;IA_Floriday_FulfillmentOrders
 Page;11269405;2020-11-10T08:33:36;vpanjala;IA_Load_Carriers
 Page;11269406;2020-11-10T08:34:09;vpanjala;IA_LoadCarrier_Items
 Page;11151164;2020-11-10T15:28:45;jboes;Ball | Split Planned Job
@@ -4172,3 +4171,4 @@ Codeunit;11197760;2022-04-01T16:12:53;tversluis;"MAWE Florecom Image Mgt."
 Page;11197760;2022-04-01T16:12:55;tversluis;"MAWE Florecom Image Setup"
 Codeunit;11197828;2022-04-01T16:12:58;tversluis;"MAWE Florecom Quote Mgt."
 Table;11269404;2022-04-01T16:13:00;tversluis;"MAWE Flor. Fulfillment Order"
+Page;11269404;2022-04-01T16:13:02;tversluis;"MAWE Flor. Fulfillment Orders"
