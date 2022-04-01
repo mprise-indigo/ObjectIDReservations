@@ -19,7 +19,6 @@ PageExtension;11197779;2019-03-18T09:09:03;jhoek;
 PageExtension;11197780;2019-03-18T09:09:03;jhoek;
 PageExtension;11197781;2019-03-18T09:09:03;jhoek;
 PageExtension;11197783;2019-03-18T09:09:03;jhoek;
-PageExtension;11197786;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
 PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
@@ -4193,3 +4192,4 @@ Table;11197856;2022-04-01T16:15:59;tversluis;"MAWE Image Center"
 Query;11197790;2022-04-01T16:16:02;tversluis;"MAWE Income Statement"
 Report;11197832;2022-04-01T16:16:04;tversluis;"MAWE Invoicing EAB Statements"
 TableExtension;11197787;2022-04-01T16:16:06;tversluis;"MAWE Item" extends Item
+PageExtension;11197786;2022-04-01T16:16:09;tversluis;"MAWE Item Card" extends "Item Card"
