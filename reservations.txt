@@ -46,7 +46,6 @@ PageExtension;11197786;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
 PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
-PageExtension;11197790;2019-03-18T09:09:03;jhoek;
 TableExtension;11197760;2019-03-18T09:09:34;jhoek;
 TableExtension;11197761;2019-03-18T09:09:34;jhoek;
 TableExtension;11197762;2019-03-18T09:09:34;jhoek;
@@ -4060,3 +4059,4 @@ Page;11197768;2022-04-01T16:06:58;tversluis;"MAWE Auction Supplier No. Card"
 Page;11197825;2022-04-01T16:07:00;tversluis;"MAWE Auction Supplier No. List"
 Table;11197825;2022-04-01T16:07:02;tversluis;"MAWE Auction Supplier Nos."
 Codeunit;11197846;2022-04-01T16:07:05;tversluis;"MAWE Auction UI"
+PageExtension;11197790;2022-04-01T16:07:07;tversluis;"MAWE Blanket Sales Order" extends "Blanket Sales Order"
