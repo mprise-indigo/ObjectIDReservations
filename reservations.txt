@@ -8,7 +8,6 @@ Table;11151296;2019-03-07T08:58:04;adkorte;Upgrade tables for PBI11459
 Table;11197875;2019-03-07T12:32:42;adkorte;PBI11459
 Page;11268609;2019-03-11T09:05:28;wkleemans;PBI 11525
 PageExtension;11197760;2019-03-18T09:09:03;jhoek;
-PageExtension;11197761;2019-03-18T09:09:03;jhoek;
 PageExtension;11197771;2019-03-18T09:09:03;jhoek;
 PageExtension;11197773;2019-03-18T09:09:03;jhoek;
 PageExtension;11197774;2019-03-18T09:09:03;jhoek;
@@ -4183,3 +4182,4 @@ PageExtension;11197764;2022-04-01T16:15:31;tversluis;"MAWE Genus Features" exten
 PageExtension;11197765;2022-04-01T16:15:34;tversluis;"MAWE Genus Features Subpage" extends "MAW Genus Features Subpage"
 TableExtension;11197765;2022-04-01T16:15:36;tversluis;"MAWE Genus Feature Value" extends "MAW Genus Feature Value"
 PageExtension;11197766;2022-04-01T16:15:40;tversluis;"MAWE Genus Feature Values" extends "MAW Genus Feature Values"
+PageExtension;11197761;2022-04-01T16:15:42;tversluis;"MAWE Genus List" extends "MAW Genus List"
