@@ -334,7 +334,6 @@ Codeunit;11268773;2020-05-18T13:38:25;jkari;Task_16306
 Report;11151071;2020-05-27T11:44:20;hverheij;TASK_17501
 Report;11151288;2020-06-04T14:19:47;skapoor;Task_17795
 Table;11269415;2020-06-19T10:30:23;vpanjala;TASK_18305
-Page;11269415;2020-06-19T11:57:30;vpanjala;TASK_18305
 Table;11269416;2020-06-23T12:00:42;vpanjala;Floriday_TASK_16785
 Table;11269417;2020-06-23T12:38:13;vpanjala;Floriday_TASK_16785
 Page;11269416;2020-06-23T18:54:11;vpanjala;Floriday_TASK_16785
@@ -4178,3 +4177,4 @@ Page;11269412;2022-04-01T16:14:02;tversluis;"MAWE Floriday Sales Order"
 Table;11269427;2022-04-01T16:14:04;tversluis;"MAWE Floriday Sales Order"
 Page;11269430;2022-04-01T16:14:07;tversluis;"MAWE Floriday Sales Order List"
 Codeunit;11269418;2022-04-01T16:14:09;tversluis;"MAWE Floriday Sales Order Mgt."
+Page;11269415;2022-04-01T16:14:11;tversluis;"MAWE Floriday Setup"
