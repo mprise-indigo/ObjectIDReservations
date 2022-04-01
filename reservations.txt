@@ -3817,7 +3817,6 @@ Codeunit;11268913;2022-01-28T11:45:13;jboes;API: combined whse tracking posting 
 TableExtension;11151060;2022-01-28T18:19:44;jboes;Pick Pack API Whse Tracking inbound queue
 PageExtension;11151077;2022-01-28T18:20:00;jboes;Pick Pack API Whse Tracking inbound queue
 Codeunit;60485;2022-01-31T07:42:29;ssanam;TA45290_TestAutomation
-Codeunit;11197790;2022-02-01T12:29:53;glind;
 Codeunit;11197791;2022-02-01T12:30:10;glind;Upgrade objects
 Codeunit;11268914;2022-02-01T13:35:19;glind;Json management
 Codeunit;11268915;2022-02-02T06:30:56;ssanam;task_46861
@@ -4232,3 +4231,4 @@ Page;11269422;2022-04-01T16:19:33;tversluis;"MAWE Trade Item Product Spec."
 Table;11269420;2022-04-01T16:19:35;tversluis;"MAWE Trade Item Product Spec."
 Report;11197829;2022-04-01T16:19:38;tversluis;"MAWE Transport List"
 Codeunit;11197778;2022-04-01T16:19:41;tversluis;"MAWE Update Ship-to Addresses"
+Codeunit;11197790;2022-04-01T16:19:44;tversluis;"MAWE Upgrade Mgt."
