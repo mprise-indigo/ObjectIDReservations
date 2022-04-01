@@ -31,7 +31,6 @@ PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
 TableExtension;11197760;2019-03-18T09:09:34;jhoek;
 TableExtension;11197761;2019-03-18T09:09:34;jhoek;
-TableExtension;11197763;2019-03-18T09:09:34;jhoek;
 TableExtension;11197764;2019-03-18T09:09:34;jhoek;
 TableExtension;11197765;2019-03-18T09:09:34;jhoek;
 TableExtension;11197768;2019-03-18T09:09:34;jhoek;
@@ -4165,3 +4164,4 @@ Page;11197828;2022-04-01T16:12:11;tversluis;"MAWE EOS Role Center Alert"
 Page;11197849;2022-04-01T16:12:14;tversluis;"MAWE EOS Setup"
 Table;11197849;2022-04-01T16:12:16;tversluis;"MAWE EOS Setup"
 Codeunit;11269405;2022-04-01T16:12:19;tversluis;"MAWE Event Subscribers"
+TableExtension;11197763;2022-04-01T16:12:21;tversluis;"MAWE Feature" extends "MAW Feature"
