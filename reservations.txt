@@ -22,7 +22,6 @@ PageExtension;11197778;2019-03-18T09:09:03;jhoek;
 PageExtension;11197779;2019-03-18T09:09:03;jhoek;
 PageExtension;11197780;2019-03-18T09:09:03;jhoek;
 PageExtension;11197781;2019-03-18T09:09:03;jhoek;
-PageExtension;11197782;2019-03-18T09:09:03;jhoek;
 PageExtension;11197783;2019-03-18T09:09:03;jhoek;
 PageExtension;11197786;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
@@ -4166,3 +4165,4 @@ TableExtension;11197763;2022-04-01T16:12:21;tversluis;"MAWE Feature" extends "MA
 Codeunit;11197835;2022-04-01T16:12:23;tversluis;"MAWE Feature Integration Mgt."
 PageExtension;11197763;2022-04-01T16:12:26;tversluis;"MAWE Features" extends "MAW Features"
 TableExtension;11197770;2022-04-01T16:12:28;tversluis;"MAWE Feature Value" extends "MAW Feature Value"
+PageExtension;11197782;2022-04-01T16:12:31;tversluis;"MAWE Feature Value List" extends "MAW Feature Value List"
