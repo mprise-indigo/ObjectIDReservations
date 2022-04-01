@@ -2598,7 +2598,6 @@ Codeunit;11151437;2020-08-28T21:26:17;tversluis;"MAW Work.Time Sched.Pref.Mgt."
 Codeunit;11151438;2020-08-28T21:26:23;tversluis;"MAW Work. Time Sched. Pref. UI"
 Codeunit;11151538;2020-08-28T21:26:30;tversluis;"MAW XMLWriter"
 Page;11269434;2020-09-01T14:50:20;vpanjala;IA Trade Item Picture
-Table;11269433;2020-09-24T08:34:56;vpanjala;Split_Selected_Floriday_Sales_Line
 Page;11197749;2020-09-24T10:36:06;skapoor;TASK_22435
 Codeunit;11151039;2020-10-01T10:07:01;glind;Additional Sales Lines
 EnumType;11151041;2020-10-01T10:07:01;glind;Additional Sales Lines
@@ -4180,3 +4179,4 @@ Page;11269435;2022-04-01T16:14:57;tversluis;"MAWE Flor. SO. Add. Services"
 Page;11269413;2022-04-01T16:15:00;tversluis;"MAWE Flor. SO.Add. Serv. Subp."
 Page;11269436;2022-04-01T16:15:02;tversluis;"MAWE Flor. SO. Error Log"
 Page;11269437;2022-04-01T16:15:05;tversluis;"MAWE Flor. SO. Partition"
+Table;11269433;2022-04-01T16:15:07;tversluis;"MAWE Flor. SO. Split Line"
