@@ -12,7 +12,6 @@ PageExtension;11197773;2019-03-18T09:09:03;jhoek;
 PageExtension;11197774;2019-03-18T09:09:03;jhoek;
 PageExtension;11197775;2019-03-18T09:09:03;jhoek;
 PageExtension;11197778;2019-03-18T09:09:03;jhoek;
-PageExtension;11197779;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
 PageExtension;11197788;2019-03-18T09:09:03;jhoek;
 PageExtension;11197789;2019-03-18T09:09:03;jhoek;
@@ -4217,3 +4216,4 @@ PageExtension;11197780;2022-04-01T16:17:47;tversluis;"MAWE Quote Line Photo" ext
 TableExtension;11197778;2022-04-01T16:17:49;tversluis;"MAWE Quote Photo" extends "MAW Quote Photo"
 PageExtension;11197781;2022-04-01T16:17:52;tversluis;"MAWE Quote Publ. Channel Card" extends "MAW Quote Public. Channel Card"
 TableExtension;11197781;2022-04-01T16:17:55;tversluis;"MAWE Quote Publication Channel" extends "MAW Quote Publication Channel"
+PageExtension;11197779;2022-04-01T16:17:58;tversluis;"MAWE Quote Sales Order Setup" extends "MAW Create Sls Ords From Quote"
