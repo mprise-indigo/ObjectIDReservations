@@ -51,7 +51,6 @@ TableExtension;11197762;2019-03-18T09:09:34;jhoek;
 TableExtension;11197763;2019-03-18T09:09:34;jhoek;
 TableExtension;11197764;2019-03-18T09:09:34;jhoek;
 TableExtension;11197765;2019-03-18T09:09:34;jhoek;
-TableExtension;11197766;2019-03-18T09:09:34;jhoek;
 TableExtension;11197768;2019-03-18T09:09:34;jhoek;
 TableExtension;11197769;2019-03-18T09:09:34;jhoek;
 TableExtension;11197770;2019-03-18T09:09:34;jhoek;
@@ -4066,3 +4065,4 @@ Codeunit;11269432;2022-04-01T16:07:19;tversluis;"MAWE Call Web Service Wrapper"
 TableExtension;11197767;2022-04-01T16:07:21;tversluis;"MAWE Cargo Carrier" extends "MAW Cargo Carrier"
 PageExtension;11197769;2022-04-01T16:07:24;tversluis;"MAWE Cargo Carrier List" extends "MAW Cargo Carrier List"
 Page;11197786;2022-04-01T16:07:26;tversluis;"MAWE Change Log Entry List"
+TableExtension;11197766;2022-04-01T16:07:28;tversluis;"MAWE Container" extends "MAW Container"
