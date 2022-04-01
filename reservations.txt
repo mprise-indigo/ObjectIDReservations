@@ -2609,7 +2609,6 @@ Page;11269436;2020-09-17T12:21:31;vpanjala;Floriday_Sales_Order_ErrorLog
 Page;11269437;2020-09-24T08:26:22;vpanjala;Split_Selected_Floriday_Sales_Line
 Table;11269433;2020-09-24T08:34:56;vpanjala;Split_Selected_Floriday_Sales_Line
 Page;11197749;2020-09-24T10:36:06;skapoor;TASK_22435
-Page;11269438;2020-09-25T15:44:38;vpanjala;_PostPhotoAPI
 Codeunit;11151039;2020-10-01T10:07:01;glind;Additional Sales Lines
 EnumType;11151041;2020-10-01T10:07:01;glind;Additional Sales Lines
 Page;11151103;2020-10-01T13:02:14;glind;Additional Sales Lines
@@ -4178,3 +4177,4 @@ Page;11269430;2022-04-01T16:14:07;tversluis;"MAWE Floriday Sales Order List"
 Codeunit;11269418;2022-04-01T16:14:09;tversluis;"MAWE Floriday Sales Order Mgt."
 Page;11269415;2022-04-01T16:14:11;tversluis;"MAWE Floriday Setup"
 Table;11269415;2022-04-01T16:14:14;tversluis;"MAWE Floriday Setup"
+Page;11269438;2022-04-01T16:14:16;tversluis;"MAWE Floriday Setup Picture"
