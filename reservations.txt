@@ -34,7 +34,6 @@ TableExtension;11197781;2019-03-18T09:09:34;jhoek;
 TableExtension;11197782;2019-03-18T09:09:34;jhoek;
 TableExtension;11197783;2019-03-18T09:09:34;jhoek;
 TableExtension;11197784;2019-03-18T09:09:34;jhoek;
-TableExtension;11197785;2019-03-18T09:09:34;jhoek;
 Codeunit;11268649;2019-03-20T15:21:31;adkorte;Time Registration Classification Dimension
 Codeunit;11268670;2019-03-22T14:11:08;adkorte;PBI 11706
 Codeunit;11268671;2019-03-22T14:11:08;adkorte;PBI 11706
@@ -4209,3 +4208,4 @@ Table;11197835;2022-04-01T16:16:51;tversluis;"MAWE Label Webservice Call"
 Page;11197783;2022-04-01T16:16:53;tversluis;"MAWE Label Webservice Calls"
 Page;11197780;2022-04-01T16:16:56;tversluis;"MAWE Label Webservices"
 Codeunit;11197803;2022-04-01T16:16:58;tversluis;"MAWE Lbl. Property Subscribers"
+TableExtension;11197785;2022-04-01T16:17:00;tversluis;"MAWE Location" extends Location
