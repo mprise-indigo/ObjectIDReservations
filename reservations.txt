@@ -354,7 +354,6 @@ Codeunit;11268768;2020-07-03T13:25:18;glind;Area Planning AddIn
 Table;11269420;2020-07-06T13:16:17;damara;Floriday_TASK_18314
 Page;11269422;2020-07-06T13:17:14;damara;Floriday_TASK_18314
 Table;11269421;2020-07-07T05:23:55;vpanjala;Floriday_Task_18923
-Table;11269422;2020-07-07T06:56:02;vpanjala;Floriday_Task_18923
 Page;11268644;2020-07-07T10:11:22;adkorte;TS18477 Anouk Optiflor
 Table;11151382;2020-07-07T10:19:21;adkorte;TS18477 Anouk Optiflor
 Table;11269424;2020-07-07T13:32:11;vpanjala;Floriday_Task_18923
@@ -4166,3 +4165,4 @@ PageExtension;11197763;2022-04-01T16:12:26;tversluis;"MAWE Features" extends "MA
 TableExtension;11197770;2022-04-01T16:12:28;tversluis;"MAWE Feature Value" extends "MAW Feature Value"
 PageExtension;11197782;2022-04-01T16:12:31;tversluis;"MAWE Feature Value List" extends "MAW Feature Value List"
 TableExtension;11197773;2022-04-01T16:12:33;tversluis;"MAWE File Creation Log" extends "MAW File Creation Log"
+Table;11269422;2022-04-01T16:12:36;tversluis;"MAWE Flor. Add. Service"
