@@ -23,7 +23,6 @@ TableExtension;11197761;2019-03-18T09:09:34;jhoek;
 TableExtension;11197768;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
 TableExtension;11197778;2019-03-18T09:09:34;jhoek;
-TableExtension;11197779;2019-03-18T09:09:34;jhoek;
 TableExtension;11197780;2019-03-18T09:09:34;jhoek;
 TableExtension;11197781;2019-03-18T09:09:34;jhoek;
 TableExtension;11197782;2019-03-18T09:09:34;jhoek;
@@ -4217,3 +4216,4 @@ Codeunit;11197759;2022-04-01T16:17:33;tversluis;"MAWE Put Image Request Mgt."
 Codeunit;11197756;2022-04-01T16:17:35;tversluis;"MAWE Put Img. Req Stylesht 0.1"
 Codeunit;11197758;2022-04-01T16:17:37;tversluis;"MAWE Put Img. Req Stylesht 0.5"
 Codeunit;11269404;2022-04-01T16:17:40;tversluis;"MAWE QR Code Mgt."
+TableExtension;11197779;2022-04-01T16:17:42;tversluis;"MAWE Quote Header" extends "MAW Quote Header"
