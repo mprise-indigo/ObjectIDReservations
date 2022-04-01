@@ -364,7 +364,6 @@ Table;11269427;2020-08-07T09:39:10;damara;Floriday_TASK_19481
 Page;11269430;2020-08-07T09:39:54;damara;Floriday_TASK_19481
 Codeunit;11269416;2020-08-10T11:56:45;vpanjala;
 Codeunit;11269418;2020-08-11T13:20:15;damara;Floriday_TASK_19676
-Page;11269432;2020-08-12T08:35:49;damara;Floriday_TASK_19797
 Codeunit;11268769;2020-08-13T09:57:21;adkorte;GCG development
 Codeunit;11268774;2020-08-14T10:40:41;tversluis;for subscribers
 Codeunit;11268775;2020-08-14T11:29:32;tversluis;for subscribers
@@ -4173,3 +4172,4 @@ Table;11269425;2022-04-01T16:13:24;tversluis;"MAWE Floriday Cont. Comp. Pref"
 Table;11269409;2022-04-01T16:13:26;tversluis;"MAWE Floriday Custom Package"
 Page;11269440;2022-04-01T16:13:29;tversluis;"MAWE Floriday Custom Packages"
 Table;11269428;2022-04-01T16:13:31;tversluis;"MAWE Floriday Delivery Order"
+Page;11269432;2022-04-01T16:13:33;tversluis;"MAWE Floriday Del. Ord. List"
