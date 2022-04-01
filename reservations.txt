@@ -37,7 +37,6 @@ PageExtension;11197780;2019-03-18T09:09:03;jhoek;
 PageExtension;11197781;2019-03-18T09:09:03;jhoek;
 PageExtension;11197782;2019-03-18T09:09:03;jhoek;
 PageExtension;11197783;2019-03-18T09:09:03;jhoek;
-PageExtension;11197784;2019-03-18T09:09:03;jhoek;
 PageExtension;11197785;2019-03-18T09:09:03;jhoek;
 PageExtension;11197786;2019-03-18T09:09:03;jhoek;
 PageExtension;11197787;2019-03-18T09:09:03;jhoek;
@@ -4067,3 +4066,4 @@ TableExtension;11197777;2022-04-01T16:07:35;tversluis;"MAWE Container Journal Li
 PageExtension;11197768;2022-04-01T16:07:38;tversluis;"MAWE Container List" extends "MAW Container List"
 Page;11197868;2022-04-01T16:07:40;tversluis;"MAWE Correction Reason Codes"
 TableExtension;11197786;2022-04-01T16:07:43;tversluis;"MAWE Customer" extends Customer
+PageExtension;11197784;2022-04-01T16:07:45;tversluis;"MAWE Customer Card" extends "Customer Card"
