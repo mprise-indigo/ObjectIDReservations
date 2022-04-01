@@ -10,7 +10,6 @@ PageExtension;11197760;2019-03-18T09:09:03;jhoek;
 PageExtension;11197775;2019-03-18T09:09:03;jhoek;
 PageExtension;11197778;2019-03-18T09:09:03;jhoek;
 TableExtension;11197760;2019-03-18T09:09:34;jhoek;
-TableExtension;11197761;2019-03-18T09:09:34;jhoek;
 TableExtension;11197774;2019-03-18T09:09:34;jhoek;
 TableExtension;11197782;2019-03-18T09:09:34;jhoek;
 Codeunit;11268649;2019-03-20T15:21:31;adkorte;Time Registration Classification Dimension
@@ -4226,3 +4225,4 @@ Query;11197763;2022-04-01T16:18:44;tversluis;"MAWE Sales per Date Clock"
 Query;11197760;2022-04-01T16:18:47;tversluis;"MAWE Sales per Date Direct"
 PageExtension;11197787;2022-04-01T16:18:49;tversluis;"MAWE Sales Quote" extends "Sales Quote"
 PageExtension;11197794;2022-04-01T16:18:51;tversluis;"MAWE Sales Quote Subform" extends "Sales Quote Subform"
+TableExtension;11197761;2022-04-01T16:18:54;tversluis;"MAWE Sales Shipment Line" extends "Sales Shipment Line"
