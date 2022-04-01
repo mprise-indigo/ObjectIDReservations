@@ -3916,7 +3916,6 @@ Page;11268750;2022-03-10T17:13:10;glind;49157: Update from inspection
 Codeunit;11268921;2022-03-11T09:16:28;jboes;Parallel Job Queue Inbound Queue
 Codeunit;11268922;2022-03-11T11:52:37;jboes;Parallel Job Queue Inbound Queue
 Report;11151122;2022-03-11T12:47:57;ssanam;JobPick
-PageExtension;11197791;2022-03-11T13:32:53;adkorte;MAWE Sales Order Subform
 PageExtension;11197792;2022-03-11T13:42:51;adkorte;MAWE Sales Order Subform
 PageExtension;11197793;2022-03-11T13:43:37;adkorte;MAWE Sales Order Subform
 PageExtension;11197794;2022-03-11T13:44:46;adkorte;MAWE Sales Order Subform
@@ -4194,3 +4193,4 @@ TableExtension;11197787;2022-04-01T16:16:06;tversluis;"MAWE Item" extends Item
 PageExtension;11197786;2022-04-01T16:16:09;tversluis;"MAWE Item Card" extends "Item Card"
 TableExtension;11197771;2022-04-01T16:16:12;tversluis;"MAWE Item Preference" extends "MAW Item Preference"
 TableExtension;11197790;2022-04-01T16:16:14;tversluis;"MAWE Item Variant" extends "Item Variant"
+PageExtension;11197791;2022-04-01T16:16:16;tversluis;"MAWE Item Variants" extends "Item Variants"
