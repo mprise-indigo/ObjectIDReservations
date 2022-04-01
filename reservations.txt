@@ -2655,7 +2655,6 @@ Query;11151047;2020-11-23T11:18:17;jboes;Ball | Warehouse Tracking ID Overview
 Query;11151048;2020-11-23T11:18:30;jboes;Ball | Warehouse Tracking ID Overview
 Report;11151217;2020-11-24T04:44:12;ssanam;MAW Deleted Report 11151217 17.0.0.0
 Page;11151421;2020-11-24T09:02:47;jboes;Ball | Graph
-Codeunit;11269402;2020-11-26T06:27:30;damara;Floriday_TASK_24510
 TableExtension;11151040;2020-11-26T14:02:30;adkorte;MAW Price List Line
 Table;11151404;2020-11-30T09:25:53;jboes;Ball "Warehouse Tracking ID Log
 Page;11151500;2020-11-30T14:30:48;jboes;Ball "Warehouse Tracking ID Log
@@ -4212,3 +4211,4 @@ PageExtension;11197777;2022-04-01T16:17:16;tversluis;"MAWE Picture List" extends
 PageExtension;11197783;2022-04-01T16:17:18;tversluis;"MAWE Posted Sales Inv. Subform" extends "Posted Sales Invoice Subform"
 Codeunit;11197802;2022-04-01T16:17:21;tversluis;"MAWE Print Label"
 Page;11197799;2022-04-01T16:17:23;tversluis;"MAWE Print Labels"
+Codeunit;11269402;2022-04-01T16:17:26;tversluis;"MAWE Print SSCC Label"
