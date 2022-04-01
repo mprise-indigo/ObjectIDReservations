@@ -64,7 +64,6 @@ TableExtension;11197782;2019-03-18T09:09:34;jhoek;
 TableExtension;11197783;2019-03-18T09:09:34;jhoek;
 TableExtension;11197784;2019-03-18T09:09:34;jhoek;
 TableExtension;11197785;2019-03-18T09:09:34;jhoek;
-TableExtension;11197786;2019-03-18T09:09:34;jhoek;
 Codeunit;11268649;2019-03-20T15:21:31;adkorte;Time Registration Classification Dimension
 Codeunit;11268670;2019-03-22T14:11:08;adkorte;PBI 11706
 Codeunit;11268671;2019-03-22T14:11:08;adkorte;PBI 11706
@@ -4067,3 +4066,4 @@ TableExtension;11197776;2022-04-01T16:07:33;tversluis;"MAWE Container Entry" ext
 TableExtension;11197777;2022-04-01T16:07:35;tversluis;"MAWE Container Journal Line" extends "MAW Container Journal Line"
 PageExtension;11197768;2022-04-01T16:07:38;tversluis;"MAWE Container List" extends "MAW Container List"
 Page;11197868;2022-04-01T16:07:40;tversluis;"MAWE Correction Reason Codes"
+TableExtension;11197786;2022-04-01T16:07:43;tversluis;"MAWE Customer" extends Customer
