@@ -6,7 +6,6 @@ Codeunit;11197817;2019-02-22T13:51:21;jhoek;IA EBF Instruction Mgt.
 Codeunit;11197816;2019-02-22T15:01:46;jhoek;IA EBF Feature to Genus Mgt.
 Codeunit;11197814;2019-02-22T15:26:48;jhoek;IA EBF VMP Put Order
 Codeunit;11197813;2019-02-25T13:27:32;jhoek;
-Codeunit;11197812;2019-02-25T20:35:16;jhoek;
 Codeunit;11197811;2019-02-26T11:03:38;jhoek;IA EBF Quote Header Facade
 Codeunit;11197809;2019-03-01T09:10:10;jhoek;IA EBF Page Management
 Codeunit;11197802;2019-03-04T16:23:19;glind;PBI 9318
@@ -4114,3 +4113,4 @@ Codeunit;11197796;2022-04-01T16:09:46;tversluis;"MAWE EBF Copy Document Mgt."
 Codeunit;11197810;2022-04-01T16:09:49;tversluis;"MAWE EBF Cust-Check Cr. Limit"
 Codeunit;11197763;2022-04-01T16:09:51;tversluis;"MAWE EBF Customer Facade"
 Codeunit;11197764;2022-04-01T16:09:54;tversluis;"MAWE EBF Customer Mgt."
+Codeunit;11197812;2022-04-01T16:09:56;tversluis;"MAWE EBF Delete Transactn Data"
