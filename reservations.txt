@@ -4246,3 +4246,5 @@ EnumType;11269401;2022-04-01T17:11:08;tversluis;"MAWE Flor. SO Agriware Status"
 EnumTypeExtension;11197749;2022-04-01T17:11:24;tversluis;"MAWE ContainerEntryDocType" extends "MAW ContainerEntryDocumentType"
 EnumTypeExtension;11197750;2022-04-01T17:11:27;tversluis;"MAWE ContainerJnlLineDocType" extends "MAW ContainerJnlLineDocType"
 EnumTypeExtension;11269400;2022-04-01T17:11:31;tversluis;"MAWEÂ PDFPrinterSelectDocType" extends "MAW PDFPrinterSelectionDocType"
+Table;11269356;2022-04-04T15:38:06;glind;46547: Replace sync queue entry using auto increment
+Table;11269357;2022-04-04T15:38:06;glind;46547: Replace sync queue entry using auto increment
