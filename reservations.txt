@@ -4249,3 +4249,4 @@ EnumTypeExtension;11269400;2022-04-01T17:11:31;tversluis;"MAWEÂ PDFPrinterSele
 Table;11269356;2022-04-04T15:38:06;glind;46547: Replace sync queue entry using auto increment
 Table;11269357;2022-04-04T15:38:06;glind;46547: Replace sync queue entry using auto increment
 Codeunit;11268925;2022-04-06T09:17:12;jboes;Job Pick API cache
+Table;11151531;2022-04-06T20:25:44;tversluis;MAW UPG Reference No. Buffer
