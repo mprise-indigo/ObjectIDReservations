@@ -4253,3 +4253,4 @@ Table;11151531;2022-04-06T20:25:44;tversluis;MAW UPG Reference No. Buffer
 Codeunit;11268926;2022-04-07T15:09:09;glind;51414: Container Sales Lines
 Page;11268753;2022-04-08T14:43:25;apeek;MAWA Error Log
 Table;11268753;2022-04-08T14:50:56;apeek;MAWA Error Log
+Codeunit;11269012;2022-04-09T19:15:40;tversluis;MAWA Restart Inbnd Sync.Queue
