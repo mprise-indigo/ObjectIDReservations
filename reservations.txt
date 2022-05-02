@@ -4256,3 +4256,4 @@ Table;11268753;2022-04-08T14:50:56;apeek;MAWA Error Log
 Codeunit;11269012;2022-04-09T19:15:40;tversluis;MAWA Restart Inbnd Sync.Queue
 PageExtension;11151085;2022-04-13T06:28:24;ssanam;JobPick_TS46477
 Codeunit;11268927;2022-04-28T16:34:18;glind;52198: ISAL acknowledge response
+Codeunit;60479;2022-05-02T20:10:54;tversluis;TA labor preferences
