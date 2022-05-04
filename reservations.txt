@@ -4258,3 +4258,4 @@ PageExtension;11151085;2022-04-13T06:28:24;ssanam;JobPick_TS46477
 Codeunit;11268927;2022-04-28T16:34:18;glind;52198: ISAL acknowledge response
 Codeunit;60478;2022-05-02T20:11:55;tversluis;TA labor preferences
 Codeunit;60479;2022-05-02T20:13:00;tversluis;TA Library Job Journal
+Codeunit;60470;2022-05-04T07:49:12;ssanam;JobCalc_TA
