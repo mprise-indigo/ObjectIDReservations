@@ -4263,3 +4263,5 @@ TableExtension;11269011;2022-05-09T11:26:13;ssanam;TS43484_API
 Page;11268754;2022-05-09T14:40:50;apeek;Ball|MAWPL WhseTrkgLines
 Query;11151077;2022-05-09T15:32:16;apeek;Ball|MAWPL WhseTrkgLines
 PageExtension;11269011;2022-05-10T09:03:15;ssanam;TS43484_API
+Table;11151532;2022-05-10T09:56:54;glind;52882: Log. System Activity Code
+Page;11268755;2022-05-10T09:56:54;glind;52882: Log. System Activity Code
