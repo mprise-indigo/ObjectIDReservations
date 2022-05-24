@@ -4269,3 +4269,4 @@ TableExtension;11197791;2022-05-12T16:53:15;glind;53276: Log. System Internal ID
 PageExtension;11197796;2022-05-12T16:55:51;glind;53276: Log. System Internal ID
 TableExtension;11151064;2022-05-19T17:03:20;tversluis;MAW Rlshp. Mgt. Comment Line
 EnumTypeExtension;11151046;2022-05-19T17:05:47;tversluis;MAW Rlshp. Mgt. Comment Line Table Name
+Codeunit;60469;2022-05-24T05:46:26;ssanam;TS53461_TestAutoMation
