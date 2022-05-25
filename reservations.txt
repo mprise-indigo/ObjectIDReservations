@@ -4270,3 +4270,9 @@ PageExtension;11197796;2022-05-12T16:55:51;glind;53276: Log. System Internal ID
 TableExtension;11151064;2022-05-19T17:03:20;tversluis;MAW Rlshp. Mgt. Comment Line
 EnumTypeExtension;11151046;2022-05-19T17:05:47;tversluis;MAW Rlshp. Mgt. Comment Line Table Name
 Codeunit;60469;2022-05-24T05:46:26;ssanam;TS53461_TestAutoMation
+TableExtension;11151065;2022-05-25T14:33:02;glind;ISAL internal id fields
+TableExtension;11151066;2022-05-25T14:33:02;glind;ISAL internal id fields
+TableExtension;11151067;2022-05-25T14:33:02;glind;ISAL internal id fields
+PageExtension;11151086;2022-05-25T14:33:03;glind;ISAL internal id fields
+PageExtension;11151087;2022-05-25T14:33:03;glind;ISAL internal id fields
+PageExtension;11151088;2022-05-25T14:33:03;glind;ISAL internal id fields
