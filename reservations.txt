@@ -4278,3 +4278,5 @@ PageExtension;11151087;2022-05-25T14:33:03;glind;ISAL internal id fields
 PageExtension;11151088;2022-05-25T14:33:03;glind;ISAL internal id fields
 Codeunit;60468;2022-05-30T08:37:19;damara;TS53464_TA
 Codeunit;11268928;2022-05-30T11:51:31;glind;Webservice handler
+Table;11269400;2022-06-01T09:04:44;damara;FDY
+Page;11269400;2022-06-01T09:04:44;damara;FDY
