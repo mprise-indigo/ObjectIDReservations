@@ -4292,3 +4292,4 @@ Codeunit;60465;2022-06-24T10:54:32;damara;TA_54529
 Codeunit;60464;2022-06-27T12:41:29;ssanam;TA_54508
 Codeunit;60463;2022-06-27T16:24:11;ssanam;TestAutomation
 Codeunit;60462;2022-06-29T11:45:59;ssanam;TestAutomation
+Report;11269042;2022-07-05T11:24:46;skapoor;MAWPLA Retr. Load Order
