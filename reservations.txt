@@ -4300,3 +4300,4 @@ Codeunit;60461;2022-07-07T09:00:43;ssanam;TS55287_TestAutomation
 Page;11268756;2022-07-11T12:59:51;tversluis;MAW Delete Transaction Data
 Page;11268757;2022-07-11T13:07:39;tversluis;MAW Delete Transaction Data Subpage
 Codeunit;60460;2022-07-11T13:45:10;ssanam;MAWDeleteJob_TestAutomation
+Table;11151534;2022-07-11T16:56:32;tversluis;MAW Delete Transaction Data Entry
