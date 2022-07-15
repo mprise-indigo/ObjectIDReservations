@@ -4304,3 +4304,4 @@ Table;11151534;2022-07-11T16:56:32;tversluis;MAW Delete Transaction Data Entry
 EnumType;11151071;2022-07-11T16:57:32;tversluis;MAW Delete Transaction Data Action
 Page;11197790;2022-07-13T12:48:05;adkorte;TS51299 OAuth Use ControlAddIn
 Page;11197819;2022-07-13T12:53:21;adkorte;TS51299 OAuth Use ControlAddIn
+Codeunit;11197971;2022-07-15T07:40:57;tversluis;MAWI Delete Transaction Data
