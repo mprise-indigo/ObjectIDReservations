@@ -3510,7 +3510,6 @@ Codeunit;11269300;2021-11-11T11:15:13;skapoor;for Advance Prepayment
 Codeunit;11269301;2021-11-11T11:15:13;skapoor;for Advance Prepayment
 Codeunit;11269302;2021-11-11T11:15:13;skapoor;for Advance Prepayment
 Codeunit;11269303;2021-11-11T11:15:13;skapoor;for Advance Prepayment
-Codeunit;11269304;2021-11-11T11:15:13;skapoor;for Advance Prepayment
 Codeunit;11269305;2021-11-11T11:15:13;skapoor;for Advance Prepayment
 Codeunit;11269306;2021-11-11T11:15:13;skapoor;for Advance Prepayment
 Codeunit;11269307;2021-11-11T11:15:13;skapoor;for Advance Prepayment
@@ -4305,3 +4304,4 @@ Page;11197790;2022-07-13T12:48:05;adkorte;TS51299 OAuth Use ControlAddIn
 Page;11197819;2022-07-13T12:53:21;adkorte;TS51299 OAuth Use ControlAddIn
 Codeunit;11197971;2022-07-15T07:40:57;tversluis;MAWI Delete Transaction Data
 Codeunit;11268872;2022-07-15T08:16:08;tversluis;MAWC Delete Transaction Data
+Codeunit;11269304;2022-07-15T10:27:39;tversluis;MAWF Delete Transaction Data
