@@ -3093,7 +3093,6 @@ Codeunit;11268889;2021-05-25T13:58:42;vpanjala;
 Codeunit;11268890;2021-05-25T13:58:42;vpanjala;
 Codeunit;11268870;2021-05-25T13:58:42;vpanjala;
 Codeunit;11268871;2021-05-25T13:58:42;vpanjala;
-Codeunit;11268872;2021-05-25T13:58:42;vpanjala;
 Codeunit;11268873;2021-05-25T13:58:42;vpanjala;
 Codeunit;11268874;2021-05-25T13:58:42;vpanjala;
 Codeunit;11268875;2021-05-25T13:58:42;vpanjala;
@@ -4305,3 +4304,4 @@ EnumType;11151071;2022-07-11T16:57:32;tversluis;MAW Delete Transaction Data Acti
 Page;11197790;2022-07-13T12:48:05;adkorte;TS51299 OAuth Use ControlAddIn
 Page;11197819;2022-07-13T12:53:21;adkorte;TS51299 OAuth Use ControlAddIn
 Codeunit;11197971;2022-07-15T07:40:57;tversluis;MAWI Delete Transaction Data
+Codeunit;11268872;2022-07-15T08:16:08;tversluis;MAWC Delete Transaction Data
