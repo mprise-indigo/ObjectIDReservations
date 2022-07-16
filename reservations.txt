@@ -4305,3 +4305,4 @@ Page;11197819;2022-07-13T12:53:21;adkorte;TS51299 OAuth Use ControlAddIn
 Codeunit;11197971;2022-07-15T07:40:57;tversluis;MAWI Delete Transaction Data
 Codeunit;11268872;2022-07-15T08:16:08;tversluis;MAWC Delete Transaction Data
 Codeunit;11269304;2022-07-15T10:27:39;tversluis;MAWF Delete Transaction Data
+PageExtension;11151089;2022-07-16T22:03:24;tversluis;MAW Companies
