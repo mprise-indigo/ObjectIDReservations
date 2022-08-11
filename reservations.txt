@@ -4313,3 +4313,4 @@ Codeunit;11268929;2022-07-22T22:46:35;tversluis;MAW PurchPost-SubBlnktOrdItem
 Codeunit;60459;2022-07-26T09:34:21;ssanam;TS55646
 EnumType;11151072;2022-07-28T07:40:11;damara;Labor standard
 Page;11197876;2022-08-02T15:09:15;ssanam;TS56873
+TableExtension;11151267;2022-08-11T12:43:22;ssanam;TS51633_AgriwareW1
