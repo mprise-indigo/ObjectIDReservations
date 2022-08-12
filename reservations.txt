@@ -4316,3 +4316,4 @@ Page;11197876;2022-08-02T15:09:15;ssanam;TS56873
 TableExtension;11151267;2022-08-11T12:43:22;ssanam;TS51633_AgriwareW1
 Page;11268758;2022-08-11T17:53:15;glind;PBI55508: New Text editor functionality
 Codeunit;11268930;2022-08-12T06:06:01;ssanam;TS51633_AgriwareW1
+PageExtension;11151302;2022-08-12T07:31:08;ssanam;TS51633_AgriwareW1
