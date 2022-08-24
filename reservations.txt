@@ -4326,3 +4326,4 @@ Codeunit;11197873;2022-08-17T11:03:57;ssanam;TS51633_EBF
 Codeunit;11268933;2022-08-18T16:07:13;glind;PBI55032: Load Order Status via Job Queue
 Codeunit;11268934;2022-08-18T16:07:13;glind;PBI55032: Load Order Status via Job Queue
 Codeunit;11269408;2022-08-19T08:34:48;adkorte;TS57208 Floriday Doc. Pack Plan
+EnumTypeExtension;11151048;2022-08-24T11:39:01;adkorte;TS57617 SKU Job option
