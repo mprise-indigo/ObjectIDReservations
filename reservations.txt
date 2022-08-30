@@ -4328,3 +4328,4 @@ Codeunit;11268934;2022-08-18T16:07:13;glind;PBI55032: Load Order Status via Job 
 Codeunit;11269408;2022-08-19T08:34:48;adkorte;TS57208 Floriday Doc. Pack Plan
 EnumTypeExtension;11151048;2022-08-24T11:39:01;adkorte;TS57617 SKU Job option
 Codeunit;11268935;2022-08-29T10:23:00;adkorte;TS57390 MAW VATLookup Ext. Data Hndl
+Codeunit;11268936;2022-08-30T10:52:18;adkorte;TS57390 MAW VATLook.Ext. Data Hndl
