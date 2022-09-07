@@ -4331,3 +4331,4 @@ Codeunit;11268935;2022-08-29T10:23:00;adkorte;TS57390 MAW VATLookup Ext. Data Hn
 Codeunit;11268936;2022-08-30T10:52:18;adkorte;TS57390 MAW VATLook.Ext. Data Hndl
 Report;11151125;2022-08-30T16:40:51;glind;PBI57412: Calculate Item Avail. via job queue
 PageExtension;11151090;2022-09-07T18:32:05;tversluis;MAW Phys. Inventory Journal
+Codeunit;11268937;2022-09-07T18:51:09;tversluis;MAW Calculate Inventory Per Lot
