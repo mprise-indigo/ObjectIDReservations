@@ -4332,3 +4332,4 @@ PageExtension;11151090;2022-09-07T18:32:05;tversluis;MAW Phys. Inventory Journal
 Codeunit;11268937;2022-09-07T18:51:09;tversluis;MAW Calculate Inventory Per Lot
 TableExtension;11197937;2022-09-17T22:13:36;tversluis;MAWI Work Order Result Line
 TableExtension;11197938;2022-09-17T22:15:01;tversluis;MAWI Work Order Result Line
+PageExtension;11197930;2022-09-17T22:16:02;tversluis;MAWI Work Order Result Subpage
