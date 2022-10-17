@@ -4337,3 +4337,9 @@ Report;11151126;2022-09-23T04:36:04;ssanam;TS59812_LOtReclassification
 Table;11151535;2022-09-26T12:43:02;ssanam;TS59812_LotReclassification
 Codeunit;11268938;2022-10-07T07:03:56;ssanam;TS57872_BobFields
 Codeunit;11268999;2022-10-07T11:56:27;skapoor;MAWA App Lot Mgt.
+Table;11151536;2022-10-17T15:13:33;adkorte;TS61950 Printing by API
+Page;11268759;2022-10-17T15:13:33;adkorte;TS61950 Printing by API
+Codeunit;11268939;2022-10-17T15:13:33;adkorte;TS61950 Printing by API
+Codeunit;11268940;2022-10-17T15:13:33;adkorte;TS61950 Printing by API
+Codeunit;11268941;2022-10-17T15:13:33;adkorte;TS61950 Printing by API
+EnumType;11151073;2022-10-17T15:13:33;adkorte;TS61950 Printing by API
