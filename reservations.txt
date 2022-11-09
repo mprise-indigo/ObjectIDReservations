@@ -4377,3 +4377,4 @@ Page;11268903;2022-11-08T11:13:31;ssanam;TS61410_LoadOrders
 Page;11268904;2022-11-08T11:13:51;ssanam;TS61410_LoadOrders
 Table;11269358;2022-11-08T11:23:20;ssanam;TS61410_LoadOrders
 EnumType;11151074;2022-11-09T08:55:28;damara;Cargo Carrier
+TableExtension;11151068;2022-11-09T11:04:31;damara;Cargo Carrier Extend
