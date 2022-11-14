@@ -4383,3 +4383,4 @@ TableExtension;11151069;2022-11-09T14:17:08;ssanam;TS61409_LoadOrders
 PageExtension;11151092;2022-11-09T14:19:19;ssanam;TS61409_LoadOrders
 Table;11268470;2022-11-10T07:25:30;damara;Cargo Carrier Pref
 Page;11268761;2022-11-10T07:25:30;damara;Cargo Carrier Pref
+EnumType;11151075;2022-11-14T06:40:22;damara;Cargo Carrier Pref
