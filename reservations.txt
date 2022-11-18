@@ -4412,3 +4412,4 @@ Codeunit;11268944;2022-11-17T10:30:19;glind;PBI62060: External Supply
 Codeunit;11268945;2022-11-17T10:30:19;glind;PBI62060: External Supply
 Table;11268491;2022-11-18T08:14:11;damara;61421 Load Orders
 Page;11268773;2022-11-18T08:14:11;damara;61421 Load Orders
+EnumType;11151077;2022-11-18T11:09:10;damara;61421 Load Orders
