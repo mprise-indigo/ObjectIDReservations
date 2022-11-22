@@ -4415,4 +4415,3 @@ Page;11268773;2022-11-18T08:14:11;damara;61421 Load Orders
 EnumType;11151077;2022-11-18T11:09:10;damara;61421 Load Orders
 TableExtension;11151071;2022-11-21T08:27:22;damara;Cargo Carrier Pref
 PageExtension;11151095;2022-11-21T08:27:22;damara;Cargo Carrier Pref
-Codeunit;11197875;2022-11-22T06:36:08;ssanam;TS64276_BobMideaSet
