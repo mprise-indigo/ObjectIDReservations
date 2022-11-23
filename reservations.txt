@@ -4418,3 +4418,4 @@ PageExtension;11151095;2022-11-21T08:27:22;damara;Cargo Carrier Pref
 Codeunit;11197978;2022-11-22T06:45:04;ssanam;TS64276_BobMideaSet
 Codeunit;11197979;2022-11-22T06:45:17;ssanam;TS64276_BobMideaSet
 Page;11268774;2022-11-22T13:16:39;glind;PBI62060: External Supply
+Page;11268775;2022-11-23T07:37:23;damara;61415 Load Calc Method
