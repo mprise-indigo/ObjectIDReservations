@@ -4430,3 +4430,4 @@ Codeunit;11268948;2022-11-28T10:42:37;damara;61415 Load Calc Method
 Codeunit;60458;2022-11-30T11:25:19;ssanam;TS59051_ProdForecastTA
 Page;11268778;2022-11-30T13:40:12;glind;PBI60463: Batch Sales Price Update
 Report;11151127;2022-11-30T13:40:12;glind;PBI60463: Batch Sales Price Update
+Table;11268493;2022-11-30T13:45:20;glind;PBI60463: Batch Sales Price Update
