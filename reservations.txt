@@ -4433,3 +4433,4 @@ Report;11151127;2022-11-30T13:40:12;glind;PBI60463: Batch Sales Price Update
 Table;11268493;2022-11-30T13:45:20;glind;PBI60463: Batch Sales Price Update
 Page;11268779;2022-12-02T14:37:53;tversluis;MAW Quote Photo Factbox
 Page;11197791;2022-12-05T13:13:40;tversluis;MAWE Auction Picture Factbox
+Codeunit;60457;2022-12-07T05:56:51;ssanam;TS59347_TradeItemTA
