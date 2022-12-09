@@ -4438,3 +4438,4 @@ Codeunit;60456;2022-12-07T05:57:56;ssanam;TS59347_TradeItemTA
 Report;11269044;2022-12-08T08:23:37;skapoor;MAWPA Retr. Job Pick Spec Line
 Table;11268494;2022-12-08T11:06:56;glind;PBI60463: Batch Sales Price Update
 Page;11268781;2022-12-08T11:06:56;glind;PBI60463: Batch Sales Price Update
+EnumType;11151079;2022-12-09T14:38:48;glind;PBI60465: Generate Output WO Lot
