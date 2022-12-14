@@ -4443,4 +4443,3 @@ Table;11268495;2022-12-13T11:29:23;damara;64778 Load Orders
 Page;11268782;2022-12-13T11:29:23;damara;64778 Load Orders
 EnumType;11151080;2022-12-14T09:23:05;damara;65992 Load Orders
 EnumTypeExtension;11151049;2022-12-14T09:23:48;damara;64780 Load Orders
-Codeunit;11268949;2022-12-14T13:59:57;glind;PBI60463: Batch Sales Price Update
