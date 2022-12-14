@@ -4441,3 +4441,4 @@ Page;11268781;2022-12-08T11:06:56;glind;PBI60463: Batch Sales Price Update
 EnumType;11151079;2022-12-09T14:38:48;glind;PBI60465: Generate Output WO Lot
 Table;11268495;2022-12-13T11:29:23;damara;64778 Load Orders
 Page;11268782;2022-12-13T11:29:23;damara;64778 Load Orders
+EnumType;11151080;2022-12-14T09:23:05;damara;65992 Load Orders
