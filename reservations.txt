@@ -4444,3 +4444,5 @@ Page;11268782;2022-12-13T11:29:23;damara;64778 Load Orders
 EnumType;11151080;2022-12-14T09:23:05;damara;65992 Load Orders
 EnumTypeExtension;11151049;2022-12-14T09:23:48;damara;64780 Load Orders
 Codeunit;11268998;2022-12-15T06:35:33;skapoor;MAWAApp Job Prod. Phase Mgt.
+Report;11151128;2022-12-15T14:45:21;glind;PBI64076: Parallel Item Availability Calculation
+Codeunit;11268949;2022-12-15T14:45:22;glind;PBI64076: Parallel Item Availability Calculation
