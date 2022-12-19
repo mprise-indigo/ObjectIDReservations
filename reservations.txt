@@ -4448,3 +4448,4 @@ Report;11151128;2022-12-15T14:45:21;glind;PBI64076: Parallel Item Availability C
 Codeunit;11268950;2022-12-15T15:06:51;apeek;Loading Upgrade Mgt - 65615
 Codeunit;11268951;2022-12-15T15:06:51;apeek;Loading Upgrade Mgt - 65615
 Codeunit;11269051;2022-12-19T10:26:04;skapoor;MAWA App  Reason Codes Mgt.
+Report;11269015;2022-12-19T10:30:04;skapoor;MAWA App Export Lot
