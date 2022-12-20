@@ -4450,3 +4450,7 @@ Codeunit;11268951;2022-12-15T15:06:51;apeek;Loading Upgrade Mgt - 65615
 Codeunit;11269051;2022-12-19T10:26:04;skapoor;MAWA App  Reason Codes Mgt.
 Report;11269015;2022-12-19T10:30:04;skapoor;MAWA App Export Lot
 Report;11269014;2022-12-19T10:31:55;skapoor;MAWA App Export Reason Codes
+Table;11268496;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
+Page;11268783;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
+Page;11268784;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
+Codeunit;11268949;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
