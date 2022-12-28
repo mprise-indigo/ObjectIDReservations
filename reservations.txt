@@ -4459,3 +4459,4 @@ Table;11268497;2022-12-22T11:38:29;glind;PBI62620: Sales Order Entry page
 Page;11268785;2022-12-22T11:38:29;glind;PBI62620: Sales Order Entry page
 Codeunit;11268953;2022-12-23T09:08:59;glind;PBI62620: Sales Order Entry page
 Page;11268786;2022-12-23T09:22:26;glind;PBI62620: Sales Order Entry page
+Codeunit;11269060;2022-12-28T10:30:17;skapoor;MAWA App Job Mutation Mgt.
