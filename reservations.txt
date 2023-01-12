@@ -4461,3 +4461,6 @@ Codeunit;11268953;2022-12-23T09:08:59;glind;PBI62620: Sales Order Entry page
 Page;11268786;2022-12-23T09:22:26;glind;PBI62620: Sales Order Entry page
 Codeunit;11269060;2022-12-28T10:30:17;skapoor;MAWA App Job Mutation Mgt.
 Report;11269016;2022-12-29T11:03:36;skapoor;MAWA App Export JobMutations
+EnumType;11151082;2023-01-12T11:03:52;damara;66235_Advance SP
+EnumType;11151083;2023-01-12T11:03:52;damara;66235_Advance SP
+EnumType;11151084;2023-01-12T11:03:52;damara;66235_Advance SP
