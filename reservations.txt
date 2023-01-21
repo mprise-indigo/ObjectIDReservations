@@ -4455,4 +4455,25 @@ Page;11268783;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
 Page;11268784;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
 Codeunit;11268949;2022-12-20T16:50:15;glind;PBI62620: Sales Order Entry page
 Codeunit;11268952;2022-12-21T14:27:21;tversluis;MAWL Sales Line Mgt.
+Table;11268497;2022-12-22T11:38:29;glind;PBI62620: Sales Order Entry page
+Page;11268785;2022-12-22T11:38:29;glind;PBI62620: Sales Order Entry page
+Codeunit;11268953;2022-12-23T09:08:59;glind;PBI62620: Sales Order Entry page
+Page;11268786;2022-12-23T09:22:26;glind;PBI62620: Sales Order Entry page
+Codeunit;11269060;2022-12-28T10:30:17;skapoor;MAWA App Job Mutation Mgt.
+Report;11269016;2022-12-29T11:03:36;skapoor;MAWA App Export JobMutations
+EnumType;11151082;2023-01-12T11:03:52;damara;66235_Advance SP
+EnumType;11151083;2023-01-12T11:03:52;damara;66235_Advance SP
+EnumType;11151084;2023-01-12T11:03:52;damara;66235_Advance SP
+Table;11268498;2023-01-13T10:22:55;vpanjala;62396_ASP
+Page;11268787;2023-01-13T11:45:43;vpanjala;62396_ASP
+Table;11268499;2023-01-16T07:16:00;vpanjala;62397_ASP
+Page;11268788;2023-01-16T07:17:07;vpanjala;62397_ASP
+Table;11268502;2023-01-16T07:38:03;ssanam;TS63276_AdvSalesPrice
+Page;11268789;2023-01-16T07:38:32;ssanam;TS63276_AdvSalesPrice
+EnumType;11151085;2023-01-17T10:43:02;ssanam;TS63276_AdvSalesPrice
+Table;11268503;2023-01-18T11:23:37;ssanam;TS62395_AdvSalesPrice
+Page;11268790;2023-01-18T11:24:14;ssanam;TS62395_AdvSalesPrice
+Query;11151078;2023-01-18T12:35:39;damara;66978
+Table;11268504;2023-01-20T09:49:15;glind;PBI64076: Item Availability parallel calculation
+Table;11268532;2023-01-20T09:56:07;glind;PBI64076: Item Availability parallel calculation
 You have to use AL Object ID Ninja now to reserve object ids. See https://mprise.atlassian.net/wiki/spaces/MD/pages/18055283/Laptop+Configuration+for+Product+Development#Object-reservations
